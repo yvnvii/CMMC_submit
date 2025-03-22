@@ -1,0 +1,136 @@
+"Name","Community Trust"
+"Description","Share of adults ages 18 and older who report they strongly agree or somewhat agree with the following statement: ""People in your neighborhood are willing to help their neighbors."""
+"Source Notes","NYC Department of Health and Mental Hygiene, Community Health Survey. 2015-2016 retrieved from&nbsp;<normal><a href=""https://www1.nyc.gov/site/doh/data/data-publications/profiles.page"" target=""_blank"">https://www1.nyc.gov/site/doh/data/data-publications/profiles.page</a>; 2017-18 data are unpublished.</normal>"
+"Notes","The 2017 Community Health Survey changed the wording for this question compared to 2016 and prior years. Changes over time should be interpreted with caution. Estimates are crude and not adjusted for age."
+
+Location,TimeFrame,DataFormat,Data,Fips
+New York City,2015/16,Percent,0.72,3651000
+Manhattan,2015/16,Percent,0.7,36061
+Bronx,2015/16,Percent,0.67,36005
+Brooklyn,2015/16,Percent,0.73,36047
+Queens,2015/16,Percent,0.73,36081
+Staten Island,2015/16,Percent,0.83,36085
+Battery Park/Tribeca,2015/16,Percent,0.7,101
+Greenwich Village,2015/16,Percent,0.7,102
+Lower East Side,2015/16,Percent,0.66,103
+Chelsea/Clinton,2015/16,Percent,0.66,104
+Midtown Business District,2015/16,Percent,0.66,105
+Murray Hill/Stuyvesant,2015/16,Percent,0.75,106
+Upper West Side,2015/16,Percent,0.71,107
+Upper East Side,2015/16,Percent,0.62,108
+Manhattanville,2015/16,Percent,0.73,109
+Central Harlem,2015/16,Percent,0.73,110
+East Harlem,2015/16,Percent,0.67,111
+Washington Heights,2015/16,Percent,0.8,112
+Mott Haven,2015/16,Percent,0.57,201
+Hunts Point,2015/16,Percent,0.57,202
+Morrisania,2015/16,Percent,0.62,203
+Concourse/Highbridge,2015/16,Percent,0.59,204
+University Heights,2015/16,Percent,0.65,205
+East Tremont,2015/16,Percent,0.62,206
+Bedford Park,2015/16,Percent,0.63,207
+Riverdale,2015/16,Percent,0.77,208
+Unionport/Soundview,2015/16,Percent,0.65,209
+Throgs Neck,2015/16,Percent,0.82,210
+Pelham Parkway,2015/16,Percent,0.76,211
+Williamsbridge,2015/16,Percent,0.71,212
+Williamsburg/Greenpoint,2015/16,Percent,0.77,301
+Fort Greene/Brooklyn Hts,2015/16,Percent,0.77,302
+Bedford Stuyvesant,2015/16,Percent,0.66,303
+Bushwick,2015/16,Percent,0.67,304
+East New York,2015/16,Percent,0.72,305
+Park Slope,2015/16,Percent,0.82,306
+Sunset Park,2015/16,Percent,0.69,307
+Crown Heights North,2015/16,Percent,0.69,308
+Crown Heights South,2015/16,Percent,0.75,309
+Bay Ridge,2015/16,Percent,0.74,310
+Bensonhurst,2015/16,Percent,0.67,311
+Borough Park,2015/16,Percent,0.77,312
+Coney Island,2015/16,Percent,0.77,313
+Flatbush/Midwood,2015/16,Percent,0.68,314
+Sheepshead Bay,2015/16,Percent,0.68,315
+Brownsville,2015/16,Percent,0.65,316
+East Flatbush,2015/16,Percent,0.74,317
+Canarsie,2015/16,Percent,0.8,318
+Astoria,2015/16,Percent,0.73,401
+Sunnyside/Woodside,2015/16,Percent,0.76,402
+Jackson Heights,2015/16,Percent,0.68,403
+Elmhurst/Corona,2015/16,Percent,0.65,404
+Ridgewood/Glendale,2015/16,Percent,0.77,405
+Rego Park/Forest Hills,2015/16,Percent,0.75,406
+Flushing,2015/16,Percent,0.68,407
+Fresh Meadows/Briarwood,2015/16,Percent,0.7,408
+Woodhaven,2015/16,Percent,0.7,409
+Howard Beach,2015/16,Percent,0.77,410
+Bayside,2015/16,Percent,0.86,411
+Jamaica/St. Albans,2015/16,Percent,0.76,412
+Queens Village,2015/16,Percent,0.75,413
+The Rockaways,2015/16,Percent,0.79,414
+St. George,2015/16,Percent,0.76,501
+South Beach,2015/16,Percent,0.82,502
+Tottenville,2015/16,Percent,0.86,503
+Battery Park/Tribeca,2017/18,Percent,0.81176,101
+Greenwich Village,2017/18,Percent,0.81176,102
+Lower East Side,2017/18,Percent,0.71721,103
+Chelsea/Clinton,2017/18,Percent,0.72935,104
+Midtown Business District,2017/18,Percent,0.72935,105
+Murray Hill/Stuyvesant,2017/18,Percent,0.78906,106
+Upper West Side,2017/18,Percent,0.84795,107
+Upper East Side,2017/18,Percent,0.808,108
+Manhattanville,2017/18,Percent,0.7674,109
+Central Harlem,2017/18,Percent,0.809,110
+East Harlem,2017/18,Percent,0.74444,111
+Washington Heights,2017/18,Percent,0.7518,112
+Mott Haven,2017/18,Percent,0.67164,201
+Hunts Point,2017/18,Percent,0.67164,202
+Morrisania,2017/18,Percent,0.65659,203
+Concourse/Highbridge,2017/18,Percent,0.71727,204
+University Heights,2017/18,Percent,0.6603,205
+East Tremont,2017/18,Percent,0.65659,206
+Bedford Park,2017/18,Percent,0.68153,207
+Riverdale,2017/18,Percent,0.86578,208
+Unionport/Soundview,2017/18,Percent,0.75711,209
+Throgs Neck,2017/18,Percent,0.81664,210
+Pelham Parkway,2017/18,Percent,0.70936,211
+Williamsbridge,2017/18,Percent,0.74766,212
+Williamsburg/Greenpoint,2017/18,Percent,0.78121,301
+Fort Greene/Brooklyn Hts,2017/18,Percent,0.84258,302
+Bedford Stuyvesant,2017/18,Percent,0.81361,303
+Bushwick,2017/18,Percent,0.70929,304
+East New York,2017/18,Percent,0.72878,305
+Park Slope,2017/18,Percent,0.81537,306
+Sunset Park,2017/18,Percent,0.72234,307
+Crown Heights North,2017/18,Percent,0.74467,308
+Crown Heights South,2017/18,Percent,0.82402,309
+Bay Ridge,2017/18,Percent,0.81814,310
+Bensonhurst,2017/18,Percent,0.74472,311
+Borough Park,2017/18,Percent,0.81537,312
+Coney Island,2017/18,Percent,0.71314,313
+Flatbush/Midwood,2017/18,Percent,0.80129,314
+Sheepshead Bay,2017/18,Percent,0.75502,315
+Brownsville,2017/18,Percent,0.72411,316
+East Flatbush,2017/18,Percent,0.73388,317
+Canarsie,2017/18,Percent,0.79027,318
+Astoria,2017/18,Percent,0.77443,401
+Sunnyside/Woodside,2017/18,Percent,0.8364,402
+Jackson Heights,2017/18,Percent,0.7655,403
+Elmhurst/Corona,2017/18,Percent,0.73216,404
+Ridgewood/Glendale,2017/18,Percent,0.8361,405
+Rego Park/Forest Hills,2017/18,Percent,0.78047,406
+Flushing,2017/18,Percent,0.71369,407
+Fresh Meadows/Briarwood,2017/18,Percent,0.73231,408
+Woodhaven,2017/18,Percent,0.78117,409
+Howard Beach,2017/18,Percent,0.81338,410
+Bayside,2017/18,Percent,0.77669,411
+Jamaica/St. Albans,2017/18,Percent,0.78311,412
+Queens Village,2017/18,Percent,0.84403,413
+The Rockaways,2017/18,Percent,0.8239,414
+St. George,2017/18,Percent,0.79283,501
+South Beach,2017/18,Percent,0.82994,502
+Tottenville,2017/18,Percent,0.86394,503
+Bronx,2017/18,Percent,0.72414,36005
+Brooklyn,2017/18,Percent,0.77406,36047
+Manhattan,2017/18,Percent,0.77451,36061
+Queens,2017/18,Percent,0.7844,36081
+Staten Island,2017/18,Percent,0.84472,36085
+New York City,2017/18,Percent,0.77286,3651000

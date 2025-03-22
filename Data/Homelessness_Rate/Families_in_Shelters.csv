@@ -1,0 +1,1449 @@
+"Name","Families with Children Entering Homeless Shelters (Legacy Data)"
+"Description","The number of families entering Department of Homeless Services family shelters. Community District data represent family's last Community District of residence."
+"Source Notes","New York City Department of Homeless Services, unpublished data (Fiscal Years 2005-2015); Mayor's Management Report, Department of Homeless Services (Fiscal Years 2016-2021); Retrieved from&nbsp;<a href=""https://www1.nyc.gov/site/operations/performance/mmr.page"" target=""_blank"">https://www1.nyc.gov/site/operations/performance/mmr.page</a>"
+"Notes","<strong>These data are no longer reported.</strong>&nbsp;In 2016, CCC stopped receiving these data on the Community District level. Totals for the city are reported from the Mayors Management Report. Community District level data on Families in Shelter are available in our new indicator,&nbsp;<a href=""https://data.cccnewyork.org/data/map/1308/families-in-homeless-shelters#1308/a/3/1523/25/a"" target=""_blank"">Families with Children in Homeless Shelters</a>.&nbsp;<br />
+<br />
+Rate refer to the number of families entering Department of Homeless Services family shelters per 1,000 households in that district.<br />
+<br />"
+
+Location,TimeFrame,DataFormat,Data,Fips
+New York City,2005,Rate,2.75792,3651000
+New York City,2005,Number,8346,3651000
+Manhattan,2005,Rate,1.73767,36061
+Manhattan,2005,Number,1271,36061
+Battery Park/Tribeca,2005,Number,9,101
+Battery Park/Tribeca,2005,Rate,0.35641,101
+Greenwich Village,2005,Rate,0.27669,102
+Greenwich Village,2005,Number,12,102
+Lower East Side,2005,Number,131,103
+Lower East Side,2005,Rate,1.92616,103
+Chelsea/Clinton,2005,Rate,1.20583,104
+Chelsea/Clinton,2005,Number,62,104
+Midtown Business District,2005,Number,21,105
+Midtown Business District,2005,Rate,0.83626,105
+Murray Hill/Stuyvesant,2005,Rate,0.2233,106
+Murray Hill/Stuyvesant,2005,Number,19,106
+Upper West Side,2005,Number,70,107
+Upper West Side,2005,Rate,0.67305,107
+Upper East Side,2005,Rate,0.07934,108
+Upper East Side,2005,Number,9,108
+Manhattanville,2005,Number,156,109
+Manhattanville,2005,Rate,3.33163,109
+Central Harlem,2005,Rate,6.50919,110
+Central Harlem,2005,Number,310,110
+East Harlem,2005,Number,291,111
+East Harlem,2005,Rate,6.41676,111
+Washington Heights,2005,Rate,2.38327,112
+Washington Heights,2005,Number,181,112
+Bronx,2005,Number,2975,36005
+Bronx,2005,Rate,6.35399,36005
+Mott Haven,2005,Number,329,201
+Mott Haven,2005,Rate,10.77009,201
+Hunts Point,2005,Rate,9.99501,202
+Hunts Point,2005,Number,169,202
+Morrisania,2005,Number,316,203
+Morrisania,2005,Rate,13.05002,203
+Concourse/Highbridge,2005,Rate,18.49745,204
+Concourse/Highbridge,2005,Number,463,204
+University Heights,2005,Number,411,205
+University Heights,2005,Rate,9.00013,205
+East Tremont,2005,Rate,7.03938,206
+East Tremont,2005,Number,311,206
+Bedford Park,2005,Number,236,207
+Bedford Park,2005,Rate,5.23746,207
+Riverdale,2005,Rate,1.38379,208
+Riverdale,2005,Number,55,208
+Unionport/Soundview,2005,Number,359,209
+Unionport/Soundview,2005,Rate,5.60255,209
+Throgs Neck,2005,Number,46,210
+Throgs Neck,2005,Rate,1.11017,210
+Pelham Parkway,2005,Rate,2.0847,211
+Pelham Parkway,2005,Number,92,211
+Williamsbridge,2005,Number,188,212
+Williamsbridge,2005,Rate,3.98195,212
+Brooklyn,2005,Rate,3.24315,36047
+Brooklyn,2005,Number,2861,36047
+Williamsburg/Greenpoint,2005,Rate,2.02663,301
+Williamsburg/Greenpoint,2005,Number,100,301
+Fort Greene/Brooklyn Hts,2005,Number,95,302
+Fort Greene/Brooklyn Hts,2005,Rate,1.91259,302
+Bedford Stuyvesant,2005,Rate,10.47075,303
+Bedford Stuyvesant,2005,Number,480,303
+Bushwick,2005,Number,280,304
+Bushwick,2005,Rate,7.36823,304
+East New York,2005,Rate,9.44787,305
+East New York,2005,Number,455,305
+Park Slope,2005,Number,79,306
+Park Slope,2005,Rate,1.63517,306
+Sunset Park,2005,Rate,1.27975,307
+Sunset Park,2005,Number,57,307
+Crown Heights North,2005,Number,210,308
+Crown Heights North,2005,Rate,4.35857,308
+Crown Heights South,2005,Rate,3.36048,309
+Crown Heights South,2005,Number,130,309
+Bay Ridge,2005,Number,12,310
+Bay Ridge,2005,Rate,0.24502,310
+Bensonhurst,2005,Rate,0.39894,311
+Bensonhurst,2005,Number,26,311
+Borough Park,2005,Number,30,312
+Borough Park,2005,Rate,0.65229,312
+Coney Island,2005,Rate,2.02248,313
+Coney Island,2005,Number,95,313
+Flatbush/Midwood,2005,Number,136,314
+Flatbush/Midwood,2005,Rate,2.38664,314
+Sheepshead Bay,2005,Rate,0.47451,315
+Sheepshead Bay,2005,Number,25,315
+Brownsville,2005,Number,344,316
+Brownsville,2005,Rate,8.33172,316
+East Flatbush,2005,Rate,4.1465,317
+East Flatbush,2005,Number,203,317
+Canarsie,2005,Number,104,318
+Canarsie,2005,Rate,1.61481,318
+Queens,2005,Number,843,36081
+Queens,2005,Rate,1.07729,36081
+Astoria,2005,Rate,1.12735,401
+Astoria,2005,Number,87,401
+Sunnyside/Woodside,2005,Number,14,402
+Sunnyside/Woodside,2005,Rate,0.26662,402
+Jackson Heights,2005,Rate,0.85828,403
+Jackson Heights,2005,Number,50,403
+Elmhurst/Corona,2005,Number,41,404
+Elmhurst/Corona,2005,Rate,0.90332,404
+Ridgewood/Glendale,2005,Rate,0.50216,405
+Ridgewood/Glendale,2005,Number,30,405
+Rego Park/Forest Hills,2005,Number,4,406
+Rego Park/Forest Hills,2005,Rate,0.07472,406
+Flushing,2005,Rate,0.20193,407
+Flushing,2005,Number,18,407
+Fresh Meadows/Briarwood,2005,Number,30,408
+Fresh Meadows/Briarwood,2005,Rate,0.57382,408
+Woodhaven,2005,Rate,0.9816,409
+Woodhaven,2005,Number,43,409
+Howard Beach,2005,Number,47,410
+Howard Beach,2005,Rate,1.23489,410
+Bayside,2005,Rate,0.09798,411
+Bayside,2005,Number,4,411
+Jamaica/St. Albans,2005,Number,262,412
+Jamaica/St. Albans,2005,Rate,3.75961,412
+Queens Village,2005,Rate,1.3259,413
+Queens Village,2005,Number,84,413
+The Rockaways,2005,Number,129,414
+The Rockaways,2005,Rate,3.32697,414
+Staten Island,2005,Number,129,36085
+Staten Island,2005,Rate,0.797,36085
+St. George,2005,Rate,1.6574,501
+St. George,2005,Number,99,501
+South Beach,2005,Rate,0.42273,502
+South Beach,2005,Number,21,502
+Tottenville,2005,Number,9,503
+Tottenville,2005,Rate,0.1716,503
+New York City,2006,Number,9201,3651000
+New York City,2006,Rate,3.0464,3651000
+Manhattan,2006,Rate,1.82291,36061
+Manhattan,2006,Number,1341,36061
+Battery Park/Tribeca,2006,Number,11,101
+Battery Park/Tribeca,2006,Rate,0.40982,101
+Greenwich Village,2006,Rate,0.30369,102
+Greenwich Village,2006,Number,14,102
+Lower East Side,2006,Number,151,103
+Lower East Side,2006,Rate,2.0435,103
+Chelsea/Clinton,2006,Rate,1.13002,104
+Chelsea/Clinton,2006,Number,58,104
+Midtown Business District,2006,Number,20,105
+Midtown Business District,2006,Rate,0.79784,105
+Murray Hill/Stuyvesant,2006,Rate,0.22705,106
+Murray Hill/Stuyvesant,2006,Number,18,106
+Upper West Side,2006,Number,73,107
+Upper West Side,2006,Rate,0.67645,107
+Upper East Side,2006,Rate,0.1397,108
+Upper East Side,2006,Number,16,108
+Manhattanville,2006,Number,180,109
+Manhattanville,2006,Rate,3.89164,109
+Central Harlem,2006,Rate,6.77052,110
+Central Harlem,2006,Number,329,110
+East Harlem,2006,Number,279,111
+East Harlem,2006,Rate,6.10744,111
+Washington Heights,2006,Rate,2.73688,112
+Washington Heights,2006,Number,192,112
+Bronx,2006,Number,3200,36005
+Bronx,2006,Rate,6.79638,36005
+Mott Haven,2006,Number,373,201
+Mott Haven,2006,Rate,13.72087,201
+Hunts Point,2006,Rate,12.69344,202
+Hunts Point,2006,Number,191,202
+Morrisania,2006,Number,318,203
+Morrisania,2006,Rate,12.37047,203
+Concourse/Highbridge,2006,Rate,15.95628,204
+Concourse/Highbridge,2006,Number,424,204
+University Heights,2006,Number,460,205
+University Heights,2006,Rate,9.99218,205
+East Tremont,2006,Rate,7.51315,206
+East Tremont,2006,Number,320,206
+Bedford Park,2006,Number,272,207
+Bedford Park,2006,Rate,6.01437,207
+Riverdale,2006,Rate,1.51142,208
+Riverdale,2006,Number,65,208
+Unionport/Soundview,2006,Number,387,209
+Unionport/Soundview,2006,Rate,5.93149,209
+Throgs Neck,2006,Number,53,210
+Throgs Neck,2006,Rate,1.21747,210
+Pelham Parkway,2006,Rate,2.58978,211
+Pelham Parkway,2006,Number,113,211
+Williamsbridge,2006,Number,224,212
+Williamsbridge,2006,Rate,4.76008,212
+Brooklyn,2006,Rate,3.32957,36047
+Brooklyn,2006,Number,2904,36047
+Williamsburg/Greenpoint,2006,Rate,2.31651,301
+Williamsburg/Greenpoint,2006,Number,120,301
+Fort Greene/Brooklyn Hts,2006,Number,86,302
+Fort Greene/Brooklyn Hts,2006,Rate,1.78238,302
+Bedford Stuyvesant,2006,Rate,11.39796,303
+Bedford Stuyvesant,2006,Number,483,303
+Bushwick,2006,Number,262,304
+Bushwick,2006,Rate,6.77703,304
+East New York,2006,Rate,9.73896,305
+East New York,2006,Number,485,305
+Park Slope,2006,Number,74,306
+Park Slope,2006,Rate,1.59876,306
+Sunset Park,2006,Rate,1.43155,307
+Sunset Park,2006,Number,66,307
+Crown Heights North,2006,Number,225,308
+Crown Heights North,2006,Rate,4.66553,308
+Crown Heights South,2006,Rate,3.2417,309
+Crown Heights South,2006,Number,129,309
+Bay Ridge,2006,Number,15,310
+Bay Ridge,2006,Rate,0.32025,310
+Bensonhurst,2006,Rate,0.4411,311
+Bensonhurst,2006,Number,27,311
+Borough Park,2006,Number,24,312
+Borough Park,2006,Rate,0.53284,312
+Coney Island,2006,Rate,1.87435,313
+Coney Island,2006,Number,81,313
+Flatbush/Midwood,2006,Number,130,314
+Flatbush/Midwood,2006,Rate,2.28797,314
+Sheepshead Bay,2006,Rate,0.37312,315
+Sheepshead Bay,2006,Number,21,315
+Brownsville,2006,Number,342,316
+Brownsville,2006,Rate,8.65385,316
+East Flatbush,2006,Rate,4.59338,317
+East Flatbush,2006,Number,220,317
+Canarsie,2006,Number,114,318
+Canarsie,2006,Rate,1.77939,318
+Queens,2006,Number,854,36081
+Queens,2006,Rate,1.10177,36081
+Astoria,2006,Rate,1.11601,401
+Astoria,2006,Number,86,401
+Sunnyside/Woodside,2006,Number,21,402
+Sunnyside/Woodside,2006,Rate,0.42741,402
+Jackson Heights,2006,Rate,0.8777,403
+Jackson Heights,2006,Number,47,403
+Elmhurst/Corona,2006,Number,31,404
+Elmhurst/Corona,2006,Rate,0.69308,404
+Ridgewood/Glendale,2006,Rate,0.5583,405
+Ridgewood/Glendale,2006,Number,35,405
+Rego Park/Forest Hills,2006,Number,3,406
+Rego Park/Forest Hills,2006,Rate,0.05829,406
+Flushing,2006,Rate,0.29704,407
+Flushing,2006,Number,26,407
+Fresh Meadows/Briarwood,2006,Number,26,408
+Fresh Meadows/Briarwood,2006,Rate,0.49612,408
+Woodhaven,2006,Rate,1.29879,409
+Woodhaven,2006,Number,56,409
+Howard Beach,2006,Number,49,410
+Howard Beach,2006,Rate,1.3182,410
+Bayside,2006,Rate,0.1284,411
+Bayside,2006,Number,6,411
+Jamaica/St. Albans,2006,Number,254,412
+Jamaica/St. Albans,2006,Rate,3.83298,412
+Queens Village,2006,Rate,1.33354,413
+Queens Village,2006,Number,86,413
+The Rockaways,2006,Number,128,414
+The Rockaways,2006,Rate,3.3005,414
+Staten Island,2006,Rate,0.99099,36085
+Staten Island,2006,Number,165,36085
+St. George,2006,Rate,2.40302,501
+St. George,2006,Number,146,501
+South Beach,2006,Rate,0.29796,502
+South Beach,2006,Number,14,502
+Tottenville,2006,Number,5,503
+Tottenville,2006,Rate,0.0851,503
+New York City,2007,Number,10161,3651000
+New York City,2007,Rate,3.35263,3651000
+Manhattan,2007,Rate,1.88251,36061
+Manhattan,2007,Number,1385,36061
+Battery Park/Tribeca,2007,Number,6,101
+Battery Park/Tribeca,2007,Rate,0.23048,101
+Greenwich Village,2007,Rate,0.44732,102
+Greenwich Village,2007,Number,20,102
+Lower East Side,2007,Number,164,103
+Lower East Side,2007,Rate,2.25945,103
+Chelsea/Clinton,2007,Rate,1.0599,104
+Chelsea/Clinton,2007,Number,53,104
+Midtown Business District,2007,Number,13,105
+Midtown Business District,2007,Rate,0.5323,105
+Murray Hill/Stuyvesant,2007,Rate,0.21911,106
+Murray Hill/Stuyvesant,2007,Number,18,106
+Upper West Side,2007,Number,80,107
+Upper West Side,2007,Rate,0.74183,107
+Upper East Side,2007,Rate,0.0778,108
+Upper East Side,2007,Number,9,108
+Manhattanville,2007,Number,153,109
+Manhattanville,2007,Rate,3.19476,109
+Central Harlem,2007,Rate,6.9495,110
+Central Harlem,2007,Number,344,110
+East Harlem,2007,Number,319,111
+East Harlem,2007,Rate,7.38546,111
+Washington Heights,2007,Rate,2.87296,112
+Washington Heights,2007,Number,206,112
+Bronx,2007,Number,3667,36005
+Bronx,2007,Rate,7.81134,36005
+Mott Haven,2007,Number,400,201
+Mott Haven,2007,Rate,14.03543,201
+Hunts Point,2007,Rate,14.39013,202
+Hunts Point,2007,Number,227,202
+Morrisania,2007,Number,404,203
+Morrisania,2007,Rate,16.62008,203
+Concourse/Highbridge,2007,Rate,20.37644,204
+Concourse/Highbridge,2007,Number,512,204
+University Heights,2007,Number,512,205
+University Heights,2007,Rate,11.03567,205
+East Tremont,2007,Rate,8.0749,206
+East Tremont,2007,Number,345,206
+Bedford Park,2007,Number,326,207
+Bedford Park,2007,Rate,7.57224,207
+Riverdale,2007,Rate,1.22609,208
+Riverdale,2007,Number,53,208
+Unionport/Soundview,2007,Number,418,209
+Unionport/Soundview,2007,Rate,7.01154,209
+Throgs Neck,2007,Number,70,210
+Throgs Neck,2007,Rate,1.43138,210
+Pelham Parkway,2007,Rate,2.47459,211
+Pelham Parkway,2007,Number,112,211
+Williamsbridge,2007,Number,288,212
+Williamsbridge,2007,Rate,6.18583,212
+Brooklyn,2007,Rate,3.5213,36047
+Brooklyn,2007,Number,3111,36047
+Williamsburg/Greenpoint,2007,Rate,1.8156,301
+Williamsburg/Greenpoint,2007,Number,97,301
+Fort Greene/Brooklyn Hts,2007,Number,95,302
+Fort Greene/Brooklyn Hts,2007,Rate,2.06873,302
+Bedford Stuyvesant,2007,Rate,12.45715,303
+Bedford Stuyvesant,2007,Number,556,303
+Bushwick,2007,Number,286,304
+Bushwick,2007,Rate,7.0129,304
+East New York,2007,Rate,10.45546,305
+East New York,2007,Number,511,305
+Park Slope,2007,Number,76,306
+Park Slope,2007,Rate,1.64506,306
+Sunset Park,2007,Rate,1.36013,307
+Sunset Park,2007,Number,63,307
+Crown Heights North,2007,Number,247,308
+Crown Heights North,2007,Rate,5.12406,308
+Crown Heights South,2007,Rate,3.75317,309
+Crown Heights South,2007,Number,145,309
+Bay Ridge,2007,Number,11,310
+Bay Ridge,2007,Rate,0.2181,310
+Bensonhurst,2007,Rate,0.40148,311
+Bensonhurst,2007,Number,26,311
+Borough Park,2007,Number,31,312
+Borough Park,2007,Rate,0.62857,312
+Coney Island,2007,Rate,1.82586,313
+Coney Island,2007,Number,86,313
+Flatbush/Midwood,2007,Number,154,314
+Flatbush/Midwood,2007,Rate,2.78587,314
+Sheepshead Bay,2007,Rate,0.49024,315
+Sheepshead Bay,2007,Number,26,315
+Brownsville,2007,Number,359,316
+Brownsville,2007,Rate,9.11399,316
+East Flatbush,2007,Rate,5.24249,317
+East Flatbush,2007,Number,239,317
+Canarsie,2007,Number,103,318
+Canarsie,2007,Rate,1.57063,318
+Queens,2007,Number,930,36081
+Queens,2007,Rate,1.20083,36081
+Astoria,2007,Rate,1.2142,401
+Astoria,2007,Number,87,401
+Sunnyside/Woodside,2007,Number,13,402
+Sunnyside/Woodside,2007,Rate,0.2624,402
+Jackson Heights,2007,Rate,0.98086,403
+Jackson Heights,2007,Number,54,403
+Elmhurst/Corona,2007,Number,36,404
+Elmhurst/Corona,2007,Rate,0.83558,404
+Ridgewood/Glendale,2007,Rate,0.7361,405
+Ridgewood/Glendale,2007,Number,48,405
+Rego Park/Forest Hills,2007,Number,5,406
+Rego Park/Forest Hills,2007,Rate,0.09429,406
+Flushing,2007,Rate,0.18603,407
+Flushing,2007,Number,16,407
+Fresh Meadows/Briarwood,2007,Number,36,408
+Fresh Meadows/Briarwood,2007,Rate,0.67912,408
+Woodhaven,2007,Rate,1.55335,409
+Woodhaven,2007,Number,70,409
+Howard Beach,2007,Number,44,410
+Howard Beach,2007,Rate,1.08669,410
+Bayside,2007,Rate,0.04355,411
+Bayside,2007,Number,2,411
+Jamaica/St. Albans,2007,Number,284,412
+Jamaica/St. Albans,2007,Rate,4.15965,412
+Queens Village,2007,Rate,1.41527,413
+Queens Village,2007,Number,83,413
+The Rockaways,2007,Number,152,414
+The Rockaways,2007,Rate,3.85015,414
+Staten Island,2007,Rate,0.91865,36085
+Staten Island,2007,Number,154,36085
+St. George,2007,Rate,2.30347,501
+St. George,2007,Number,141,501
+South Beach,2007,Rate,0.18604,502
+South Beach,2007,Number,9,502
+Tottenville,2007,Number,4,503
+Tottenville,2007,Rate,0.06891,503
+New York City,2008,Number,9382,3651000
+New York City,2008,Rate,3.07076,3651000
+Manhattan,2008,Rate,1.59741,36061
+Manhattan,2008,Number,1197,36061
+Battery Park/Tribeca,2008,Number,12,101
+Battery Park/Tribeca,2008,Rate,0.4468,101
+Greenwich Village,2008,Rate,0.32519,102
+Greenwich Village,2008,Number,15,102
+Lower East Side,2008,Number,155,103
+Lower East Side,2008,Rate,2.21138,103
+Chelsea/Clinton,2008,Rate,0.613,104
+Chelsea/Clinton,2008,Number,33,104
+Midtown Business District,2008,Number,11,105
+Midtown Business District,2008,Rate,0.41838,105
+Murray Hill/Stuyvesant,2008,Rate,0.16376,106
+Murray Hill/Stuyvesant,2008,Number,14,106
+Upper West Side,2008,Number,60,107
+Upper West Side,2008,Rate,0.5751,107
+Upper East Side,2008,Rate,0.11461,108
+Upper East Side,2008,Number,14,108
+Manhattanville,2008,Number,153,109
+Manhattanville,2008,Rate,3.2631,109
+Central Harlem,2008,Rate,5.4231,110
+Central Harlem,2008,Number,285,110
+East Harlem,2008,Number,274,111
+East Harlem,2008,Rate,6.20598,111
+Washington Heights,2008,Rate,2.42323,112
+Washington Heights,2008,Number,171,112
+Bronx,2008,Number,3351,36005
+Bronx,2008,Rate,7.07135,36005
+Mott Haven,2008,Number,363,201
+Mott Haven,2008,Rate,12.3994,201
+Hunts Point,2008,Rate,14.2554,202
+Hunts Point,2008,Number,231,202
+Morrisania,2008,Number,330,203
+Morrisania,2008,Rate,13.44984,203
+Concourse/Highbridge,2008,Rate,17.70338,204
+Concourse/Highbridge,2008,Number,449,204
+University Heights,2008,Number,448,205
+University Heights,2008,Rate,9.61828,205
+East Tremont,2008,Rate,8.70107,206
+East Tremont,2008,Number,349,206
+Bedford Park,2008,Number,269,207
+Bedford Park,2008,Rate,6.27113,207
+Riverdale,2008,Rate,1.55007,208
+Riverdale,2008,Number,69,208
+Unionport/Soundview,2008,Number,412,209
+Unionport/Soundview,2008,Rate,6.47911,209
+Throgs Neck,2008,Number,55,210
+Throgs Neck,2008,Rate,1.1599,210
+Pelham Parkway,2008,Rate,2.25572,211
+Pelham Parkway,2008,Number,104,211
+Williamsbridge,2008,Number,272,212
+Williamsbridge,2008,Rate,5.75089,212
+Brooklyn,2008,Rate,3.17986,36047
+Brooklyn,2008,Number,2825,36047
+Williamsburg/Greenpoint,2008,Rate,1.85586,301
+Williamsburg/Greenpoint,2008,Number,97,301
+Fort Greene/Brooklyn Hts,2008,Number,77,302
+Fort Greene/Brooklyn Hts,2008,Rate,1.54086,302
+Bedford Stuyvesant,2008,Rate,11.1401,303
+Bedford Stuyvesant,2008,Number,521,303
+Bushwick,2008,Number,278,304
+Bushwick,2008,Rate,7.07649,304
+East New York,2008,Rate,9.43877,305
+East New York,2008,Number,482,305
+Park Slope,2008,Number,59,306
+Park Slope,2008,Rate,1.17734,306
+Sunset Park,2008,Rate,1.26923,307
+Sunset Park,2008,Number,58,307
+Crown Heights North,2008,Number,231,308
+Crown Heights North,2008,Rate,4.89853,308
+Crown Heights South,2008,Rate,2.34672,309
+Crown Heights South,2008,Number,95,309
+Bay Ridge,2008,Number,15,310
+Bay Ridge,2008,Rate,0.30864,310
+Bensonhurst,2008,Rate,0.25367,311
+Bensonhurst,2008,Number,16,311
+Borough Park,2008,Number,33,312
+Borough Park,2008,Rate,0.68069,312
+Coney Island,2008,Rate,1.86156,313
+Coney Island,2008,Number,81,313
+Flatbush/Midwood,2008,Number,128,314
+Flatbush/Midwood,2008,Rate,2.16957,314
+Sheepshead Bay,2008,Rate,0.44343,315
+Sheepshead Bay,2008,Number,24,315
+Brownsville,2008,Number,313,316
+Brownsville,2008,Rate,8.23793,316
+East Flatbush,2008,Rate,4.59697,317
+East Flatbush,2008,Number,217,317
+Canarsie,2008,Number,100,318
+Canarsie,2008,Rate,1.57211,318
+Queens,2008,Number,889,36081
+Queens,2008,Rate,1.14381,36081
+Astoria,2008,Rate,0.95247,401
+Astoria,2008,Number,72,401
+Sunnyside/Woodside,2008,Number,16,402
+Sunnyside/Woodside,2008,Rate,0.33102,402
+Jackson Heights,2008,Rate,0.67606,403
+Jackson Heights,2008,Number,39,403
+Elmhurst/Corona,2008,Number,20,404
+Elmhurst/Corona,2008,Rate,0.45267,404
+Ridgewood/Glendale,2008,Rate,0.6855,405
+Ridgewood/Glendale,2008,Number,42,405
+Rego Park/Forest Hills,2008,Number,3,406
+Rego Park/Forest Hills,2008,Rate,0.05888,406
+Flushing,2008,Rate,0.23974,407
+Flushing,2008,Number,21,407
+Fresh Meadows/Briarwood,2008,Number,19,408
+Fresh Meadows/Briarwood,2008,Rate,0.37059,408
+Woodhaven,2008,Rate,1.80196,409
+Woodhaven,2008,Number,82,409
+Howard Beach,2008,Number,52,410
+Howard Beach,2008,Rate,1.26848,410
+Bayside,2008,Rate,0.04457,411
+Bayside,2008,Number,2,411
+Jamaica/St. Albans,2008,Number,283,412
+Jamaica/St. Albans,2008,Rate,4.15999,412
+Queens Village,2008,Rate,1.39607,413
+Queens Village,2008,Number,84,413
+The Rockaways,2008,Number,154,414
+The Rockaways,2008,Rate,3.77757,414
+Staten Island,2008,Rate,1.06955,36085
+Staten Island,2008,Number,178,36085
+St. George,2008,Rate,2.52777,501
+St. George,2008,Number,157,501
+South Beach,2008,Rate,0.33271,502
+South Beach,2008,Number,16,502
+Tottenville,2008,Number,5,503
+Tottenville,2008,Rate,0.08893,503
+New York City,2009,Number,12313,3651000
+New York City,2009,Rate,3.98802,3651000
+Manhattan,2009,Rate,1.94244,36061
+Manhattan,2009,Number,1455.63377,36061
+Battery Park/Tribeca,2009,Number,4.31619,101
+Battery Park/Tribeca,2009,Rate,0.15663,101
+Greenwich Village,2009,Rate,0.22799,102
+Greenwich Village,2009,Number,10.79047,102
+Lower East Side,2009,Number,165.09412,103
+Lower East Side,2009,Rate,2.35694,103
+Chelsea/Clinton,2009,Rate,0.89129,104
+Chelsea/Clinton,2009,Number,48.55709,104
+Midtown Business District,2009,Number,8.63237,105
+Midtown Business District,2009,Rate,0.32443,105
+Murray Hill/Stuyvesant,2009,Rate,0.20545,106
+Murray Hill/Stuyvesant,2009,Number,17.26475,106
+Upper West Side,2009,Number,89.56086,107
+Upper West Side,2009,Rate,0.83247,107
+Upper East Side,2009,Rate,0.12959,108
+Upper East Side,2009,Number,16.1857,108
+Manhattanville,2009,Number,196.38647,109
+Manhattanville,2009,Rate,4.32932,109
+Central Harlem,2009,Rate,7.15283,110
+Central Harlem,2009,Number,359.3225,110
+East Harlem,2009,Number,325.87205,111
+East Harlem,2009,Rate,7.95703,111
+Washington Heights,2009,Rate,3.03922,112
+Washington Heights,2009,Number,213.65121,112
+Bronx,2009,Number,4521.20498,36005
+Bronx,2009,Rate,9.46146,36005
+Mott Haven,2009,Number,471.54334,201
+Mott Haven,2009,Rate,15.66646,201
+Hunts Point,2009,Rate,16.25685,202
+Hunts Point,2009,Number,270.84068,202
+Morrisania,2009,Number,493.12427,203
+Morrisania,2009,Rate,19.53152,203
+Concourse/Highbridge,2009,Rate,23.02935,204
+Concourse/Highbridge,2009,Number,601.02892,204
+University Heights,2009,Number,592.39655,205
+University Heights,2009,Rate,13.0769,205
+East Tremont,2009,Rate,9.86401,206
+East Tremont,2009,Number,445.64622,206
+Bedford Park,2009,Number,416.51196,207
+Bedford Park,2009,Rate,9.36466,207
+Riverdale,2009,Rate,1.73423,208
+Riverdale,2009,Number,73.37516,208
+Unionport/Soundview,2009,Number,516.86329,209
+Unionport/Soundview,2009,Rate,8.14779,209
+Throgs Neck,2009,Number,98.19324,210
+Throgs Neck,2009,Rate,2.12894,210
+Pelham Parkway,2009,Rate,3.56334,211
+Pelham Parkway,2009,Number,160.77793,211
+Williamsbridge,2009,Number,380.90343,212
+Williamsbridge,2009,Rate,7.96802,212
+Brooklyn,2009,Rate,4.00913,36047
+Brooklyn,2009,Number,3609.41066,36047
+Williamsburg/Greenpoint,2009,Rate,2.38934,301
+Williamsburg/Greenpoint,2009,Number,129.48558,301
+Fort Greene/Brooklyn Hts,2009,Number,83.08658,302
+Fort Greene/Brooklyn Hts,2009,Rate,1.56387,302
+Bedford Stuyvesant,2009,Rate,12.84379,303
+Bedford Stuyvesant,2009,Number,577.2899,303
+Bushwick,2009,Number,329.10919,304
+Bushwick,2009,Rate,7.93531,304
+East New York,2009,Rate,12.77129,305
+East New York,2009,Number,647.42792,305
+Park Slope,2009,Number,61.50565,306
+Park Slope,2009,Rate,1.26119,306
+Sunset Park,2009,Rate,1.30336,307
+Sunset Park,2009,Number,62.5847,307
+Crown Heights North,2009,Number,277.31496,308
+Crown Heights North,2009,Rate,5.53755,308
+Crown Heights South,2009,Rate,3.89312,309
+Crown Heights South,2009,Number,154.30365,309
+Bay Ridge,2009,Number,23.73902,310
+Bay Ridge,2009,Rate,0.50174,310
+Bensonhurst,2009,Rate,0.4724,311
+Bensonhurst,2009,Number,28.05521,311
+Borough Park,2009,Number,39.92472,312
+Borough Park,2009,Rate,0.84534,312
+Coney Island,2009,Rate,2.55368,313
+Coney Island,2009,Number,118.69512,313
+Flatbush/Midwood,2009,Number,155.3827,314
+Flatbush/Midwood,2009,Rate,2.80621,314
+Sheepshead Bay,2009,Rate,0.52145,315
+Sheepshead Bay,2009,Number,29.13426,315
+Brownsville,2009,Number,454.27859,316
+Brownsville,2009,Rate,10.92751,316
+East Flatbush,2009,Rate,6.20478,317
+East Flatbush,2009,Number,297.81684,317
+Canarsie,2009,Number,140.27605,318
+Canarsie,2009,Rate,2.05877,318
+Queens,2009,Number,1263.56349,36081
+Queens,2009,Rate,1.59407,36081
+Astoria,2009,Rate,1.04744,401
+Astoria,2009,Number,80.92849,401
+Sunnyside/Woodside,2009,Number,24.81807,402
+Sunnyside/Woodside,2009,Rate,0.49233,402
+Jackson Heights,2009,Rate,1.28291,403
+Jackson Heights,2009,Number,69.05898,403
+Elmhurst/Corona,2009,Number,43.16186,404
+Elmhurst/Corona,2009,Rate,0.97808,404
+Ridgewood/Glendale,2009,Rate,0.96289,405
+Ridgewood/Glendale,2009,Number,62.5847,405
+Rego Park/Forest Hills,2009,Number,7.55333,406
+Rego Park/Forest Hills,2009,Rate,0.14385,406
+Flushing,2009,Rate,0.27364,407
+Flushing,2009,Number,25.89712,407
+Fresh Meadows/Briarwood,2009,Number,33.45044,408
+Fresh Meadows/Briarwood,2009,Rate,0.58619,408
+Woodhaven,2009,Rate,2.41819,409
+Woodhaven,2009,Number,107.90465,409
+Howard Beach,2009,Number,49.63614,410
+Howard Beach,2009,Rate,1.30368,410
+Bayside,2009,Rate,0.04808,411
+Bayside,2009,Number,2.15809,411
+Jamaica/St. Albans,2009,Number,403.5634,412
+Jamaica/St. Albans,2009,Rate,5.99524,412
+Queens Village,2009,Rate,1.8214,413
+Queens Village,2009,Number,113.29989,413
+The Rockaways,2009,Number,239.54833,414
+The Rockaways,2009,Rate,5.8821,414
+Staten Island,2009,Rate,1.54152,36085
+Staten Island,2009,Number,257.89212,36085
+St. George,2009,Rate,3.57231,501
+St. George,2009,Number,221.20454,501
+South Beach,2009,Rate,0.50169,502
+South Beach,2009,Number,24.81807,502
+Tottenville,2009,Number,11.86951,503
+Tottenville,2009,Rate,0.21231,503
+New York City,2010,Number,13485,3651000
+New York City,2010,Rate,4.33631,3651000
+Manhattan,2010,Rate,2.08111,36061
+Manhattan,2010,Number,1589.64777,36061
+Battery Park/Tribeca,2010,Number,3.17718,101
+Battery Park/Tribeca,2010,Rate,0.1075,101
+Greenwich Village,2010,Rate,0.22951,102
+Greenwich Village,2010,Number,11.64965,102
+Lower East Side,2010,Number,170.50852,103
+Lower East Side,2010,Rate,2.36492,103
+Chelsea/Clinton,2010,Rate,0.71114,104
+Chelsea/Clinton,2010,Number,43.42143,104
+Midtown Business District,2010,Number,10.59059,105
+Midtown Business District,2010,Rate,0.35514,105
+Murray Hill/Stuyvesant,2010,Rate,0.21922,106
+Murray Hill/Stuyvesant,2010,Number,18.00401,106
+Upper West Side,2010,Number,98.4925,107
+Upper West Side,2010,Rate,0.90312,107
+Upper East Side,2010,Rate,0.12336,108
+Upper East Side,2010,Number,14.82683,108
+Manhattanville,2010,Number,186.39441,109
+Manhattanville,2010,Rate,4.6767,109
+Central Harlem,2010,Rate,8.16629,110
+Central Harlem,2010,Number,405.61965,110
+East Harlem,2010,Number,398.20624,111
+East Harlem,2010,Rate,8.45287,111
+Washington Heights,2010,Rate,3.30659,112
+Washington Heights,2010,Number,228.75677,112
+Bronx,2010,Number,4902.38475,36005
+Bronx,2010,Rate,10.14044,36005
+Mott Haven,2010,Number,505.17121,201
+Mott Haven,2010,Rate,16.89536,201
+Hunts Point,2010,Rate,18.0456,202
+Hunts Point,2010,Number,298.65468,202
+Morrisania,2010,Number,485.04909,203
+Morrisania,2010,Rate,18.26239,203
+Concourse/Highbridge,2010,Rate,12.8501,204
+Concourse/Highbridge,2010,Number,633.31736,204
+University Heights,2010,Number,618.49054,205
+University Heights,2010,Rate,15.10503,205
+East Tremont,2010,Rate,16.77985,206
+East Tremont,2010,Number,460.69073,206
+Bedford Park,2010,Number,457.51355,207
+Bedford Park,2010,Rate,9.6189,207
+Riverdale,2010,Rate,2.35717,208
+Riverdale,2010,Number,97.43344,208
+Unionport/Soundview,2010,Number,595.19124,209
+Unionport/Soundview,2010,Rate,9.66063,209
+Throgs Neck,2010,Number,121.7918,210
+Throgs Neck,2010,Rate,2.44464,210
+Pelham Parkway,2010,Rate,4.62068,211
+Pelham Parkway,2010,Number,190.63065,211
+Williamsbridge,2010,Number,438.45048,212
+Williamsbridge,2010,Rate,8.16177,212
+Brooklyn,2010,Rate,4.25423,36047
+Brooklyn,2010,Number,3900.5148,36047
+Williamsburg/Greenpoint,2010,Rate,1.78542,301
+Williamsburg/Greenpoint,2010,Number,117.55556,301
+Fort Greene/Brooklyn Hts,2010,Number,90.02003,302
+Fort Greene/Brooklyn Hts,2010,Rate,1.98623,302
+Bedford Stuyvesant,2010,Rate,10.74716,303
+Bedford Stuyvesant,2010,Number,625.90395,303
+Bushwick,2010,Number,327.24927,304
+Bushwick,2010,Rate,8.96401,304
+East New York,2010,Rate,11.87255,305
+East New York,2010,Number,716.98304,305
+Park Slope,2010,Number,82.60661,306
+Park Slope,2010,Rate,1.75059,306
+Sunset Park,2010,Rate,2.06295,307
+Sunset Park,2010,Number,82.60661,307
+Crown Heights North,2010,Number,290.1822,308
+Crown Heights North,2010,Rate,7.2815,308
+Crown Heights South,2010,Rate,4.83077,309
+Crown Heights South,2010,Number,177.92194,309
+Bay Ridge,2010,Number,20.12212,310
+Bay Ridge,2010,Rate,0.39428,310
+Bensonhurst,2010,Rate,0.6194,311
+Bensonhurst,2010,Number,40.24425,311
+Borough Park,2010,Number,27.53554,312
+Borough Park,2010,Rate,0.49036,312
+Coney Island,2010,Rate,2.60175,313
+Coney Island,2010,Number,113.31933,313
+Flatbush/Midwood,2010,Number,202.2803,314
+Flatbush/Midwood,2010,Rate,3.55802,314
+Sheepshead Bay,2010,Rate,0.54874,315
+Sheepshead Bay,2010,Number,33.88989,315
+Brownsville,2010,Number,476.57661,316
+Brownsville,2010,Rate,15.55965,316
+East Flatbush,2010,Rate,5.69827,317
+East Flatbush,2010,Number,316.65868,317
+Canarsie,2010,Number,158.85887,318
+Canarsie,2010,Rate,2.40448,318
+Queens,2010,Number,1446.67478,36081
+Queens,2010,Rate,1.85443,36081
+Astoria,2010,Rate,1.47873,401
+Astoria,2010,Number,113.31933,401
+Sunnyside/Woodside,2010,Number,22.24024,402
+Sunnyside/Woodside,2010,Rate,0.51302,402
+Jackson Heights,2010,Rate,1.45509,403
+Jackson Heights,2010,Number,76.25226,403
+Elmhurst/Corona,2010,Number,56.13013,404
+Elmhurst/Corona,2010,Rate,1.0886,404
+Ridgewood/Glendale,2010,Rate,0.96026,405
+Ridgewood/Glendale,2010,Number,59.30731,405
+Rego Park/Forest Hills,2010,Number,3.17718,406
+Rego Park/Forest Hills,2010,Rate,0.06087,406
+Flushing,2010,Rate,0.45094,407
+Flushing,2010,Number,40.24425,407
+Fresh Meadows/Briarwood,2010,Number,40.24425,408
+Fresh Meadows/Briarwood,2010,Rate,0.74072,408
+Woodhaven,2010,Rate,2.38708,409
+Woodhaven,2010,Number,106.96497,409
+Howard Beach,2010,Number,59.30731,410
+Howard Beach,2010,Rate,1.51875,410
+Bayside,2010,Rate,0.14559,411
+Bayside,2010,Number,6.35436,411
+Jamaica/St. Albans,2010,Number,482.93097,412
+Jamaica/St. Albans,2010,Rate,6.83583,412
+Queens Village,2010,Rate,2.14787,413
+Queens Village,2010,Number,128.14616,413
+The Rockaways,2010,Number,252.05608,414
+The Rockaways,2010,Rate,6.23469,414
+Staten Island,2010,Rate,1.83638,36085
+Staten Island,2010,Number,303.94997,36085
+St. George,2010,Rate,4.48754,501
+St. George,2010,Number,272.1782,501
+South Beach,2010,Rate,0.44698,502
+South Beach,2010,Number,21.18118,502
+Tottenville,2010,Number,10.59059,503
+Tottenville,2010,Rate,0.18499,503
+New York City,2011,Number,11259,3651000
+New York City,2011,Rate,3.72404,3651000
+Manhattan,2011,Rate,1.6616,36061
+Manhattan,2011,Number,1210.50887,36061
+Battery Park/Tribeca,2011,Number,6.33774,101
+Battery Park/Tribeca,2011,Rate,0.22725,101
+Greenwich Village,2011,Rate,0.15437,102
+Greenwich Village,2011,Number,7.39403,102
+Lower East Side,2011,Number,123.58598,103
+Lower East Side,2011,Rate,1.75019,103
+Chelsea/Clinton,2011,Rate,0.70489,104
+Chelsea/Clinton,2011,Number,39.08275,104
+Midtown Business District,2011,Number,11.6192,105
+Midtown Business District,2011,Rate,0.42908,105
+Murray Hill/Stuyvesant,2011,Rate,0.19712,106
+Murray Hill/Stuyvesant,2011,Number,15.84436,106
+Upper West Side,2011,Number,59.15227,107
+Upper West Side,2011,Rate,0.60934,107
+Upper East Side,2011,Rate,0.11563,108
+Upper East Side,2011,Number,12.67549,108
+Manhattanville,2011,Number,159.49986,109
+Manhattanville,2011,Rate,3.44619,109
+Central Harlem,2011,Rate,6.19262,110
+Central Harlem,2011,Number,321.1123,110
+East Harlem,2011,Number,276.7481,111
+East Harlem,2011,Rate,6.18556,111
+Washington Heights,2011,Rate,2.54839,112
+Washington Heights,2011,Number,177.4568,112
+Bronx,2011,Number,4106.8573,36005
+Bronx,2011,Rate,8.79153,36005
+Mott Haven,2011,Number,392.94005,201
+Mott Haven,2011,Rate,12.68572,201
+Hunts Point,2011,Rate,14.41655,202
+Hunts Point,2011,Number,247.17197,202
+Morrisania,2011,Number,439.41683,203
+Morrisania,2011,Rate,16.99357,203
+Concourse/Highbridge,2011,Rate,20.27287,204
+Concourse/Highbridge,2011,Number,541.87701,204
+University Heights,2011,Number,586.24121,205
+University Heights,2011,Rate,12.76324,205
+East Tremont,2011,Rate,9.39128,206
+East Tremont,2011,Number,413.00957,206
+Bedford Park,2011,Number,334.84408,207
+Bedford Park,2011,Rate,8.48867,207
+Riverdale,2011,Rate,1.76823,208
+Riverdale,2011,Number,70.77146,208
+Unionport/Soundview,2011,Number,448.92345,209
+Unionport/Soundview,2011,Rate,7.31909,209
+Throgs Neck,2011,Number,89.78469,210
+Throgs Neck,2011,Rate,1.95214,210
+Pelham Parkway,2011,Rate,3.93488,211
+Pelham Parkway,2011,Number,166.89389,211
+Williamsbridge,2011,Number,374.98311,212
+Williamsbridge,2011,Rate,7.92642,212
+Brooklyn,2011,Rate,3.68328,36047
+Brooklyn,2011,Number,3318.86462,36047
+Williamsburg/Greenpoint,2011,Rate,1.74742,301
+Williamsburg/Greenpoint,2011,Number,102.46018,301
+Fort Greene/Brooklyn Hts,2011,Number,77.1092,302
+Fort Greene/Brooklyn Hts,2011,Rate,1.48975,302
+Bedford Stuyvesant,2011,Rate,11.64533,303
+Bedford Stuyvesant,2011,Number,540.82072,303
+Bushwick,2011,Number,277.80439,304
+Bushwick,2011,Rate,6.41284,304
+East New York,2011,Rate,11.67255,305
+East New York,2011,Number,573.56572,305
+Park Slope,2011,Number,63.37743,306
+Park Slope,2011,Rate,1.34765,306
+Sunset Park,2011,Rate,1.38311,307
+Sunset Park,2011,Number,65.49001,307
+Crown Heights North,2011,Number,257.73487,308
+Crown Heights North,2011,Rate,5.25872,308
+Crown Heights South,2011,Rate,4.20145,309
+Crown Heights South,2011,Number,172.17535,309
+Bay Ridge,2011,Number,25.35097,310
+Bay Ridge,2011,Rate,0.51013,310
+Bensonhurst,2011,Rate,0.38335,311
+Bensonhurst,2011,Number,23.23839,311
+Borough Park,2011,Number,29.57613,312
+Borough Park,2011,Rate,0.64819,312
+Coney Island,2011,Rate,1.95326,313
+Coney Island,2011,Number,87.67211,313
+Flatbush/Midwood,2011,Number,128.86744,314
+Flatbush/Midwood,2011,Rate,2.24617,314
+Sheepshead Bay,2011,Rate,0.54434,315
+Sheepshead Bay,2011,Number,29.57613,315
+Brownsville,2011,Number,424.62876,316
+Brownsville,2011,Rate,9.86981,316
+East Flatbush,2011,Rate,6.24395,317
+East Flatbush,2011,Number,291.53617,317
+Canarsie,2011,Number,147.88066,318
+Canarsie,2011,Rate,2.26985,318
+Queens,2011,Number,1271.77371,36081
+Queens,2011,Rate,1.66283,36081
+Astoria,2011,Rate,1.15931,401
+Astoria,2011,Number,82.39066,401
+Sunnyside/Woodside,2011,Number,16.90065,402
+Sunnyside/Woodside,2011,Rate,0.334,402
+Jackson Heights,2011,Rate,1.1075,403
+Jackson Heights,2011,Number,61.26485,403
+Elmhurst/Corona,2011,Number,44.3642,404
+Elmhurst/Corona,2011,Rate,1.05478,404
+Ridgewood/Glendale,2011,Rate,0.65602,405
+Ridgewood/Glendale,2011,Number,41.19533,405
+Rego Park/Forest Hills,2011,Number,10.56291,406
+Rego Park/Forest Hills,2011,Rate,0.20255,406
+Flushing,2011,Rate,0.39258,407
+Flushing,2011,Number,33.8013,407
+Fresh Meadows/Briarwood,2011,Number,30.63242,408
+Fresh Meadows/Briarwood,2011,Rate,0.59323,408
+Woodhaven,2011,Rate,2.26346,409
+Woodhaven,2011,Number,105.62905,409
+Howard Beach,2011,Number,77.1092,410
+Howard Beach,2011,Rate,1.94681,410
+Bayside,2011,Rate,0.1226,411
+Bayside,2011,Number,5.28145,411
+Jamaica/St. Albans,2011,Number,426.74135,412
+Jamaica/St. Albans,2011,Rate,6.15123,412
+Queens Village,2011,Rate,1.8369,413
+Queens Village,2011,Number,107.74163,413
+The Rockaways,2011,Number,228.15874,414
+The Rockaways,2011,Rate,6.38903,414
+Staten Island,2011,Rate,1.60613,36085
+Staten Island,2011,Number,259.84745,36085
+St. George,2011,Rate,3.90797,501
+St. George,2011,Number,224.98987,501
+South Beach,2011,Rate,0.43228,502
+South Beach,2011,Number,20.06952,502
+Tottenville,2011,Number,14.78807,503
+Tottenville,2011,Rate,0.25591,503
+New York City,2012,Number,10029,3651000
+New York City,2012,Rate,3.25003,3651000
+Manhattan,2012,Rate,1.38479,36061
+Manhattan,2012,Number,1034,36061
+Battery Park/Tribeca,2012,Number,2,101
+Battery Park/Tribeca,2012,Rate,0.06551,101
+Greenwich Village,2012,Rate,0,102
+Greenwich Village,2012,Number,0,102
+Lower East Side,2012,Number,61,103
+Lower East Side,2012,Rate,0.85872,103
+Chelsea/Clinton,2012,Rate,0.3396,104
+Chelsea/Clinton,2012,Number,19,104
+Midtown Business District,2012,Number,14,105
+Midtown Business District,2012,Rate,0.49997,105
+Murray Hill/Stuyvesant,2012,Rate,0.08802,106
+Murray Hill/Stuyvesant,2012,Number,7,106
+Upper West Side,2012,Number,32,107
+Upper West Side,2012,Rate,0.31589,107
+Upper East Side,2012,Rate,0.03364,108
+Upper East Side,2012,Number,4,108
+Manhattanville,2012,Number,66,109
+Manhattanville,2012,Rate,1.42358,109
+Central Harlem,2012,Rate,2.0567,110
+Central Harlem,2012,Number,107,110
+East Harlem,2012,Number,104,111
+East Harlem,2012,Rate,2.29717,111
+Washington Heights,2012,Rate,1.01762,112
+Washington Heights,2012,Number,74,112
+Bronx,2012,Number,3732,36005
+Bronx,2012,Rate,7.8407,36005
+Mott Haven,2012,Number,151,201
+Mott Haven,2012,Rate,4.8328,201
+Hunts Point,2012,Rate,6.27761,202
+Hunts Point,2012,Number,112,202
+Morrisania,2012,Number,156,203
+Morrisania,2012,Rate,5.83571,203
+Concourse/Highbridge,2012,Rate,5.32524,204
+Concourse/Highbridge,2012,Number,251,204
+University Heights,2012,Number,230,205
+University Heights,2012,Rate,5.30284,205
+East Tremont,2012,Rate,6.84416,206
+East Tremont,2012,Number,191,206
+Bedford Park,2012,Number,138,207
+Bedford Park,2012,Rate,3.1842,207
+Riverdale,2012,Rate,0.56324,208
+Riverdale,2012,Number,23,208
+Unionport/Soundview,2012,Number,190,209
+Unionport/Soundview,2012,Rate,3.09658,209
+Throgs Neck,2012,Number,32,210
+Throgs Neck,2012,Rate,0.71701,210
+Pelham Parkway,2012,Rate,1.60336,211
+Pelham Parkway,2012,Number,71,211
+Williamsbridge,2012,Number,196,212
+Williamsbridge,2012,Rate,4.14359,212
+Brooklyn,2012,Rate,3.1425,36047
+Brooklyn,2012,Number,2889,36047
+Williamsburg/Greenpoint,2012,Rate,0.63288,301
+Williamsburg/Greenpoint,2012,Number,38,301
+Fort Greene/Brooklyn Hts,2012,Number,32,302
+Fort Greene/Brooklyn Hts,2012,Rate,0.59279,302
+Bedford Stuyvesant,2012,Rate,4.78106,303
+Bedford Stuyvesant,2012,Number,246,303
+Bushwick,2012,Number,117,304
+Bushwick,2012,Rate,2.56562,304
+East New York,2012,Rate,5.83486,305
+East New York,2012,Number,297,305
+Park Slope,2012,Number,19,306
+Park Slope,2012,Rate,0.3949,306
+Sunset Park,2012,Rate,0.5502,307
+Sunset Park,2012,Number,25,307
+Crown Heights North,2012,Number,111,308
+Crown Heights North,2012,Rate,2.21982,308
+Crown Heights South,2012,Rate,1.63411,309
+Crown Heights South,2012,Number,66,309
+Bay Ridge,2012,Number,4,310
+Bay Ridge,2012,Rate,0.08256,310
+Bensonhurst,2012,Rate,0.23471,311
+Bensonhurst,2012,Number,15,311
+Borough Park,2012,Number,11,312
+Borough Park,2012,Rate,0.23508,312
+Coney Island,2012,Rate,0.79758,313
+Coney Island,2012,Number,34,313
+Flatbush/Midwood,2012,Number,57,314
+Flatbush/Midwood,2012,Rate,1.03708,314
+Sheepshead Bay,2012,Rate,0.329,315
+Sheepshead Bay,2012,Number,19,315
+Brownsville,2012,Number,163,316
+Brownsville,2012,Rate,3.84162,316
+East Flatbush,2012,Rate,2.85602,317
+East Flatbush,2012,Number,138,317
+Canarsie,2012,Number,60,318
+Canarsie,2012,Rate,0.88027,318
+Queens,2012,Number,1198,36081
+Queens,2012,Rate,1.53521,36081
+Astoria,2012,Rate,0.38402,401
+Astoria,2012,Number,28,401
+Sunnyside/Woodside,2012,Number,7,402
+Sunnyside/Woodside,2012,Rate,0.1321,402
+Jackson Heights,2012,Rate,0.46518,403
+Jackson Heights,2012,Number,26,403
+Elmhurst/Corona,2012,Number,12,404
+Elmhurst/Corona,2012,Rate,0.26673,404
+Ridgewood/Glendale,2012,Rate,0.42231,405
+Ridgewood/Glendale,2012,Number,26,405
+Rego Park/Forest Hills,2012,Number,3,406
+Rego Park/Forest Hills,2012,Rate,0.05672,406
+Flushing,2012,Rate,0.12606,407
+Flushing,2012,Number,11,407
+Fresh Meadows/Briarwood,2012,Number,13,408
+Fresh Meadows/Briarwood,2012,Rate,0.23958,408
+Woodhaven,2012,Rate,1.02048,409
+Woodhaven,2012,Number,44,409
+Howard Beach,2012,Number,27,410
+Howard Beach,2012,Rate,0.67695,410
+Bayside,2012,Rate,0.04505,411
+Bayside,2012,Number,2,411
+Jamaica/St. Albans,2012,Number,167,412
+Jamaica/St. Albans,2012,Rate,2.39186,412
+Queens Village,2012,Rate,0.99513,413
+Queens Village,2012,Number,59,413
+The Rockaways,2012,Number,87,414
+The Rockaways,2012,Rate,2.11736,414
+Staten Island,2012,Rate,1.57829,36085
+Staten Island,2012,Number,258,36085
+St. George,2012,Rate,1.73546,501
+St. George,2012,Number,106,501
+South Beach,2012,Rate,0.17328,502
+South Beach,2012,Number,8,502
+Tottenville,2012,Number,5,503
+Tottenville,2012,Rate,0.08893,503
+New York City,2013,Number,10959,3651000
+New York City,2013,Rate,3.55251,3651000
+Manhattan,2013,Rate,1.56535,36061
+Manhattan,2013,Number,1137,36061
+Battery Park/Tribeca,2013,Number,7,101
+Battery Park/Tribeca,2013,Rate,0.22279,101
+Greenwich Village,2013,Rate,0.06468,102
+Greenwich Village,2013,Number,3,102
+Lower East Side,2013,Number,116,103
+Lower East Side,2013,Rate,1.72299,103
+Chelsea/Clinton,2013,Rate,0.58615,104
+Chelsea/Clinton,2013,Number,31,104
+Midtown Business District,2013,Number,19,105
+Midtown Business District,2013,Rate,0.71781,105
+Murray Hill/Stuyvesant,2013,Rate,0.18193,106
+Murray Hill/Stuyvesant,2013,Number,14,106
+Upper West Side,2013,Number,58,107
+Upper West Side,2013,Rate,0.62493,107
+Upper East Side,2013,Rate,0.12928,108
+Upper East Side,2013,Number,15,108
+Manhattanville,2013,Number,109,109
+Manhattanville,2013,Rate,2.41252,109
+Central Harlem,2013,Rate,4.23561,110
+Central Harlem,2013,Number,235,110
+East Harlem,2013,Number,249,111
+East Harlem,2013,Rate,5.54516,111
+Washington Heights,2013,Rate,1.65908,112
+Washington Heights,2013,Number,117,112
+Bronx,2013,Number,4086,36005
+Bronx,2013,Rate,8.49228,36005
+Mott Haven,2013,Number,327,201
+Mott Haven,2013,Rate,10.4468,201
+Hunts Point,2013,Rate,12.75628,202
+Hunts Point,2013,Number,228,202
+Morrisania,2013,Number,372,203
+Morrisania,2013,Rate,13.61466,203
+Concourse/Highbridge,2013,Rate,11.02242,204
+Concourse/Highbridge,2013,Number,522,204
+University Heights,2013,Number,456,205
+University Heights,2013,Rate,10.16179,205
+East Tremont,2013,Rate,15.63567,206
+East Tremont,2013,Number,446,206
+Bedford Park,2013,Number,312,207
+Bedford Park,2013,Rate,7.25818,207
+Riverdale,2013,Rate,1.25045,208
+Riverdale,2013,Number,52,208
+Unionport/Soundview,2013,Number,375,209
+Unionport/Soundview,2013,Rate,5.68932,209
+Throgs Neck,2013,Number,80,210
+Throgs Neck,2013,Rate,1.79224,210
+Pelham Parkway,2013,Rate,3.42956,211
+Pelham Parkway,2013,Number,146,211
+Williamsbridge,2013,Number,346,212
+Williamsbridge,2013,Rate,7.48983,212
+Brooklyn,2013,Rate,3.47816,36047
+Brooklyn,2013,Number,3219,36047
+Williamsburg/Greenpoint,2013,Rate,1.03042,301
+Williamsburg/Greenpoint,2013,Number,65,301
+Fort Greene/Brooklyn Hts,2013,Number,90,302
+Fort Greene/Brooklyn Hts,2013,Rate,1.62159,302
+Bedford Stuyvesant,2013,Rate,9.97727,303
+Bedford Stuyvesant,2013,Number,496,303
+Bushwick,2013,Number,201,304
+Bushwick,2013,Rate,4.38836,304
+East New York,2013,Rate,11.16265,305
+East New York,2013,Number,592,305
+Park Slope,2013,Number,46,306
+Park Slope,2013,Rate,0.93658,306
+Sunset Park,2013,Rate,0.80578,307
+Sunset Park,2013,Number,37,307
+Crown Heights North,2013,Number,202,308
+Crown Heights North,2013,Rate,3.91162,308
+Crown Heights South,2013,Rate,3.24801,309
+Crown Heights South,2013,Number,126,309
+Bay Ridge,2013,Number,14,310
+Bay Ridge,2013,Rate,0.28163,310
+Bensonhurst,2013,Rate,0.33177,311
+Bensonhurst,2013,Number,21,311
+Borough Park,2013,Number,28,312
+Borough Park,2013,Rate,0.61173,312
+Coney Island,2013,Rate,1.62273,313
+Coney Island,2013,Number,73,313
+Flatbush/Midwood,2013,Number,113,314
+Flatbush/Midwood,2013,Rate,2.02064,314
+Sheepshead Bay,2013,Rate,0.57839,315
+Sheepshead Bay,2013,Number,33,315
+Brownsville,2013,Number,382,316
+Brownsville,2013,Rate,8.76992,316
+East Flatbush,2013,Rate,5.68379,317
+East Flatbush,2013,Number,262,317
+Canarsie,2013,Number,124,318
+Canarsie,2013,Rate,1.86489,318
+Queens,2013,Number,1224,36081
+Queens,2013,Rate,1.56074,36081
+Astoria,2013,Rate,1.07861,401
+Astoria,2013,Number,81,401
+Sunnyside/Woodside,2013,Number,14,402
+Sunnyside/Woodside,2013,Rate,0.27439,402
+Jackson Heights,2013,Rate,0.76899,403
+Jackson Heights,2013,Number,45,403
+Elmhurst/Corona,2013,Number,33,404
+Elmhurst/Corona,2013,Rate,0.74099,404
+Ridgewood/Glendale,2013,Rate,0.58835,405
+Ridgewood/Glendale,2013,Number,37,405
+Rego Park/Forest Hills,2013,Number,5,406
+Rego Park/Forest Hills,2013,Rate,0.09622,406
+Flushing,2013,Rate,0.19368,407
+Flushing,2013,Number,17,407
+Fresh Meadows/Briarwood,2013,Number,37,408
+Fresh Meadows/Briarwood,2013,Rate,0.69123,408
+Woodhaven,2013,Rate,1.41499,409
+Woodhaven,2013,Number,67,409
+Howard Beach,2013,Number,49,410
+Howard Beach,2013,Rate,1.33246,410
+Bayside,2013,Rate,0.09353,411
+Bayside,2013,Number,4,411
+Jamaica/St. Albans,2013,Number,355,412
+Jamaica/St. Albans,2013,Rate,4.91281,412
+Queens Village,2013,Rate,1.73731,413
+Queens Village,2013,Number,106,413
+The Rockaways,2013,Number,174,414
+The Rockaways,2013,Rate,4.49009,414
+Staten Island,2013,Rate,1.50332,36085
+Staten Island,2013,Number,252,36085
+St. George,2013,Rate,3.13704,501
+St. George,2013,Number,193,501
+South Beach,2013,Rate,0.43266,502
+South Beach,2013,Number,21,502
+Tottenville,2013,Number,9,503
+Tottenville,2013,Rate,0.15633,503
+New York City,2014,Number,11039,3651000
+New York City,2014,Rate,3.57844,3651000
+Manhattan,2014,Rate,1.74357,36061
+Manhattan,2014,Number,1329,36061
+Battery Park/Tribeca,2014,Number,10,101
+Battery Park/Tribeca,2014,Rate,0.31827,101
+Greenwich Village,2014,Rate,0.12936,102
+Greenwich Village,2014,Number,6,102
+Lower East Side,2014,Number,122,103
+Lower East Side,2014,Rate,1.81211,103
+Chelsea/Clinton,2014,Rate,0.85086,104
+Chelsea/Clinton,2014,Number,45,104
+Midtown Business District,2014,Number,18,105
+Midtown Business District,2014,Rate,0.68003,105
+Murray Hill/Stuyvesant,2014,Rate,0.20792,106
+Murray Hill/Stuyvesant,2014,Number,16,106
+Upper West Side,2014,Number,74,107
+Upper West Side,2014,Rate,0.79733,107
+Upper East Side,2014,Rate,0.19823,108
+Upper East Side,2014,Number,23,108
+Manhattanville,2014,Number,159,109
+Manhattanville,2014,Rate,3.51918,109
+Central Harlem,2014,Rate,4.95656,110
+Central Harlem,2014,Number,275,110
+East Harlem,2014,Number,306,111
+East Harlem,2014,Rate,6.81454,111
+Washington Heights,2014,Rate,2.04194,112
+Washington Heights,2014,Number,144,112
+Bronx,2014,Number,3842,36005
+Bronx,2014,Rate,7.80132,36005
+Mott Haven,2014,Number,370,201
+Mott Haven,2014,Rate,11.82054,201
+Hunts Point,2014,Rate,12.58844,202
+Hunts Point,2014,Number,225,202
+Morrisania,2014,Number,350,203
+Morrisania,2014,Rate,12.80949,203
+Concourse/Highbridge,2014,Rate,8.8475,204
+Concourse/Highbridge,2014,Number,419,204
+University Heights,2014,Number,428,205
+University Heights,2014,Rate,9.53782,205
+East Tremont,2014,Rate,12.41038,206
+East Tremont,2014,Number,354,206
+Bedford Park,2014,Number,293,207
+Bedford Park,2014,Rate,6.81617,207
+Riverdale,2014,Rate,1.2264,208
+Riverdale,2014,Number,51,208
+Unionport/Soundview,2014,Number,380,209
+Unionport/Soundview,2014,Rate,5.76518,209
+Throgs Neck,2014,Number,73,210
+Throgs Neck,2014,Rate,1.63541,210
+Pelham Parkway,2014,Rate,3.3356,211
+Pelham Parkway,2014,Number,142,211
+Williamsbridge,2014,Number,331,212
+Williamsbridge,2014,Rate,7.16512,212
+Brooklyn,2014,Rate,3.4115,36047
+Brooklyn,2014,Number,3215,36047
+Williamsburg/Greenpoint,2014,Rate,1.34747,301
+Williamsburg/Greenpoint,2014,Number,85,301
+Fort Greene/Brooklyn Hts,2014,Number,73,302
+Fort Greene/Brooklyn Hts,2014,Rate,1.31529,302
+Bedford Stuyvesant,2014,Rate,9.27323,303
+Bedford Stuyvesant,2014,Number,461,303
+Bushwick,2014,Number,212,304
+Bushwick,2014,Rate,4.62852,304
+East New York,2014,Rate,10.63469,305
+East New York,2014,Number,564,305
+Park Slope,2014,Number,52,306
+Park Slope,2014,Rate,1.05874,306
+Sunset Park,2014,Rate,1.02356,307
+Sunset Park,2014,Number,47,307
+Crown Heights North,2014,Number,222,308
+Crown Heights North,2014,Rate,4.29891,308
+Crown Heights South,2014,Rate,2.9129,309
+Crown Heights South,2014,Number,113,309
+Bay Ridge,2014,Number,14,310
+Bay Ridge,2014,Rate,0.28163,310
+Bensonhurst,2014,Rate,0.55295,311
+Bensonhurst,2014,Number,35,311
+Borough Park,2014,Number,20,312
+Borough Park,2014,Rate,0.43695,312
+Coney Island,2014,Rate,1.42266,313
+Coney Island,2014,Number,64,313
+Flatbush/Midwood,2014,Number,118,314
+Flatbush/Midwood,2014,Rate,2.11004,314
+Sheepshead Bay,2014,Rate,0.6485,315
+Sheepshead Bay,2014,Number,37,315
+Brownsville,2014,Number,385,316
+Brownsville,2014,Rate,8.83879,316
+East Flatbush,2014,Rate,5.77057,317
+East Flatbush,2014,Number,266,317
+Canarsie,2014,Number,128,318
+Canarsie,2014,Rate,1.92504,318
+Queens,2014,Number,1202,36081
+Queens,2014,Rate,1.53269,36081
+Astoria,2014,Rate,0.99871,401
+Astoria,2014,Number,75,401
+Sunnyside/Woodside,2014,Number,17,402
+Sunnyside/Woodside,2014,Rate,0.33319,402
+Jackson Heights,2014,Rate,1.00824,403
+Jackson Heights,2014,Number,59,403
+Elmhurst/Corona,2014,Number,26,404
+Elmhurst/Corona,2014,Rate,0.58381,404
+Ridgewood/Glendale,2014,Rate,0.81097,405
+Ridgewood/Glendale,2014,Number,51,405
+Rego Park/Forest Hills,2014,Number,8,406
+Rego Park/Forest Hills,2014,Rate,0.15396,406
+Flushing,2014,Rate,0.35318,407
+Flushing,2014,Number,31,407
+Fresh Meadows/Briarwood,2014,Number,29,408
+Fresh Meadows/Briarwood,2014,Rate,0.54177,408
+Woodhaven,2014,Rate,1.56283,409
+Woodhaven,2014,Number,74,409
+Howard Beach,2014,Number,49,410
+Howard Beach,2014,Rate,1.33246,410
+Bayside,2014,Rate,0.18706,411
+Bayside,2014,Number,8,411
+Jamaica/St. Albans,2014,Number,328,412
+Jamaica/St. Albans,2014,Rate,4.53916,412
+Queens Village,2014,Rate,1.50785,413
+Queens Village,2014,Number,92,413
+The Rockaways,2014,Number,165,414
+The Rockaways,2014,Rate,4.25784,414
+Staten Island,2014,Rate,1.44366,36085
+Staten Island,2014,Number,242,36085
+St. George,2014,Rate,3.21831,501
+St. George,2014,Number,198,501
+South Beach,2014,Rate,0.22663,502
+South Beach,2014,Number,11,502
+Tottenville,2014,Number,8,503
+Tottenville,2014,Rate,0.13896,503
+New York City,2015,Number,11925,3651000
+New York City,2015,Rate,3.81094,3651000
+Manhattan,2015,Number,1342,36061
+Manhattan,2015,Rate,1.78637,36061
+Battery Park/Tribeca,2015,Number,11,101
+Battery Park/Tribeca,2015,Rate,0.35725,101
+Greenwich Village,2015,Rate,0.08806,102
+Greenwich Village,2015,Number,4,102
+Lower East Side,2015,Number,129,103
+Lower East Side,2015,Rate,1.75599,103
+Chelsea/Clinton,2015,Rate,1.04451,104
+Chelsea/Clinton,2015,Number,62,104
+Midtown Business District,2015,Number,19,105
+Midtown Business District,2015,Rate,0.63827,105
+Murray Hill/Stuyvesant,2015,Rate,0.14395,106
+Murray Hill/Stuyvesant,2015,Number,11,106
+Upper West Side,2015,Number,93,107
+Upper West Side,2015,Rate,0.9278,107
+Upper East Side,2015,Rate,0.20864,108
+Upper East Side,2015,Number,23,108
+Manhattanville,2015,Number,141,109
+Manhattanville,2015,Rate,3.01269,109
+Central Harlem,2015,Rate,5.82322,110
+Central Harlem,2015,Number,307,110
+East Harlem,2015,Number,310,111
+East Harlem,2015,Rate,6.49378,111
+Washington Heights,2015,Rate,1.6094,112
+Washington Heights,2015,Number,126,112
+Bronx,2015,Rate,8.58908,36005
+Bronx,2015,Number,4256,36005
+Mott Haven,2015,Number,441,201
+Mott Haven,2015,Rate,13.40928,201
+Hunts Point,2015,Rate,12.43242,202
+Hunts Point,2015,Number,233,202
+Morrisania,2015,Number,418,203
+Morrisania,2015,Rate,14.77905,203
+Concourse/Highbridge,2015,Rate,9.63757,204
+Concourse/Highbridge,2015,Number,497,204
+University Heights,2015,Number,472,205
+University Heights,2015,Rate,9.97801,205
+East Tremont,2015,Rate,13.19541,206
+East Tremont,2015,Number,390,206
+Bedford Park,2015,Number,316,207
+Bedford Park,2015,Rate,6.90846,207
+Riverdale,2015,Rate,1.93517,208
+Riverdale,2015,Number,80,208
+Unionport/Soundview,2015,Number,425,209
+Unionport/Soundview,2015,Rate,6.84127,209
+Throgs Neck,2015,Rate,2.06273,210
+Throgs Neck,2015,Number,97,210
+Pelham Parkway,2015,Number,167,211
+Pelham Parkway,2015,Rate,3.82834,211
+Williamsbridge,2015,Rate,8.62196,212
+Williamsbridge,2015,Number,408,212
+Brooklyn,2015,Rate,3.55784,36047
+Brooklyn,2015,Number,3345,36047
+Williamsburg/Greenpoint,2015,Number,102,301
+Williamsburg/Greenpoint,2015,Rate,1.59069,301
+Fort Greene/Brooklyn Hts,2015,Rate,1.30881,302
+Fort Greene/Brooklyn Hts,2015,Number,76,302
+Bedford Stuyvesant,2015,Number,515,303
+Bedford Stuyvesant,2015,Rate,10.08519,303
+Bushwick,2015,Rate,4.6071,304
+Bushwick,2015,Number,196,304
+East New York,2015,Number,659,305
+East New York,2015,Rate,12.14433,305
+Park Slope,2015,Rate,1.28413,306
+Park Slope,2015,Number,65,306
+Sunset Park,2015,Number,56,307
+Sunset Park,2015,Rate,1.23204,307
+Crown Heights North,2015,Rate,3.98916,308
+Crown Heights North,2015,Number,212,308
+Crown Heights South,2015,Number,137,309
+Crown Heights South,2015,Rate,3.14429,309
+Bay Ridge,2015,Rate,0.48401,310
+Bay Ridge,2015,Number,23,310
+Bensonhurst,2015,Number,27,311
+Bensonhurst,2015,Rate,0.43022,311
+Borough Park,2015,Rate,0.50776,312
+Borough Park,2015,Number,23,312
+Coney Island,2015,Number,79,313
+Coney Island,2015,Rate,1.71289,313
+Flatbush/Midwood,2015,Rate,2.13242,314
+Flatbush/Midwood,2015,Number,121,314
+Sheepshead Bay,2015,Number,40,315
+Sheepshead Bay,2015,Rate,0.73174,315
+Brownsville,2015,Rate,8.45721,316
+Brownsville,2015,Number,392,316
+East Flatbush,2015,Number,300,317
+East Flatbush,2015,Rate,5.858,317
+Canarsie,2015,Rate,1.87519,318
+Canarsie,2015,Number,125,318
+Queens,2015,Number,1336,36081
+Queens,2015,Rate,1.72442,36081
+Astoria,2015,Rate,1.27149,401
+Astoria,2015,Number,94,401
+Sunnyside/Woodside,2015,Number,27,402
+Sunnyside/Woodside,2015,Rate,0.50133,402
+Jackson Heights,2015,Rate,1.01057,403
+Jackson Heights,2015,Number,57,403
+Elmhurst/Corona,2015,Number,45,404
+Elmhurst/Corona,2015,Rate,1.1044,404
+Ridgewood/Glendale,2015,Rate,0.92155,405
+Ridgewood/Glendale,2015,Number,57,405
+Rego Park/Forest Hills,2015,Number,6,406
+Rego Park/Forest Hills,2015,Rate,0.11319,406
+Flushing,2015,Rate,0.31218,407
+Flushing,2015,Number,27,407
+Fresh Meadows/Briarwood,2015,Number,42,408
+Fresh Meadows/Briarwood,2015,Rate,0.77507,408
+Woodhaven,2015,Rate,2.02243,409
+Woodhaven,2015,Number,90,409
+Howard Beach,2015,Number,49,410
+Howard Beach,2015,Rate,1.291,410
+Bayside,2015,Rate,0.11904,411
+Bayside,2015,Number,5,411
+Jamaica/St. Albans,2015,Number,358,412
+Jamaica/St. Albans,2015,Rate,5.03205,412
+Queens Village,2015,Rate,1.91814,413
+Queens Village,2015,Number,115,413
+The Rockaways,2015,Number,199,414
+The Rockaways,2015,Rate,5.13747,414
+Staten Island,2015,Rate,1.52871,36085
+Staten Island,2015,Number,256,36085
+St. George,2015,Number,211,501
+St. George,2015,Rate,3.57985,501
+South Beach,2015,Rate,0.29051,502
+South Beach,2015,Number,14,502
+Tottenville,2015,Number,13,503
+Tottenville,2015,Rate,0.21548,503
+New York City,2016,Number,13311,3651000
+New York City,2017,Number,12595,3651000
+New York City,2018,Number,12151,3651000
+New York City,2016,Rate,4.27345,3651000
+New York City,2017,Rate,3.98617,3651000
+New York City,2018,Rate,3.81567,3651000
+New York City,2019,Number,11965,3651000
+New York City,2019,Rate,3.72622,3651000
+New York City,2020,Number,10087,3651000
+New York City,2021,Number,6107,3651000

@@ -1,0 +1,720 @@
+Neighborhood,Year,Homeless Families
+New York City,2005,2.75792
+Manhattan,2005,1.73767
+Battery Park/Tribeca,2005,0.35641
+Greenwich Village,2005,0.27669
+Lower East Side,2005,1.92616
+Chelsea/Clinton,2005,1.20583
+Midtown Business District,2005,0.83626
+Murray Hill/Stuyvesant,2005,0.2233
+Upper West Side,2005,0.67305
+Upper East Side,2005,0.07934
+Manhattanville,2005,3.33163
+Central Harlem,2005,6.50919
+East Harlem,2005,6.41676
+Washington Heights,2005,2.38327
+Bronx,2005,6.35399
+Mott Haven,2005,10.77009
+Hunts Point,2005,9.99501
+Morrisania,2005,13.05002
+Concourse/Highbridge,2005,18.49745
+University Heights,2005,9.00013
+East Tremont,2005,7.03938
+Bedford Park,2005,5.23746
+Riverdale,2005,1.38379
+Unionport/Soundview,2005,5.60255
+Throgs Neck,2005,1.11017
+Pelham Parkway,2005,2.0847
+Williamsbridge,2005,3.98195
+Brooklyn,2005,3.24315
+Williamsburg/Greenpoint,2005,2.02663
+Fort Greene/Brooklyn Hts,2005,1.91259
+Bedford Stuyvesant,2005,10.47075
+Bushwick,2005,7.36823
+East New York,2005,9.44787
+Park Slope,2005,1.63517
+Sunset Park,2005,1.27975
+Crown Heights North,2005,4.35857
+Crown Heights South,2005,3.36048
+Bay Ridge,2005,0.24502
+Bensonhurst,2005,0.39894
+Borough Park,2005,0.65229
+Coney Island,2005,2.02248
+Flatbush/Midwood,2005,2.38664
+Sheepshead Bay,2005,0.47451
+Brownsville,2005,8.33172
+East Flatbush,2005,4.1465
+Canarsie,2005,1.61481
+Queens,2005,1.07729
+Astoria,2005,1.12735
+Sunnyside/Woodside,2005,0.26662
+Jackson Heights,2005,0.85828
+Elmhurst/Corona,2005,0.90332
+Ridgewood/Glendale,2005,0.50216
+Rego Park/Forest Hills,2005,0.07472
+Flushing,2005,0.20193
+Fresh Meadows/Briarwood,2005,0.57382
+Woodhaven,2005,0.9816
+Howard Beach,2005,1.23489
+Bayside,2005,0.09798
+Jamaica/St. Albans,2005,3.75961
+Queens Village,2005,1.3259
+The Rockaways,2005,3.32697
+Staten Island,2005,0.797
+St. George,2005,1.6574
+South Beach,2005,0.42273
+Tottenville,2005,0.1716
+New York City,2006,3.0464
+Manhattan,2006,1.82291
+Battery Park/Tribeca,2006,0.40982
+Greenwich Village,2006,0.30369
+Lower East Side,2006,2.0435
+Chelsea/Clinton,2006,1.13002
+Midtown Business District,2006,0.79784
+Murray Hill/Stuyvesant,2006,0.22705
+Upper West Side,2006,0.67645
+Upper East Side,2006,0.1397
+Manhattanville,2006,3.89164
+Central Harlem,2006,6.77052
+East Harlem,2006,6.10744
+Washington Heights,2006,2.73688
+Bronx,2006,6.79638
+Mott Haven,2006,13.72087
+Hunts Point,2006,12.69344
+Morrisania,2006,12.37047
+Concourse/Highbridge,2006,15.95628
+University Heights,2006,9.99218
+East Tremont,2006,7.51315
+Bedford Park,2006,6.01437
+Riverdale,2006,1.51142
+Unionport/Soundview,2006,5.93149
+Throgs Neck,2006,1.21747
+Pelham Parkway,2006,2.58978
+Williamsbridge,2006,4.76008
+Brooklyn,2006,3.32957
+Williamsburg/Greenpoint,2006,2.31651
+Fort Greene/Brooklyn Hts,2006,1.78238
+Bedford Stuyvesant,2006,11.39796
+Bushwick,2006,6.77703
+East New York,2006,9.73896
+Park Slope,2006,1.59876
+Sunset Park,2006,1.43155
+Crown Heights North,2006,4.66553
+Crown Heights South,2006,3.2417
+Bay Ridge,2006,0.32025
+Bensonhurst,2006,0.4411
+Borough Park,2006,0.53284
+Coney Island,2006,1.87435
+Flatbush/Midwood,2006,2.28797
+Sheepshead Bay,2006,0.37312
+Brownsville,2006,8.65385
+East Flatbush,2006,4.59338
+Canarsie,2006,1.77939
+Queens,2006,1.10177
+Astoria,2006,1.11601
+Sunnyside/Woodside,2006,0.42741
+Jackson Heights,2006,0.8777
+Elmhurst/Corona,2006,0.69308
+Ridgewood/Glendale,2006,0.5583
+Rego Park/Forest Hills,2006,0.05829
+Flushing,2006,0.29704
+Fresh Meadows/Briarwood,2006,0.49612
+Woodhaven,2006,1.29879
+Howard Beach,2006,1.3182
+Bayside,2006,0.1284
+Jamaica/St. Albans,2006,3.83298
+Queens Village,2006,1.33354
+The Rockaways,2006,3.3005
+Staten Island,2006,0.99099
+St. George,2006,2.40302
+South Beach,2006,0.29796
+Tottenville,2006,0.0851
+New York City,2007,3.35263
+Manhattan,2007,1.88251
+Battery Park/Tribeca,2007,0.23048
+Greenwich Village,2007,0.44732
+Lower East Side,2007,2.25945
+Chelsea/Clinton,2007,1.0599
+Midtown Business District,2007,0.5323
+Murray Hill/Stuyvesant,2007,0.21911
+Upper West Side,2007,0.74183
+Upper East Side,2007,0.0778
+Manhattanville,2007,3.19476
+Central Harlem,2007,6.9495
+East Harlem,2007,7.38546
+Washington Heights,2007,2.87296
+Bronx,2007,7.81134
+Mott Haven,2007,14.03543
+Hunts Point,2007,14.39013
+Morrisania,2007,16.62008
+Concourse/Highbridge,2007,20.37644
+University Heights,2007,11.03567
+East Tremont,2007,8.0749
+Bedford Park,2007,7.57224
+Riverdale,2007,1.22609
+Unionport/Soundview,2007,7.01154
+Throgs Neck,2007,1.43138
+Pelham Parkway,2007,2.47459
+Williamsbridge,2007,6.18583
+Brooklyn,2007,3.5213
+Williamsburg/Greenpoint,2007,1.8156
+Fort Greene/Brooklyn Hts,2007,2.06873
+Bedford Stuyvesant,2007,12.45715
+Bushwick,2007,7.0129
+East New York,2007,10.45546
+Park Slope,2007,1.64506
+Sunset Park,2007,1.36013
+Crown Heights North,2007,5.12406
+Crown Heights South,2007,3.75317
+Bay Ridge,2007,0.2181
+Bensonhurst,2007,0.40148
+Borough Park,2007,0.62857
+Coney Island,2007,1.82586
+Flatbush/Midwood,2007,2.78587
+Sheepshead Bay,2007,0.49024
+Brownsville,2007,9.11399
+East Flatbush,2007,5.24249
+Canarsie,2007,1.57063
+Queens,2007,1.20083
+Astoria,2007,1.2142
+Sunnyside/Woodside,2007,0.2624
+Jackson Heights,2007,0.98086
+Elmhurst/Corona,2007,0.83558
+Ridgewood/Glendale,2007,0.7361
+Rego Park/Forest Hills,2007,0.09429
+Flushing,2007,0.18603
+Fresh Meadows/Briarwood,2007,0.67912
+Woodhaven,2007,1.55335
+Howard Beach,2007,1.08669
+Bayside,2007,0.04355
+Jamaica/St. Albans,2007,4.15965
+Queens Village,2007,1.41527
+The Rockaways,2007,3.85015
+Staten Island,2007,0.91865
+St. George,2007,2.30347
+South Beach,2007,0.18604
+Tottenville,2007,0.06891
+New York City,2008,3.07076
+Manhattan,2008,1.59741
+Battery Park/Tribeca,2008,0.4468
+Greenwich Village,2008,0.32519
+Lower East Side,2008,2.21138
+Chelsea/Clinton,2008,0.613
+Midtown Business District,2008,0.41838
+Murray Hill/Stuyvesant,2008,0.16376
+Upper West Side,2008,0.5751
+Upper East Side,2008,0.11461
+Manhattanville,2008,3.2631
+Central Harlem,2008,5.4231
+East Harlem,2008,6.20598
+Washington Heights,2008,2.42323
+Bronx,2008,7.07135
+Mott Haven,2008,12.3994
+Hunts Point,2008,14.2554
+Morrisania,2008,13.44984
+Concourse/Highbridge,2008,17.70338
+University Heights,2008,9.61828
+East Tremont,2008,8.70107
+Bedford Park,2008,6.27113
+Riverdale,2008,1.55007
+Unionport/Soundview,2008,6.47911
+Throgs Neck,2008,1.1599
+Pelham Parkway,2008,2.25572
+Williamsbridge,2008,5.75089
+Brooklyn,2008,3.17986
+Williamsburg/Greenpoint,2008,1.85586
+Fort Greene/Brooklyn Hts,2008,1.54086
+Bedford Stuyvesant,2008,11.1401
+Bushwick,2008,7.07649
+East New York,2008,9.43877
+Park Slope,2008,1.17734
+Sunset Park,2008,1.26923
+Crown Heights North,2008,4.89853
+Crown Heights South,2008,2.34672
+Bay Ridge,2008,0.30864
+Bensonhurst,2008,0.25367
+Borough Park,2008,0.68069
+Coney Island,2008,1.86156
+Flatbush/Midwood,2008,2.16957
+Sheepshead Bay,2008,0.44343
+Brownsville,2008,8.23793
+East Flatbush,2008,4.59697
+Canarsie,2008,1.57211
+Queens,2008,1.14381
+Astoria,2008,0.95247
+Sunnyside/Woodside,2008,0.33102
+Jackson Heights,2008,0.67606
+Elmhurst/Corona,2008,0.45267
+Ridgewood/Glendale,2008,0.6855
+Rego Park/Forest Hills,2008,0.05888
+Flushing,2008,0.23974
+Fresh Meadows/Briarwood,2008,0.37059
+Woodhaven,2008,1.80196
+Howard Beach,2008,1.26848
+Bayside,2008,0.04457
+Jamaica/St. Albans,2008,4.15999
+Queens Village,2008,1.39607
+The Rockaways,2008,3.77757
+Staten Island,2008,1.06955
+St. George,2008,2.52777
+South Beach,2008,0.33271
+Tottenville,2008,0.08893
+New York City,2009,3.98802
+Manhattan,2009,1.94244
+Battery Park/Tribeca,2009,0.15663
+Greenwich Village,2009,0.22799
+Lower East Side,2009,2.35694
+Chelsea/Clinton,2009,0.89129
+Midtown Business District,2009,0.32443
+Murray Hill/Stuyvesant,2009,0.20545
+Upper West Side,2009,0.83247
+Upper East Side,2009,0.12959
+Manhattanville,2009,4.32932
+Central Harlem,2009,7.15283
+East Harlem,2009,7.95703
+Washington Heights,2009,3.03922
+Bronx,2009,9.46146
+Mott Haven,2009,15.66646
+Hunts Point,2009,16.25685
+Morrisania,2009,19.53152
+Concourse/Highbridge,2009,23.02935
+University Heights,2009,13.0769
+East Tremont,2009,9.86401
+Bedford Park,2009,9.36466
+Riverdale,2009,1.73423
+Unionport/Soundview,2009,8.14779
+Throgs Neck,2009,2.12894
+Pelham Parkway,2009,3.56334
+Williamsbridge,2009,7.96802
+Brooklyn,2009,4.00913
+Williamsburg/Greenpoint,2009,2.38934
+Fort Greene/Brooklyn Hts,2009,1.56387
+Bedford Stuyvesant,2009,12.84379
+Bushwick,2009,7.93531
+East New York,2009,12.77129
+Park Slope,2009,1.26119
+Sunset Park,2009,1.30336
+Crown Heights North,2009,5.53755
+Crown Heights South,2009,3.89312
+Bay Ridge,2009,0.50174
+Bensonhurst,2009,0.4724
+Borough Park,2009,0.84534
+Coney Island,2009,2.55368
+Flatbush/Midwood,2009,2.80621
+Sheepshead Bay,2009,0.52145
+Brownsville,2009,10.92751
+East Flatbush,2009,6.20478
+Canarsie,2009,2.05877
+Queens,2009,1.59407
+Astoria,2009,1.04744
+Sunnyside/Woodside,2009,0.49233
+Jackson Heights,2009,1.28291
+Elmhurst/Corona,2009,0.97808
+Ridgewood/Glendale,2009,0.96289
+Rego Park/Forest Hills,2009,0.14385
+Flushing,2009,0.27364
+Fresh Meadows/Briarwood,2009,0.58619
+Woodhaven,2009,2.41819
+Howard Beach,2009,1.30368
+Bayside,2009,0.04808
+Jamaica/St. Albans,2009,5.99524
+Queens Village,2009,1.8214
+The Rockaways,2009,5.8821
+Staten Island,2009,1.54152
+St. George,2009,3.57231
+South Beach,2009,0.50169
+Tottenville,2009,0.21231
+New York City,2010,4.33631
+Manhattan,2010,2.08111
+Battery Park/Tribeca,2010,0.1075
+Greenwich Village,2010,0.22951
+Lower East Side,2010,2.36492
+Chelsea/Clinton,2010,0.71114
+Midtown Business District,2010,0.35514
+Murray Hill/Stuyvesant,2010,0.21922
+Upper West Side,2010,0.90312
+Upper East Side,2010,0.12336
+Manhattanville,2010,4.6767
+Central Harlem,2010,8.16629
+East Harlem,2010,8.45287
+Washington Heights,2010,3.30659
+Bronx,2010,10.14044
+Mott Haven,2010,16.89536
+Hunts Point,2010,18.0456
+Morrisania,2010,18.26239
+Concourse/Highbridge,2010,12.8501
+University Heights,2010,15.10503
+East Tremont,2010,16.77985
+Bedford Park,2010,9.6189
+Riverdale,2010,2.35717
+Unionport/Soundview,2010,9.66063
+Throgs Neck,2010,2.44464
+Pelham Parkway,2010,4.62068
+Williamsbridge,2010,8.16177
+Brooklyn,2010,4.25423
+Williamsburg/Greenpoint,2010,1.78542
+Fort Greene/Brooklyn Hts,2010,1.98623
+Bedford Stuyvesant,2010,10.74716
+Bushwick,2010,8.96401
+East New York,2010,11.87255
+Park Slope,2010,1.75059
+Sunset Park,2010,2.06295
+Crown Heights North,2010,7.2815
+Crown Heights South,2010,4.83077
+Bay Ridge,2010,0.39428
+Bensonhurst,2010,0.6194
+Borough Park,2010,0.49036
+Coney Island,2010,2.60175
+Flatbush/Midwood,2010,3.55802
+Sheepshead Bay,2010,0.54874
+Brownsville,2010,15.55965
+East Flatbush,2010,5.69827
+Canarsie,2010,2.40448
+Queens,2010,1.85443
+Astoria,2010,1.47873
+Sunnyside/Woodside,2010,0.51302
+Jackson Heights,2010,1.45509
+Elmhurst/Corona,2010,1.0886
+Ridgewood/Glendale,2010,0.96026
+Rego Park/Forest Hills,2010,0.06087
+Flushing,2010,0.45094
+Fresh Meadows/Briarwood,2010,0.74072
+Woodhaven,2010,2.38708
+Howard Beach,2010,1.51875
+Bayside,2010,0.14559
+Jamaica/St. Albans,2010,6.83583
+Queens Village,2010,2.14787
+The Rockaways,2010,6.23469
+Staten Island,2010,1.83638
+St. George,2010,4.48754
+South Beach,2010,0.44698
+Tottenville,2010,0.18499
+New York City,2011,3.72404
+Manhattan,2011,1.6616
+Battery Park/Tribeca,2011,0.22725
+Greenwich Village,2011,0.15437
+Lower East Side,2011,1.75019
+Chelsea/Clinton,2011,0.70489
+Midtown Business District,2011,0.42908
+Murray Hill/Stuyvesant,2011,0.19712
+Upper West Side,2011,0.60934
+Upper East Side,2011,0.11563
+Manhattanville,2011,3.44619
+Central Harlem,2011,6.19262
+East Harlem,2011,6.18556
+Washington Heights,2011,2.54839
+Bronx,2011,8.79153
+Mott Haven,2011,12.68572
+Hunts Point,2011,14.41655
+Morrisania,2011,16.99357
+Concourse/Highbridge,2011,20.27287
+University Heights,2011,12.76324
+East Tremont,2011,9.39128
+Bedford Park,2011,8.48867
+Riverdale,2011,1.76823
+Unionport/Soundview,2011,7.31909
+Throgs Neck,2011,1.95214
+Pelham Parkway,2011,3.93488
+Williamsbridge,2011,7.92642
+Brooklyn,2011,3.68328
+Williamsburg/Greenpoint,2011,1.74742
+Fort Greene/Brooklyn Hts,2011,1.48975
+Bedford Stuyvesant,2011,11.64533
+Bushwick,2011,6.41284
+East New York,2011,11.67255
+Park Slope,2011,1.34765
+Sunset Park,2011,1.38311
+Crown Heights North,2011,5.25872
+Crown Heights South,2011,4.20145
+Bay Ridge,2011,0.51013
+Bensonhurst,2011,0.38335
+Borough Park,2011,0.64819
+Coney Island,2011,1.95326
+Flatbush/Midwood,2011,2.24617
+Sheepshead Bay,2011,0.54434
+Brownsville,2011,9.86981
+East Flatbush,2011,6.24395
+Canarsie,2011,2.26985
+Queens,2011,1.66283
+Astoria,2011,1.15931
+Sunnyside/Woodside,2011,0.334
+Jackson Heights,2011,1.1075
+Elmhurst/Corona,2011,1.05478
+Ridgewood/Glendale,2011,0.65602
+Rego Park/Forest Hills,2011,0.20255
+Flushing,2011,0.39258
+Fresh Meadows/Briarwood,2011,0.59323
+Woodhaven,2011,2.26346
+Howard Beach,2011,1.94681
+Bayside,2011,0.1226
+Jamaica/St. Albans,2011,6.15123
+Queens Village,2011,1.8369
+The Rockaways,2011,6.38903
+Staten Island,2011,1.60613
+St. George,2011,3.90797
+South Beach,2011,0.43228
+Tottenville,2011,0.25591
+New York City,2012,3.25003
+Manhattan,2012,1.38479
+Battery Park/Tribeca,2012,0.06551
+Greenwich Village,2012,0.0
+Lower East Side,2012,0.85872
+Chelsea/Clinton,2012,0.3396
+Midtown Business District,2012,0.49997
+Murray Hill/Stuyvesant,2012,0.08802
+Upper West Side,2012,0.31589
+Upper East Side,2012,0.03364
+Manhattanville,2012,1.42358
+Central Harlem,2012,2.0567
+East Harlem,2012,2.29717
+Washington Heights,2012,1.01762
+Bronx,2012,7.8407
+Mott Haven,2012,4.8328
+Hunts Point,2012,6.27761
+Morrisania,2012,5.83571
+Concourse/Highbridge,2012,5.32524
+University Heights,2012,5.30284
+East Tremont,2012,6.84416
+Bedford Park,2012,3.1842
+Riverdale,2012,0.56324
+Unionport/Soundview,2012,3.09658
+Throgs Neck,2012,0.71701
+Pelham Parkway,2012,1.60336
+Williamsbridge,2012,4.14359
+Brooklyn,2012,3.1425
+Williamsburg/Greenpoint,2012,0.63288
+Fort Greene/Brooklyn Hts,2012,0.59279
+Bedford Stuyvesant,2012,4.78106
+Bushwick,2012,2.56562
+East New York,2012,5.83486
+Park Slope,2012,0.3949
+Sunset Park,2012,0.5502
+Crown Heights North,2012,2.21982
+Crown Heights South,2012,1.63411
+Bay Ridge,2012,0.08256
+Bensonhurst,2012,0.23471
+Borough Park,2012,0.23508
+Coney Island,2012,0.79758
+Flatbush/Midwood,2012,1.03708
+Sheepshead Bay,2012,0.329
+Brownsville,2012,3.84162
+East Flatbush,2012,2.85602
+Canarsie,2012,0.88027
+Queens,2012,1.53521
+Astoria,2012,0.38402
+Sunnyside/Woodside,2012,0.1321
+Jackson Heights,2012,0.46518
+Elmhurst/Corona,2012,0.26673
+Ridgewood/Glendale,2012,0.42231
+Rego Park/Forest Hills,2012,0.05672
+Flushing,2012,0.12606
+Fresh Meadows/Briarwood,2012,0.23958
+Woodhaven,2012,1.02048
+Howard Beach,2012,0.67695
+Bayside,2012,0.04505
+Jamaica/St. Albans,2012,2.39186
+Queens Village,2012,0.99513
+The Rockaways,2012,2.11736
+Staten Island,2012,1.57829
+St. George,2012,1.73546
+South Beach,2012,0.17328
+Tottenville,2012,0.08893
+New York City,2013,3.55251
+Manhattan,2013,1.56535
+Battery Park/Tribeca,2013,0.22279
+Greenwich Village,2013,0.06468
+Lower East Side,2013,1.72299
+Chelsea/Clinton,2013,0.58615
+Midtown Business District,2013,0.71781
+Murray Hill/Stuyvesant,2013,0.18193
+Upper West Side,2013,0.62493
+Upper East Side,2013,0.12928
+Manhattanville,2013,2.41252
+Central Harlem,2013,4.23561
+East Harlem,2013,5.54516
+Washington Heights,2013,1.65908
+Bronx,2013,8.49228
+Mott Haven,2013,10.4468
+Hunts Point,2013,12.75628
+Morrisania,2013,13.61466
+Concourse/Highbridge,2013,11.02242
+University Heights,2013,10.16179
+East Tremont,2013,15.63567
+Bedford Park,2013,7.25818
+Riverdale,2013,1.25045
+Unionport/Soundview,2013,5.68932
+Throgs Neck,2013,1.79224
+Pelham Parkway,2013,3.42956
+Williamsbridge,2013,7.48983
+Brooklyn,2013,3.47816
+Williamsburg/Greenpoint,2013,1.03042
+Fort Greene/Brooklyn Hts,2013,1.62159
+Bedford Stuyvesant,2013,9.97727
+Bushwick,2013,4.38836
+East New York,2013,11.16265
+Park Slope,2013,0.93658
+Sunset Park,2013,0.80578
+Crown Heights North,2013,3.91162
+Crown Heights South,2013,3.24801
+Bay Ridge,2013,0.28163
+Bensonhurst,2013,0.33177
+Borough Park,2013,0.61173
+Coney Island,2013,1.62273
+Flatbush/Midwood,2013,2.02064
+Sheepshead Bay,2013,0.57839
+Brownsville,2013,8.76992
+East Flatbush,2013,5.68379
+Canarsie,2013,1.86489
+Queens,2013,1.56074
+Astoria,2013,1.07861
+Sunnyside/Woodside,2013,0.27439
+Jackson Heights,2013,0.76899
+Elmhurst/Corona,2013,0.74099
+Ridgewood/Glendale,2013,0.58835
+Rego Park/Forest Hills,2013,0.09622
+Flushing,2013,0.19368
+Fresh Meadows/Briarwood,2013,0.69123
+Woodhaven,2013,1.41499
+Howard Beach,2013,1.33246
+Bayside,2013,0.09353
+Jamaica/St. Albans,2013,4.91281
+Queens Village,2013,1.73731
+The Rockaways,2013,4.49009
+Staten Island,2013,1.50332
+St. George,2013,3.13704
+South Beach,2013,0.43266
+Tottenville,2013,0.15633
+New York City,2014,3.57844
+Manhattan,2014,1.74357
+Battery Park/Tribeca,2014,0.31827
+Greenwich Village,2014,0.12936
+Lower East Side,2014,1.81211
+Chelsea/Clinton,2014,0.85086
+Midtown Business District,2014,0.68003
+Murray Hill/Stuyvesant,2014,0.20792
+Upper West Side,2014,0.79733
+Upper East Side,2014,0.19823
+Manhattanville,2014,3.51918
+Central Harlem,2014,4.95656
+East Harlem,2014,6.81454
+Washington Heights,2014,2.04194
+Bronx,2014,7.80132
+Mott Haven,2014,11.82054
+Hunts Point,2014,12.58844
+Morrisania,2014,12.80949
+Concourse/Highbridge,2014,8.8475
+University Heights,2014,9.53782
+East Tremont,2014,12.41038
+Bedford Park,2014,6.81617
+Riverdale,2014,1.2264
+Unionport/Soundview,2014,5.76518
+Throgs Neck,2014,1.63541
+Pelham Parkway,2014,3.3356
+Williamsbridge,2014,7.16512
+Brooklyn,2014,3.4115
+Williamsburg/Greenpoint,2014,1.34747
+Fort Greene/Brooklyn Hts,2014,1.31529
+Bedford Stuyvesant,2014,9.27323
+Bushwick,2014,4.62852
+East New York,2014,10.63469
+Park Slope,2014,1.05874
+Sunset Park,2014,1.02356
+Crown Heights North,2014,4.29891
+Crown Heights South,2014,2.9129
+Bay Ridge,2014,0.28163
+Bensonhurst,2014,0.55295
+Borough Park,2014,0.43695
+Coney Island,2014,1.42266
+Flatbush/Midwood,2014,2.11004
+Sheepshead Bay,2014,0.6485
+Brownsville,2014,8.83879
+East Flatbush,2014,5.77057
+Canarsie,2014,1.92504
+Queens,2014,1.53269
+Astoria,2014,0.99871
+Sunnyside/Woodside,2014,0.33319
+Jackson Heights,2014,1.00824
+Elmhurst/Corona,2014,0.58381
+Ridgewood/Glendale,2014,0.81097
+Rego Park/Forest Hills,2014,0.15396
+Flushing,2014,0.35318
+Fresh Meadows/Briarwood,2014,0.54177
+Woodhaven,2014,1.56283
+Howard Beach,2014,1.33246
+Bayside,2014,0.18706
+Jamaica/St. Albans,2014,4.53916
+Queens Village,2014,1.50785
+The Rockaways,2014,4.25784
+Staten Island,2014,1.44366
+St. George,2014,3.21831
+South Beach,2014,0.22663
+Tottenville,2014,0.13896
+New York City,2015,3.81094
+Manhattan,2015,1.78637
+Battery Park/Tribeca,2015,0.35725
+Greenwich Village,2015,0.08806
+Lower East Side,2015,1.75599
+Chelsea/Clinton,2015,1.04451
+Midtown Business District,2015,0.63827
+Murray Hill/Stuyvesant,2015,0.14395
+Upper West Side,2015,0.9278
+Upper East Side,2015,0.20864
+Manhattanville,2015,3.01269
+Central Harlem,2015,5.82322
+East Harlem,2015,6.49378
+Washington Heights,2015,1.6094
+Bronx,2015,8.58908
+Mott Haven,2015,13.40928
+Hunts Point,2015,12.43242
+Morrisania,2015,14.77905
+Concourse/Highbridge,2015,9.63757
+University Heights,2015,9.97801
+East Tremont,2015,13.19541
+Bedford Park,2015,6.90846
+Riverdale,2015,1.93517
+Unionport/Soundview,2015,6.84127
+Throgs Neck,2015,2.06273
+Pelham Parkway,2015,3.82834
+Williamsbridge,2015,8.62196
+Brooklyn,2015,3.55784
+Williamsburg/Greenpoint,2015,1.59069
+Fort Greene/Brooklyn Hts,2015,1.30881
+Bedford Stuyvesant,2015,10.08519
+Bushwick,2015,4.6071
+East New York,2015,12.14433
+Park Slope,2015,1.28413
+Sunset Park,2015,1.23204
+Crown Heights North,2015,3.98916
+Crown Heights South,2015,3.14429
+Bay Ridge,2015,0.48401
+Bensonhurst,2015,0.43022
+Borough Park,2015,0.50776
+Coney Island,2015,1.71289
+Flatbush/Midwood,2015,2.13242
+Sheepshead Bay,2015,0.73174
+Brownsville,2015,8.45721
+East Flatbush,2015,5.858
+Canarsie,2015,1.87519
+Queens,2015,1.72442
+Astoria,2015,1.27149
+Sunnyside/Woodside,2015,0.50133
+Jackson Heights,2015,1.01057
+Elmhurst/Corona,2015,1.1044
+Ridgewood/Glendale,2015,0.92155
+Rego Park/Forest Hills,2015,0.11319
+Flushing,2015,0.31218
+Fresh Meadows/Briarwood,2015,0.77507
+Woodhaven,2015,2.02243
+Howard Beach,2015,1.291
+Bayside,2015,0.11904
+Jamaica/St. Albans,2015,5.03205
+Queens Village,2015,1.91814
+The Rockaways,2015,5.13747
+Staten Island,2015,1.52871
+St. George,2015,3.57985
+South Beach,2015,0.29051
+Tottenville,2015,0.21548
+New York City,2016,4.27345
+New York City,2017,3.98617
+New York City,2018,3.81567
+New York City,2019,3.72622

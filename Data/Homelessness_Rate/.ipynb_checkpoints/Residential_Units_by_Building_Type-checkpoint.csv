@@ -1,0 +1,526 @@
+"Name","Residential Units by Building Type"
+"Description","Building type refers to the land use categories based on the classification from New York City's Department of City Planning/Department of Finance; read more here:&nbsp;<a href=""https://www1.nyc.gov/assets/planning/download/pdf/data-maps/open-data/pluto_datadictionary.pdf?r=16v2"">https://www1.nyc.gov/assets/planning/download/pdf/data-maps/open-data/pluto_datadictionary.pdf?r=16v2</a>."
+"Source Notes","CCC analysis of NYC Pluto Data Downloader, version 2018v2. Retrieved from&nbsp;<a href=""https://chriswhong.github.io/plutoplus/"">https://chriswhong.github.io/plutoplus/</a>."
+"Notes",""
+
+Location,Building Type,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,One and Two Family,2018,Number,37,101
+Greenwich Village,One and Two Family,2018,Number,851,102
+Lower East Side,One and Two Family,2018,Number,103,103
+Chelsea/Clinton,One and Two Family,2018,Number,239,104
+Midtown Business District,One and Two Family,2018,Number,26,105
+Murray Hill/Stuyvesant,One and Two Family,2018,Number,356,106
+Upper West Side,One and Two Family,2018,Number,664,107
+Upper East Side,One and Two Family,2018,Number,1304,108
+Manhattanville,One and Two Family,2018,Number,636,109
+Central Harlem,One and Two Family,2018,Number,1024,110
+East Harlem,One and Two Family,2018,Number,175,111
+Washington Heights,One and Two Family,2018,Number,276,112
+Mott Haven,One and Two Family,2018,Number,1867,201
+Hunts Point,One and Two Family,2018,Number,1466,202
+Morrisania,One and Two Family,2018,Number,2018,203
+Concourse/Highbridge,One and Two Family,2018,Number,1326,204
+University Heights,One and Two Family,2018,Number,2054,205
+East Tremont,One and Two Family,2018,Number,2229,206
+Bedford Park,One and Two Family,2018,Number,2046,207
+Riverdale,One and Two Family,2018,Number,4108,208
+Unionport/Soundview,One and Two Family,2018,Number,10515,209
+Throgs Neck,One and Two Family,2018,Number,17519,210
+Pelham Parkway,One and Two Family,2018,Number,14471,211
+Williamsbridge,One and Two Family,2018,Number,22840,212
+Williamsburg/Greenpoint,One and Two Family,2018,Number,4679,301
+Fort Greene/Brooklyn Hts,One and Two Family,2018,Number,4212,302
+Bedford Stuyvesant,One and Two Family,2018,Number,12967,303
+Bushwick,One and Two Family,2018,Number,7815,304
+East New York,One and Two Family,2018,Number,21082,305
+Park Slope,One and Two Family,2018,Number,8010,306
+Sunset Park,One and Two Family,2018,Number,11758,307
+Crown Heights North,One and Two Family,2018,Number,5038,308
+Crown Heights South,One and Two Family,2018,Number,6567,309
+Bay Ridge,One and Two Family,2018,Number,17812,310
+Bensonhurst,One and Two Family,2018,Number,22507,311
+Borough Park,One and Two Family,2018,Number,16996,312
+Coney Island,One and Two Family,2018,Number,5364,313
+Flatbush/Midwood,One and Two Family,2018,Number,10504,314
+Sheepshead Bay,One and Two Family,2018,Number,25889,315
+Brownsville,One and Two Family,2018,Number,5982,316
+East Flatbush,One and Two Family,2018,Number,18421,317
+Canarsie,One and Two Family,2018,Number,45434,318
+Astoria,One and Two Family,2018,Number,14201,401
+Sunnyside/Woodside,One and Two Family,2018,Number,7772,402
+Jackson Heights,One and Two Family,2018,Number,14728,403
+Elmhurst/Corona,One and Two Family,2018,Number,8082,404
+Ridgewood/Glendale,One and Two Family,2018,Number,33365,405
+Rego Park/Forest Hills,One and Two Family,2018,Number,10363,406
+Flushing,One and Two Family,2018,Number,36900,407
+Fresh Meadows/Briarwood,One and Two Family,2018,Number,20364,408
+Woodhaven,One and Two Family,2018,Number,23748,409
+Howard Beach,One and Two Family,2018,Number,29946,410
+Bayside,One and Two Family,2018,Number,27692,411
+Jamaica/St. Albans,One and Two Family,2018,Number,47347,412
+Queens Village,One and Two Family,2018,Number,48993,413
+The Rockaways,One and Two Family,2018,Number,19343,414
+St. George,One and Two Family,2018,Number,42411,501
+South Beach,One and Two Family,2018,Number,38289,502
+Tottenville,One and Two Family,2018,Number,56235,503
+Bronx,One and Two Family,2018,Number,251037,36005
+Brooklyn,One and Two Family,2018,Number,82260,36047
+Manhattan,One and Two Family,2018,Number,5892,36061
+Queens,One and Two Family,2018,Number,342846,36081
+Staten Island,One and Two Family,2018,Number,136935,36085
+New York City,One and Two Family,2018,Number,818970,3651000
+Battery Park/Tribeca,One and Two Family,2018,Percent,0.00084,101
+Greenwich Village,One and Two Family,2018,Percent,0.01489,102
+Lower East Side,One and Two Family,2018,Percent,0.00127,103
+Chelsea/Clinton,One and Two Family,2018,Percent,0.00281,104
+Midtown Business District,One and Two Family,2018,Percent,0.00055,105
+Murray Hill/Stuyvesant,One and Two Family,2018,Percent,0.00358,106
+Upper West Side,One and Two Family,2018,Percent,0.00521,107
+Upper East Side,One and Two Family,2018,Percent,0.00874,108
+Manhattanville,One and Two Family,2018,Percent,0.01398,109
+Central Harlem,One and Two Family,2018,Percent,0.0172,110
+East Harlem,One and Two Family,2018,Percent,0.00307,111
+Washington Heights,One and Two Family,2018,Percent,0.00379,112
+Mott Haven,One and Two Family,2018,Percent,0.04779,201
+Hunts Point,One and Two Family,2018,Percent,0.07285,202
+Morrisania,One and Two Family,2018,Percent,0.05894,203
+Concourse/Highbridge,One and Two Family,2018,Percent,0.02555,204
+University Heights,One and Two Family,2018,Percent,0.04014,205
+East Tremont,One and Two Family,2018,Percent,0.06754,206
+Bedford Park,One and Two Family,2018,Percent,0.03936,207
+Riverdale,One and Two Family,2018,Percent,0.093,208
+Unionport/Soundview,One and Two Family,2018,Percent,0.16209,209
+Throgs Neck,One and Two Family,2018,Percent,0.35294,210
+Pelham Parkway,One and Two Family,2018,Percent,0.27436,211
+Williamsbridge,One and Two Family,2018,Percent,0.41572,212
+Williamsburg/Greenpoint,One and Two Family,2018,Percent,0.05434,301
+Fort Greene/Brooklyn Hts,One and Two Family,2018,Percent,0.06135,302
+Bedford Stuyvesant,One and Two Family,2018,Percent,0.18394,303
+Bushwick,One and Two Family,2018,Percent,0.18151,304
+East New York,One and Two Family,2018,Percent,0.32038,305
+Park Slope,One and Two Family,2018,Percent,0.14689,306
+Sunset Park,One and Two Family,2018,Percent,0.28376,307
+Crown Heights North,One and Two Family,2018,Percent,0.10659,308
+Crown Heights South,One and Two Family,2018,Percent,0.16273,309
+Bay Ridge,One and Two Family,2018,Percent,0.34208,310
+Bensonhurst,One and Two Family,2018,Percent,0.33058,311
+Borough Park,One and Two Family,2018,Percent,0.28147,312
+Coney Island,One and Two Family,2018,Percent,0.11555,313
+Flatbush/Midwood,One and Two Family,2018,Percent,0.17133,314
+Sheepshead Bay,One and Two Family,2018,Percent,0.39979,315
+Brownsville,One and Two Family,2018,Percent,0.1642,316
+East Flatbush,One and Two Family,2018,Percent,0.31695,317
+Canarsie,One and Two Family,2018,Percent,0.69645,318
+Astoria,One and Two Family,2018,Percent,0.16241,401
+Sunnyside/Woodside,One and Two Family,2018,Percent,0.11558,402
+Jackson Heights,One and Two Family,2018,Percent,0.27851,403
+Elmhurst/Corona,One and Two Family,2018,Percent,0.15073,404
+Ridgewood/Glendale,One and Two Family,2018,Percent,0.50302,405
+Rego Park/Forest Hills,One and Two Family,2018,Percent,0.1859,406
+Flushing,One and Two Family,2018,Percent,0.38334,407
+Fresh Meadows/Briarwood,One and Two Family,2018,Percent,0.34498,408
+Woodhaven,One and Two Family,2018,Percent,0.51399,409
+Howard Beach,One and Two Family,2018,Percent,0.76403,410
+Bayside,One and Two Family,2018,Percent,0.61313,411
+Jamaica/St. Albans,One and Two Family,2018,Percent,0.61554,412
+Queens Village,One and Two Family,2018,Percent,0.8059,413
+The Rockaways,One and Two Family,2018,Percent,0.4223,414
+St. George,One and Two Family,2018,Percent,0.65239,501
+South Beach,One and Two Family,2018,Percent,0.78571,502
+Tottenville,One and Two Family,2018,Percent,0.9242,503
+Bronx,One and Two Family,2018,Percent,0.24361,36005
+Brooklyn,One and Two Family,2018,Percent,0.15101,36047
+Manhattan,One and Two Family,2018,Percent,0.00634,36061
+Queens,One and Two Family,2018,Percent,0.40211,36081
+Staten Island,One and Two Family,2018,Percent,0.78433,36085
+New York City,One and Two Family,2018,Percent,0.2319,3651000
+Battery Park/Tribeca,Multi-Family Walk-Up,2018,Number,385,101
+Greenwich Village,Multi-Family Walk-Up,2018,Number,10777,102
+Lower East Side,Multi-Family Walk-Up,2018,Number,13333,103
+Chelsea/Clinton,Multi-Family Walk-Up,2018,Number,13271,104
+Midtown Business District,Multi-Family Walk-Up,2018,Number,719,105
+Murray Hill/Stuyvesant,Multi-Family Walk-Up,2018,Number,5611,106
+Upper West Side,Multi-Family Walk-Up,2018,Number,19173,107
+Upper East Side,Multi-Family Walk-Up,2018,Number,20270,108
+Manhattanville,Multi-Family Walk-Up,2018,Number,11704,109
+Central Harlem,Multi-Family Walk-Up,2018,Number,18700,110
+East Harlem,Multi-Family Walk-Up,2018,Number,9228,111
+Washington Heights,Multi-Family Walk-Up,2018,Number,22777,112
+Mott Haven,Multi-Family Walk-Up,2018,Number,7487,201
+Hunts Point,Multi-Family Walk-Up,2018,Number,6602,202
+Morrisania,Multi-Family Walk-Up,2018,Number,9305,203
+Concourse/Highbridge,Multi-Family Walk-Up,2018,Number,14057,204
+University Heights,Multi-Family Walk-Up,2018,Number,13310,205
+East Tremont,Multi-Family Walk-Up,2018,Number,12168,206
+Bedford Park,Multi-Family Walk-Up,2018,Number,17722,207
+Riverdale,Multi-Family Walk-Up,2018,Number,6493,208
+Unionport/Soundview,Multi-Family Walk-Up,2018,Number,17018,209
+Throgs Neck,Multi-Family Walk-Up,2018,Number,8909,210
+Pelham Parkway,Multi-Family Walk-Up,2018,Number,8357,211
+Williamsbridge,Multi-Family Walk-Up,2018,Number,17144,212
+Williamsburg/Greenpoint,Multi-Family Walk-Up,2018,Number,34766,301
+Fort Greene/Brooklyn Hts,Multi-Family Walk-Up,2018,Number,16264,302
+Bedford Stuyvesant,Multi-Family Walk-Up,2018,Number,31267,303
+Bushwick,Multi-Family Walk-Up,2018,Number,24172,304
+East New York,Multi-Family Walk-Up,2018,Number,18795,305
+Park Slope,Multi-Family Walk-Up,2018,Number,27474,306
+Sunset Park,Multi-Family Walk-Up,2018,Number,19047,307
+Crown Heights North,Multi-Family Walk-Up,2018,Number,23161,308
+Crown Heights South,Multi-Family Walk-Up,2018,Number,10923,309
+Bay Ridge,Multi-Family Walk-Up,2018,Number,14083,310
+Bensonhurst,Multi-Family Walk-Up,2018,Number,28173,311
+Borough Park,Multi-Family Walk-Up,2018,Number,22800,312
+Coney Island,Multi-Family Walk-Up,2018,Number,6437,313
+Flatbush/Midwood,Multi-Family Walk-Up,2018,Number,12642,314
+Sheepshead Bay,Multi-Family Walk-Up,2018,Number,9606,315
+Brownsville,Multi-Family Walk-Up,2018,Number,13432,316
+East Flatbush,Multi-Family Walk-Up,2018,Number,20556,317
+Canarsie,Multi-Family Walk-Up,2018,Number,10113,318
+Astoria,Multi-Family Walk-Up,2018,Number,38583,401
+Sunnyside/Woodside,Multi-Family Walk-Up,2018,Number,16122,402
+Jackson Heights,Multi-Family Walk-Up,2018,Number,15515,403
+Elmhurst/Corona,Multi-Family Walk-Up,2018,Number,19064,404
+Ridgewood/Glendale,Multi-Family Walk-Up,2018,Number,25610,405
+Rego Park/Forest Hills,Multi-Family Walk-Up,2018,Number,2909,406
+Flushing,Multi-Family Walk-Up,2018,Number,17371,407
+Fresh Meadows/Briarwood,Multi-Family Walk-Up,2018,Number,15131,408
+Woodhaven,Multi-Family Walk-Up,2018,Number,10046,409
+Howard Beach,Multi-Family Walk-Up,2018,Number,5473,410
+Bayside,Multi-Family Walk-Up,2018,Number,12948,411
+Jamaica/St. Albans,Multi-Family Walk-Up,2018,Number,6875,412
+Queens Village,Multi-Family Walk-Up,2018,Number,8026,413
+The Rockaways,Multi-Family Walk-Up,2018,Number,5682,414
+St. George,Multi-Family Walk-Up,2018,Number,9246,501
+South Beach,Multi-Family Walk-Up,2018,Number,5893,502
+Tottenville,Multi-Family Walk-Up,2018,Number,3045,503
+Bronx,Multi-Family Walk-Up,2018,Number,343711,36005
+Brooklyn,Multi-Family Walk-Up,2018,Number,137805,36047
+Manhattan,Multi-Family Walk-Up,2018,Number,146715,36061
+Queens,Multi-Family Walk-Up,2018,Number,199355,36081
+Staten Island,Multi-Family Walk-Up,2018,Number,18184,36085
+New York City,Multi-Family Walk-Up,2018,Number,845770,3651000
+Battery Park/Tribeca,Multi-Family Walk-Up,2018,Percent,0.00877,101
+Greenwich Village,Multi-Family Walk-Up,2018,Percent,0.18859,102
+Lower East Side,Multi-Family Walk-Up,2018,Percent,0.16379,103
+Chelsea/Clinton,Multi-Family Walk-Up,2018,Percent,0.15583,104
+Midtown Business District,Multi-Family Walk-Up,2018,Percent,0.01518,105
+Murray Hill/Stuyvesant,Multi-Family Walk-Up,2018,Percent,0.05647,106
+Upper West Side,Multi-Family Walk-Up,2018,Percent,0.15036,107
+Upper East Side,Multi-Family Walk-Up,2018,Percent,0.13584,108
+Manhattanville,Multi-Family Walk-Up,2018,Percent,0.25726,109
+Central Harlem,Multi-Family Walk-Up,2018,Percent,0.31407,110
+East Harlem,Multi-Family Walk-Up,2018,Percent,0.16192,111
+Washington Heights,Multi-Family Walk-Up,2018,Percent,0.31246,112
+Mott Haven,Multi-Family Walk-Up,2018,Percent,0.19166,201
+Hunts Point,Multi-Family Walk-Up,2018,Percent,0.32808,202
+Morrisania,Multi-Family Walk-Up,2018,Percent,0.27177,203
+Concourse/Highbridge,Multi-Family Walk-Up,2018,Percent,0.27088,204
+University Heights,Multi-Family Walk-Up,2018,Percent,0.26012,205
+East Tremont,Multi-Family Walk-Up,2018,Percent,0.36867,206
+Bedford Park,Multi-Family Walk-Up,2018,Percent,0.34093,207
+Riverdale,Multi-Family Walk-Up,2018,Percent,0.14699,208
+Unionport/Soundview,Multi-Family Walk-Up,2018,Percent,0.26234,209
+Throgs Neck,Multi-Family Walk-Up,2018,Percent,0.17948,210
+Pelham Parkway,Multi-Family Walk-Up,2018,Percent,0.15844,211
+Williamsbridge,Multi-Family Walk-Up,2018,Percent,0.31204,212
+Williamsburg/Greenpoint,Multi-Family Walk-Up,2018,Percent,0.40375,301
+Fort Greene/Brooklyn Hts,Multi-Family Walk-Up,2018,Percent,0.23691,302
+Bedford Stuyvesant,Multi-Family Walk-Up,2018,Percent,0.44353,303
+Bushwick,Multi-Family Walk-Up,2018,Percent,0.56141,304
+East New York,Multi-Family Walk-Up,2018,Percent,0.28562,305
+Park Slope,Multi-Family Walk-Up,2018,Percent,0.50384,306
+Sunset Park,Multi-Family Walk-Up,2018,Percent,0.45967,307
+Crown Heights North,Multi-Family Walk-Up,2018,Percent,0.49003,308
+Crown Heights South,Multi-Family Walk-Up,2018,Percent,0.27068,309
+Bay Ridge,Multi-Family Walk-Up,2018,Percent,0.27046,310
+Bensonhurst,Multi-Family Walk-Up,2018,Percent,0.4138,311
+Borough Park,Multi-Family Walk-Up,2018,Percent,0.37759,312
+Coney Island,Multi-Family Walk-Up,2018,Percent,0.13867,313
+Flatbush/Midwood,Multi-Family Walk-Up,2018,Percent,0.2062,314
+Sheepshead Bay,Multi-Family Walk-Up,2018,Percent,0.14834,315
+Brownsville,Multi-Family Walk-Up,2018,Percent,0.36869,316
+East Flatbush,Multi-Family Walk-Up,2018,Percent,0.35368,317
+Canarsie,Multi-Family Walk-Up,2018,Percent,0.15502,318
+Astoria,Multi-Family Walk-Up,2018,Percent,0.44126,401
+Sunnyside/Woodside,Multi-Family Walk-Up,2018,Percent,0.23976,402
+Jackson Heights,Multi-Family Walk-Up,2018,Percent,0.29339,403
+Elmhurst/Corona,Multi-Family Walk-Up,2018,Percent,0.35555,404
+Ridgewood/Glendale,Multi-Family Walk-Up,2018,Percent,0.38611,405
+Rego Park/Forest Hills,Multi-Family Walk-Up,2018,Percent,0.05218,406
+Flushing,Multi-Family Walk-Up,2018,Percent,0.18046,407
+Fresh Meadows/Briarwood,Multi-Family Walk-Up,2018,Percent,0.25633,408
+Woodhaven,Multi-Family Walk-Up,2018,Percent,0.21743,409
+Howard Beach,Multi-Family Walk-Up,2018,Percent,0.13964,410
+Bayside,Multi-Family Walk-Up,2018,Percent,0.28668,411
+Jamaica/St. Albans,Multi-Family Walk-Up,2018,Percent,0.08938,412
+Queens Village,Multi-Family Walk-Up,2018,Percent,0.13202,413
+The Rockaways,Multi-Family Walk-Up,2018,Percent,0.12405,414
+St. George,Multi-Family Walk-Up,2018,Percent,0.14223,501
+South Beach,Multi-Family Walk-Up,2018,Percent,0.12093,502
+Tottenville,Multi-Family Walk-Up,2018,Percent,0.05004,503
+Bronx,Multi-Family Walk-Up,2018,Percent,0.33354,36005
+Brooklyn,Multi-Family Walk-Up,2018,Percent,0.25298,36047
+Manhattan,Multi-Family Walk-Up,2018,Percent,0.15791,36061
+Queens,Multi-Family Walk-Up,2018,Percent,0.23381,36081
+Staten Island,Multi-Family Walk-Up,2018,Percent,0.10415,36085
+New York City,Multi-Family Walk-Up,2018,Percent,0.23949,3651000
+Battery Park/Tribeca,Multi-Family Elevator,2018,Number,14580,101
+Greenwich Village,Multi-Family Elevator,2018,Number,18683,102
+Lower East Side,Multi-Family Elevator,2018,Number,27794,103
+Chelsea/Clinton,Multi-Family Elevator,2018,Number,29087,104
+Midtown Business District,Multi-Family Elevator,2018,Number,13955,105
+Murray Hill/Stuyvesant,Multi-Family Elevator,2018,Number,40223,106
+Upper West Side,Multi-Family Elevator,2018,Number,58597,107
+Upper East Side,Multi-Family Elevator,2018,Number,68880,108
+Manhattanville,Multi-Family Elevator,2018,Number,23151,109
+Central Harlem,Multi-Family Elevator,2018,Number,19880,110
+East Harlem,Multi-Family Elevator,2018,Number,30204,111
+Washington Heights,Multi-Family Elevator,2018,Number,25280,112
+Mott Haven,Multi-Family Elevator,2018,Number,18335,201
+Hunts Point,Multi-Family Elevator,2018,Number,5831,202
+Morrisania,Multi-Family Elevator,2018,Number,12047,203
+Concourse/Highbridge,Multi-Family Elevator,2018,Number,22394,204
+University Heights,Multi-Family Elevator,2018,Number,23301,205
+East Tremont,Multi-Family Elevator,2018,Number,9820,206
+Bedford Park,Multi-Family Elevator,2018,Number,20434,207
+Riverdale,Multi-Family Elevator,2018,Number,28670,208
+Unionport/Soundview,Multi-Family Elevator,2018,Number,26700,209
+Throgs Neck,Multi-Family Elevator,2018,Number,20528,210
+Pelham Parkway,Multi-Family Elevator,2018,Number,24830,211
+Williamsbridge,Multi-Family Elevator,2018,Number,11244,212
+Williamsburg/Greenpoint,Multi-Family Elevator,2018,Number,21312,301
+Fort Greene/Brooklyn Hts,Multi-Family Elevator,2018,Number,19689,302
+Bedford Stuyvesant,Multi-Family Elevator,2018,Number,17096,303
+Bushwick,Multi-Family Elevator,2018,Number,4250,304
+East New York,Multi-Family Elevator,2018,Number,17342,305
+Park Slope,Multi-Family Elevator,2018,Number,9758,306
+Sunset Park,Multi-Family Elevator,2018,Number,3580,307
+Crown Heights North,Multi-Family Elevator,2018,Number,13001,308
+Crown Heights South,Multi-Family Elevator,2018,Number,15109,309
+Bay Ridge,Multi-Family Elevator,2018,Number,12523,310
+Bensonhurst,Multi-Family Elevator,2018,Number,8649,311
+Borough Park,Multi-Family Elevator,2018,Number,12864,312
+Coney Island,Multi-Family Elevator,2018,Number,27951,313
+Flatbush/Midwood,Multi-Family Elevator,2018,Number,32545,314
+Sheepshead Bay,Multi-Family Elevator,2018,Number,24430,315
+Brownsville,Multi-Family Elevator,2018,Number,12255,316
+East Flatbush,Multi-Family Elevator,2018,Number,12197,317
+Canarsie,Multi-Family Elevator,2018,Number,7736,318
+Astoria,Multi-Family Elevator,2018,Number,18666,401
+Sunnyside/Woodside,Multi-Family Elevator,2018,Number,18980,402
+Jackson Heights,Multi-Family Elevator,2018,Number,17736,403
+Elmhurst/Corona,Multi-Family Elevator,2018,Number,18156,404
+Ridgewood/Glendale,Multi-Family Elevator,2018,Number,1819,405
+Rego Park/Forest Hills,Multi-Family Elevator,2018,Number,33645,406
+Flushing,Multi-Family Elevator,2018,Number,27397,407
+Fresh Meadows/Briarwood,Multi-Family Elevator,2018,Number,18077,408
+Woodhaven,Multi-Family Elevator,2018,Number,8225,409
+Howard Beach,Multi-Family Elevator,2018,Number,2183,410
+Bayside,Multi-Family Elevator,2018,Number,3668,411
+Jamaica/St. Albans,Multi-Family Elevator,2018,Number,17619,412
+Queens Village,Multi-Family Elevator,2018,Number,2630,413
+The Rockaways,Multi-Family Elevator,2018,Number,18928,414
+St. George,Multi-Family Elevator,2018,Number,10152,501
+South Beach,Multi-Family Elevator,2018,Number,3750,502
+Tottenville,Multi-Family Elevator,2018,Number,1086,503
+Bronx,Multi-Family Elevator,2018,Number,272287,36005
+Brooklyn,Multi-Family Elevator,2018,Number,222253,36047
+Manhattan,Multi-Family Elevator,2018,Number,372219,36061
+Queens,Multi-Family Elevator,2018,Number,207729,36081
+Staten Island,Multi-Family Elevator,2018,Number,14988,36085
+New York City,Multi-Family Elevator,2018,Number,1089476,3651000
+Battery Park/Tribeca,Multi-Family Elevator,2018,Percent,0.33218,101
+Greenwich Village,Multi-Family Elevator,2018,Percent,0.32693,102
+Lower East Side,Multi-Family Elevator,2018,Percent,0.34143,103
+Chelsea/Clinton,Multi-Family Elevator,2018,Percent,0.34155,104
+Midtown Business District,Multi-Family Elevator,2018,Percent,0.29458,105
+Murray Hill/Stuyvesant,Multi-Family Elevator,2018,Percent,0.40481,106
+Upper West Side,Multi-Family Elevator,2018,Percent,0.45953,107
+Upper East Side,Multi-Family Elevator,2018,Percent,0.46161,108
+Manhattanville,Multi-Family Elevator,2018,Percent,0.50887,109
+Central Harlem,Multi-Family Elevator,2018,Percent,0.33389,110
+East Harlem,Multi-Family Elevator,2018,Percent,0.52999,111
+Washington Heights,Multi-Family Elevator,2018,Percent,0.3468,112
+Mott Haven,Multi-Family Elevator,2018,Percent,0.46937,201
+Hunts Point,Multi-Family Elevator,2018,Percent,0.28977,202
+Morrisania,Multi-Family Elevator,2018,Percent,0.35186,203
+Concourse/Highbridge,Multi-Family Elevator,2018,Percent,0.43153,204
+University Heights,Multi-Family Elevator,2018,Percent,0.45537,205
+East Tremont,Multi-Family Elevator,2018,Percent,0.29753,206
+Bedford Park,Multi-Family Elevator,2018,Percent,0.3931,207
+Riverdale,Multi-Family Elevator,2018,Percent,0.64905,208
+Unionport/Soundview,Multi-Family Elevator,2018,Percent,0.41159,209
+Throgs Neck,Multi-Family Elevator,2018,Percent,0.41355,210
+Pelham Parkway,Multi-Family Elevator,2018,Percent,0.47076,211
+Williamsbridge,Multi-Family Elevator,2018,Percent,0.20466,212
+Williamsburg/Greenpoint,Multi-Family Elevator,2018,Percent,0.24751,301
+Fort Greene/Brooklyn Hts,Multi-Family Elevator,2018,Percent,0.2868,302
+Bedford Stuyvesant,Multi-Family Elevator,2018,Percent,0.24251,303
+Bushwick,Multi-Family Elevator,2018,Percent,0.09871,304
+East New York,Multi-Family Elevator,2018,Percent,0.26354,305
+Park Slope,Multi-Family Elevator,2018,Percent,0.17895,306
+Sunset Park,Multi-Family Elevator,2018,Percent,0.0864,307
+Crown Heights North,Multi-Family Elevator,2018,Percent,0.27507,308
+Crown Heights South,Multi-Family Elevator,2018,Percent,0.37441,309
+Bay Ridge,Multi-Family Elevator,2018,Percent,0.2405,310
+Bensonhurst,Multi-Family Elevator,2018,Percent,0.12704,311
+Borough Park,Multi-Family Elevator,2018,Percent,0.21304,312
+Coney Island,Multi-Family Elevator,2018,Percent,0.60212,313
+Flatbush/Midwood,Multi-Family Elevator,2018,Percent,0.53083,314
+Sheepshead Bay,Multi-Family Elevator,2018,Percent,0.37726,315
+Brownsville,Multi-Family Elevator,2018,Percent,0.33638,316
+East Flatbush,Multi-Family Elevator,2018,Percent,0.20986,317
+Canarsie,Multi-Family Elevator,2018,Percent,0.11858,318
+Astoria,Multi-Family Elevator,2018,Percent,0.21348,401
+Sunnyside/Woodside,Multi-Family Elevator,2018,Percent,0.28226,402
+Jackson Heights,Multi-Family Elevator,2018,Percent,0.33539,403
+Elmhurst/Corona,Multi-Family Elevator,2018,Percent,0.33862,404
+Ridgewood/Glendale,Multi-Family Elevator,2018,Percent,0.02742,405
+Rego Park/Forest Hills,Multi-Family Elevator,2018,Percent,0.60356,406
+Flushing,Multi-Family Elevator,2018,Percent,0.28461,407
+Fresh Meadows/Briarwood,Multi-Family Elevator,2018,Percent,0.30623,408
+Woodhaven,Multi-Family Elevator,2018,Percent,0.17802,409
+Howard Beach,Multi-Family Elevator,2018,Percent,0.0557,410
+Bayside,Multi-Family Elevator,2018,Percent,0.08121,411
+Jamaica/St. Albans,Multi-Family Elevator,2018,Percent,0.22906,412
+Queens Village,Multi-Family Elevator,2018,Percent,0.04326,413
+The Rockaways,Multi-Family Elevator,2018,Percent,0.41324,414
+St. George,Multi-Family Elevator,2018,Percent,0.15616,501
+South Beach,Multi-Family Elevator,2018,Percent,0.07695,502
+Tottenville,Multi-Family Elevator,2018,Percent,0.01785,503
+Bronx,Multi-Family Elevator,2018,Percent,0.26423,36005
+Brooklyn,Multi-Family Elevator,2018,Percent,0.408,36047
+Manhattan,Multi-Family Elevator,2018,Percent,0.40061,36061
+Queens,Multi-Family Elevator,2018,Percent,0.24363,36081
+Staten Island,Multi-Family Elevator,2018,Percent,0.08585,36085
+New York City,Multi-Family Elevator,2018,Percent,0.3085,3651000
+Battery Park/Tribeca,Mixed Residential and Commercial,2018,Number,28890,101
+Greenwich Village,Mixed Residential and Commercial,2018,Number,26835,102
+Lower East Side,Mixed Residential and Commercial,2018,Number,40174,103
+Chelsea/Clinton,Mixed Residential and Commercial,2018,Number,42566,104
+Midtown Business District,Mixed Residential and Commercial,2018,Number,32673,105
+Murray Hill/Stuyvesant,Mixed Residential and Commercial,2018,Number,53172,106
+Upper West Side,Mixed Residential and Commercial,2018,Number,49082,107
+Upper East Side,Mixed Residential and Commercial,2018,Number,58763,108
+Manhattanville,Mixed Residential and Commercial,2018,Number,10004,109
+Central Harlem,Mixed Residential and Commercial,2018,Number,19937,110
+East Harlem,Mixed Residential and Commercial,2018,Number,17383,111
+Washington Heights,Mixed Residential and Commercial,2018,Number,24562,112
+Mott Haven,Mixed Residential and Commercial,2018,Number,11374,201
+Hunts Point,Mixed Residential and Commercial,2018,Number,6224,202
+Morrisania,Mixed Residential and Commercial,2018,Number,10868,203
+Concourse/Highbridge,Mixed Residential and Commercial,2018,Number,14117,204
+University Heights,Mixed Residential and Commercial,2018,Number,12504,205
+East Tremont,Mixed Residential and Commercial,2018,Number,8788,206
+Bedford Park,Mixed Residential and Commercial,2018,Number,11780,207
+Riverdale,Mixed Residential and Commercial,2018,Number,4901,208
+Unionport/Soundview,Mixed Residential and Commercial,2018,Number,10638,209
+Throgs Neck,Mixed Residential and Commercial,2018,Number,2682,210
+Pelham Parkway,Mixed Residential and Commercial,2018,Number,5086,211
+Williamsbridge,Mixed Residential and Commercial,2018,Number,3713,212
+Williamsburg/Greenpoint,Mixed Residential and Commercial,2018,Number,25350,301
+Fort Greene/Brooklyn Hts,Mixed Residential and Commercial,2018,Number,28485,302
+Bedford Stuyvesant,Mixed Residential and Commercial,2018,Number,9166,303
+Bushwick,Mixed Residential and Commercial,2018,Number,6819,304
+East New York,Mixed Residential and Commercial,2018,Number,8585,305
+Park Slope,Mixed Residential and Commercial,2018,Number,9287,306
+Sunset Park,Mixed Residential and Commercial,2018,Number,7051,307
+Crown Heights North,Mixed Residential and Commercial,2018,Number,6064,308
+Crown Heights South,Mixed Residential and Commercial,2018,Number,7755,309
+Bay Ridge,Mixed Residential and Commercial,2018,Number,7652,310
+Bensonhurst,Mixed Residential and Commercial,2018,Number,8754,311
+Borough Park,Mixed Residential and Commercial,2018,Number,7723,312
+Coney Island,Mixed Residential and Commercial,2018,Number,6669,313
+Flatbush/Midwood,Mixed Residential and Commercial,2018,Number,5619,314
+Sheepshead Bay,Mixed Residential and Commercial,2018,Number,4831,315
+Brownsville,Mixed Residential and Commercial,2018,Number,4763,316
+East Flatbush,Mixed Residential and Commercial,2018,Number,6946,317
+Canarsie,Mixed Residential and Commercial,2018,Number,1954,318
+Astoria,Mixed Residential and Commercial,2018,Number,15988,401
+Sunnyside/Woodside,Mixed Residential and Commercial,2018,Number,24369,402
+Jackson Heights,Mixed Residential and Commercial,2018,Number,4903,403
+Elmhurst/Corona,Mixed Residential and Commercial,2018,Number,8316,404
+Ridgewood/Glendale,Mixed Residential and Commercial,2018,Number,5535,405
+Rego Park/Forest Hills,Mixed Residential and Commercial,2018,Number,8827,406
+Flushing,Mixed Residential and Commercial,2018,Number,14592,407
+Fresh Meadows/Briarwood,Mixed Residential and Commercial,2018,Number,5458,408
+Woodhaven,Mixed Residential and Commercial,2018,Number,4184,409
+Howard Beach,Mixed Residential and Commercial,2018,Number,1593,410
+Bayside,Mixed Residential and Commercial,2018,Number,857,411
+Jamaica/St. Albans,Mixed Residential and Commercial,2018,Number,5079,412
+Queens Village,Mixed Residential and Commercial,2018,Number,1144,413
+The Rockaways,Mixed Residential and Commercial,2018,Number,1851,414
+St. George,Mixed Residential and Commercial,2018,Number,3200,501
+South Beach,Mixed Residential and Commercial,2018,Number,800,502
+Tottenville,Mixed Residential and Commercial,2018,Number,481,503
+Bronx,Mixed Residential and Commercial,2018,Number,163473,36005
+Brooklyn,Mixed Residential and Commercial,2018,Number,102416,36047
+Manhattan,Mixed Residential and Commercial,2018,Number,404300,36061
+Queens,Mixed Residential and Commercial,2018,Number,102696,36081
+Staten Island,Mixed Residential and Commercial,2018,Number,4481,36085
+New York City,Mixed Residential and Commercial,2018,Number,777366,3651000
+Battery Park/Tribeca,Mixed Residential and Commercial,2018,Percent,0.65821,101
+Greenwich Village,Mixed Residential and Commercial,2018,Percent,0.46959,102
+Lower East Side,Mixed Residential and Commercial,2018,Percent,0.49351,103
+Chelsea/Clinton,Mixed Residential and Commercial,2018,Percent,0.49982,104
+Midtown Business District,Mixed Residential and Commercial,2018,Percent,0.6897,105
+Murray Hill/Stuyvesant,Mixed Residential and Commercial,2018,Percent,0.53513,106
+Upper West Side,Mixed Residential and Commercial,2018,Percent,0.38491,107
+Upper East Side,Mixed Residential and Commercial,2018,Percent,0.39381,108
+Manhattanville,Mixed Residential and Commercial,2018,Percent,0.21989,109
+Central Harlem,Mixed Residential and Commercial,2018,Percent,0.33484,110
+East Harlem,Mixed Residential and Commercial,2018,Percent,0.30502,111
+Washington Heights,Mixed Residential and Commercial,2018,Percent,0.33695,112
+Mott Haven,Mixed Residential and Commercial,2018,Percent,0.29117,201
+Hunts Point,Mixed Residential and Commercial,2018,Percent,0.3093,202
+Morrisania,Mixed Residential and Commercial,2018,Percent,0.31743,203
+Concourse/Highbridge,Mixed Residential and Commercial,2018,Percent,0.27204,204
+University Heights,Mixed Residential and Commercial,2018,Percent,0.24437,205
+East Tremont,Mixed Residential and Commercial,2018,Percent,0.26626,206
+Bedford Park,Mixed Residential and Commercial,2018,Percent,0.22662,207
+Riverdale,Mixed Residential and Commercial,2018,Percent,0.11095,208
+Unionport/Soundview,Mixed Residential and Commercial,2018,Percent,0.16399,209
+Throgs Neck,Mixed Residential and Commercial,2018,Percent,0.05403,210
+Pelham Parkway,Mixed Residential and Commercial,2018,Percent,0.09643,211
+Williamsbridge,Mixed Residential and Commercial,2018,Percent,0.06758,212
+Williamsburg/Greenpoint,Mixed Residential and Commercial,2018,Percent,0.2944,301
+Fort Greene/Brooklyn Hts,Mixed Residential and Commercial,2018,Percent,0.41493,302
+Bedford Stuyvesant,Mixed Residential and Commercial,2018,Percent,0.13002,303
+Bushwick,Mixed Residential and Commercial,2018,Percent,0.15838,304
+East New York,Mixed Residential and Commercial,2018,Percent,0.13046,305
+Park Slope,Mixed Residential and Commercial,2018,Percent,0.17031,306
+Sunset Park,Mixed Residential and Commercial,2018,Percent,0.17017,307
+Crown Heights North,Mixed Residential and Commercial,2018,Percent,0.1283,308
+Crown Heights South,Mixed Residential and Commercial,2018,Percent,0.19217,309
+Bay Ridge,Mixed Residential and Commercial,2018,Percent,0.14696,310
+Bensonhurst,Mixed Residential and Commercial,2018,Percent,0.12858,311
+Borough Park,Mixed Residential and Commercial,2018,Percent,0.1279,312
+Coney Island,Mixed Residential and Commercial,2018,Percent,0.14366,313
+Flatbush/Midwood,Mixed Residential and Commercial,2018,Percent,0.09165,314
+Sheepshead Bay,Mixed Residential and Commercial,2018,Percent,0.0746,315
+Brownsville,Mixed Residential and Commercial,2018,Percent,0.13074,316
+East Flatbush,Mixed Residential and Commercial,2018,Percent,0.11951,317
+Canarsie,Mixed Residential and Commercial,2018,Percent,0.02995,318
+Astoria,Mixed Residential and Commercial,2018,Percent,0.18285,401
+Sunnyside/Woodside,Mixed Residential and Commercial,2018,Percent,0.3624,402
+Jackson Heights,Mixed Residential and Commercial,2018,Percent,0.09272,403
+Elmhurst/Corona,Mixed Residential and Commercial,2018,Percent,0.1551,404
+Ridgewood/Glendale,Mixed Residential and Commercial,2018,Percent,0.08345,405
+Rego Park/Forest Hills,Mixed Residential and Commercial,2018,Percent,0.15835,406
+Flushing,Mixed Residential and Commercial,2018,Percent,0.15159,407
+Fresh Meadows/Briarwood,Mixed Residential and Commercial,2018,Percent,0.09246,408
+Woodhaven,Mixed Residential and Commercial,2018,Percent,0.09056,409
+Howard Beach,Mixed Residential and Commercial,2018,Percent,0.04064,410
+Bayside,Mixed Residential and Commercial,2018,Percent,0.01897,411
+Jamaica/St. Albans,Mixed Residential and Commercial,2018,Percent,0.06603,412
+Queens Village,Mixed Residential and Commercial,2018,Percent,0.01882,413
+The Rockaways,Mixed Residential and Commercial,2018,Percent,0.04041,414
+St. George,Mixed Residential and Commercial,2018,Percent,0.04922,501
+South Beach,Mixed Residential and Commercial,2018,Percent,0.01642,502
+Tottenville,Mixed Residential and Commercial,2018,Percent,0.00791,503
+Bronx,Mixed Residential and Commercial,2018,Percent,0.15863,36005
+Brooklyn,Mixed Residential and Commercial,2018,Percent,0.18801,36047
+Manhattan,Mixed Residential and Commercial,2018,Percent,0.43514,36061
+Queens,Mixed Residential and Commercial,2018,Percent,0.12045,36081
+Staten Island,Mixed Residential and Commercial,2018,Percent,0.02567,36085
+New York City,Mixed Residential and Commercial,2018,Percent,0.22012,3651000

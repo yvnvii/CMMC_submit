@@ -1,0 +1,956 @@
+Zipcode,Year,Data Format,Evictions,ZIPCODE,UHFNAME,BOROUGH
+10001,2017,Number,46.0,10001,Chelsea - Clinton,Manhattan
+10002,2017,Number,77.0,10002,Union Square - Lower East Side,Manhattan
+10003,2017,Number,42.0,10003,Union Square - Lower East Side,Manhattan
+10004,2017,Number,3.0,10004,Lower Manhattan,Manhattan
+10005,2017,Number,14.0,10005,Lower Manhattan,Manhattan
+10006,2017,Number,7.0,10006,Lower Manhattan,Manhattan
+10007,2017,Number,5.0,10007,Lower Manhattan,Manhattan
+10009,2017,Number,102.0,10009,Union Square - Lower East Side,Manhattan
+10010,2017,Number,24.0,10010,Gramercy Park -  Murray Hill,Manhattan
+10011,2017,Number,43.0,10011,Chelsea - Clinton,Manhattan
+10012,2017,Number,25.0,10012,Greenwich Village - Soho,Manhattan
+10013,2017,Number,24.0,10013,Greenwich Village - Soho,Manhattan
+10014,2017,Number,29.0,10014,Greenwich Village - Soho,Manhattan
+10016,2017,Number,54.0,10016,Gramercy Park -  Murray Hill,Manhattan
+10017,2017,Number,23.0,10017,Gramercy Park -  Murray Hill,Manhattan
+10018,2017,Number,11.0,10018,Chelsea - Clinton,Manhattan
+10019,2017,Number,95.0,10019,Chelsea - Clinton,Manhattan
+10021,2017,Number,40.0,10021,Upper East Side,Manhattan
+10022,2017,Number,33.0,10022,Gramercy Park -  Murray Hill,Manhattan
+10023,2017,Number,37.0,10023,Upper West Side,Manhattan
+10024,2017,Number,32.0,10024,Upper West Side,Manhattan
+10025,2017,Number,115.0,10025,Upper West Side,Manhattan
+10026,2017,Number,104.0,10026,Central Harlem - Morningside Heights,Manhattan
+10027,2017,Number,129.0,10027,Central Harlem - Morningside Heights,Manhattan
+10028,2017,Number,36.0,10028,Upper East Side,Manhattan
+10029,2017,Number,175.0,10029,East Harlem,Manhattan
+10030,2017,Number,129.0,10030,Central Harlem - Morningside Heights,Manhattan
+10031,2017,Number,189.0,10031,Washington Heights - Inwood,Manhattan
+10032,2017,Number,167.0,10032,Washington Heights - Inwood,Manhattan
+10033,2017,Number,154.0,10033,Washington Heights - Inwood,Manhattan
+10034,2017,Number,114.0,10034,Washington Heights - Inwood,Manhattan
+10035,2017,Number,139.0,10035,East Harlem,Manhattan
+10036,2017,Number,93.0,10036,Chelsea - Clinton,Manhattan
+10037,2017,Number,121.0,10037,Central Harlem - Morningside Heights,Manhattan
+10038,2017,Number,20.0,10038,Lower Manhattan,Manhattan
+10039,2017,Number,120.0,10039,Central Harlem - Morningside Heights,Manhattan
+10040,2017,Number,113.0,10040,Washington Heights - Inwood,Manhattan
+10044,2017,Number,15.0,10044,Upper East Side,Manhattan
+10065,2017,Number,35.0,10065,Upper East Side,Manhattan
+10069,2017,Number,7.0,10069,Upper West Side,Manhattan
+10075,2017,Number,9.0,10075,Upper East Side,Manhattan
+10128,2017,Number,57.0,10128,Upper East Side,Manhattan
+10280,2017,Number,9.0,10280,Lower Manhattan,Manhattan
+10282,2017,Number,3.0,10282,Lower Manhattan,Manhattan
+10301,2017,Number,121.0,10301,Stapleton - St. George,Staten Island
+10302,2017,Number,36.0,10302,Port  Richmond,Staten Island
+10303,2017,Number,86.0,10303,Port  Richmond,Staten Island
+10304,2017,Number,131.0,10304,Stapleton - St. George,Staten Island
+10305,2017,Number,58.0,10305,Stapleton - St. George,Staten Island
+10306,2017,Number,57.0,10306,South Beach - Tottenville,Staten Island
+10307,2017,Number,9.0,10307,South Beach - Tottenville,Staten Island
+10308,2017,Number,13.0,10308,South Beach - Tottenville,Staten Island
+10309,2017,Number,21.0,10309,South Beach - Tottenville,Staten Island
+10310,2017,Number,63.0,10310,Port  Richmond,Staten Island
+10312,2017,Number,30.0,10312,South Beach - Tottenville,Staten Island
+10314,2017,Number,67.0,10314,Willowbrook,Staten Island
+10451,2017,Number,268.0,10451,High Bridge - Morrisania,Bronx
+10452,2017,Number,434.0,10452,High Bridge - Morrisania,Bronx
+10453,2017,Number,579.0,10453,Crotona - Tremont,Bronx
+10454,2017,Number,142.0,10454,Hunts Point - Mott Haven,Bronx
+10455,2017,Number,220.0,10455,Hunts Point - Mott Haven,Bronx
+10456,2017,Number,536.0,10456,High Bridge - Morrisania,Bronx
+10457,2017,Number,526.0,10457,Crotona - Tremont,Bronx
+10458,2017,Number,669.0,10458,Fordham - Bronx Park,Bronx
+10459,2017,Number,335.0,10459,Hunts Point - Mott Haven,Bronx
+10460,2017,Number,471.0,10460,Crotona - Tremont,Bronx
+10461,2017,Number,128.0,10461,Pelham - Throgs Neck,Bronx
+10462,2017,Number,336.0,10462,Pelham - Throgs Neck,Bronx
+10463,2017,Number,205.0,10463,Kingsbridge - Riverdale,Bronx
+10464,2017,Number,12.0,10464,Pelham - Throgs Neck,Bronx
+10465,2017,Number,51.0,10465,Pelham - Throgs Neck,Bronx
+10466,2017,Number,362.0,10466,Northeast Bronx,Bronx
+10467,2017,Number,617.0,10467,Fordham - Bronx Park,Bronx
+10468,2017,Number,532.0,10468,Fordham - Bronx Park,Bronx
+10469,2017,Number,207.0,10469,Northeast Bronx,Bronx
+10470,2017,Number,86.0,10470,Northeast Bronx,Bronx
+10471,2017,Number,47.0,10471,Kingsbridge - Riverdale,Bronx
+10472,2017,Number,329.0,10472,Pelham - Throgs Neck,Bronx
+10473,2017,Number,173.0,10473,Pelham - Throgs Neck,Bronx
+10474,2017,Number,79.0,10474,Hunts Point - Mott Haven,Bronx
+10475,2017,Number,83.0,10475,Northeast Bronx,Bronx
+11001,2017,Number,1.0,11001,Southeast Queens,Queens
+11004,2017,Number,6.0,11004,Southeast Queens,Queens
+11005,2017,Number,0.0,11005,Southeast Queens,Queens
+11040,2017,Number,1.0,11040,Southeast Queens,Queens
+11096,2017,Number,0.0,11096,,
+11101,2017,Number,54.0,11101,Long Island City - Astoria,Queens
+11102,2017,Number,44.0,11102,Long Island City - Astoria,Queens
+11103,2017,Number,52.0,11103,Long Island City - Astoria,Queens
+11104,2017,Number,42.0,11104,Long Island City - Astoria,Queens
+11105,2017,Number,44.0,11105,Long Island City - Astoria,Queens
+11106,2017,Number,53.0,11106,Long Island City - Astoria,Queens
+11109,2017,Number,10.0,11109,Long Island City - Astoria,Queens
+11201,2017,Number,56.0,11201,Downtown  - Heights - Slope,Brooklyn
+11203,2017,Number,317.0,11203,East Flatbush - Flatbush,Brooklyn
+11204,2017,Number,69.0,11204,Borough Park,Brooklyn
+11205,2017,Number,79.0,11205,Downtown  - Heights - Slope,Brooklyn
+11206,2017,Number,135.0,11206,Williamsburg - Bushwick,Brooklyn
+11207,2017,Number,406.0,11207,East New York,Brooklyn
+11208,2017,Number,417.0,11208,East New York,Brooklyn
+11209,2017,Number,112.0,11209,Bensonhurst - Bay Ridge,Brooklyn
+11210,2017,Number,217.0,11210,East Flatbush - Flatbush,Brooklyn
+11211,2017,Number,57.0,11211,Greenpoint,Brooklyn
+11212,2017,Number,471.0,11212,Bedford Stuyvesant - Crown Heights,Brooklyn
+11213,2017,Number,290.0,11213,Bedford Stuyvesant - Crown Heights,Brooklyn
+11214,2017,Number,111.0,11214,Bensonhurst - Bay Ridge,Brooklyn
+11215,2017,Number,16.0,11215,Downtown  - Heights - Slope,Brooklyn
+11216,2017,Number,162.0,11216,Bedford Stuyvesant - Crown Heights,Brooklyn
+11217,2017,Number,36.0,11217,Downtown  - Heights - Slope,Brooklyn
+11218,2017,Number,82.0,11218,Borough Park,Brooklyn
+11219,2017,Number,60.0,11219,Borough Park,Brooklyn
+11220,2017,Number,88.0,11220,Sunset Park,Brooklyn
+11221,2017,Number,284.0,11221,Williamsburg - Bushwick,Brooklyn
+11222,2017,Number,37.0,11222,Greenpoint,Brooklyn
+11223,2017,Number,87.0,11223,Coney Island - Sheepshead Bay,Brooklyn
+11224,2017,Number,107.0,11224,Coney Island - Sheepshead Bay,Brooklyn
+11225,2017,Number,225.0,11225,East Flatbush - Flatbush,Brooklyn
+11226,2017,Number,487.0,11226,East Flatbush - Flatbush,Brooklyn
+11228,2017,Number,33.0,11228,Bensonhurst - Bay Ridge,Brooklyn
+11229,2017,Number,90.0,11229,Coney Island - Sheepshead Bay,Brooklyn
+11230,2017,Number,123.0,11230,Borough Park,Brooklyn
+11231,2017,Number,29.0,11231,Downtown  - Heights - Slope,Brooklyn
+11232,2017,Number,31.0,11232,Sunset Park,Brooklyn
+11233,2017,Number,368.0,11233,Bedford Stuyvesant - Crown Heights,Brooklyn
+11234,2017,Number,139.0,11234,Canarsie - Flatlands,Brooklyn
+11235,2017,Number,132.0,11235,Coney Island - Sheepshead Bay,Brooklyn
+11236,2017,Number,251.0,11236,Canarsie - Flatlands,Brooklyn
+11237,2017,Number,77.0,11237,Williamsburg - Bushwick,Brooklyn
+11238,2017,Number,103.0,11238,Bedford Stuyvesant - Crown Heights,Brooklyn
+11239,2017,Number,89.0,11239,Canarsie - Flatlands,Brooklyn
+11249,2017,Number,28.0,11249,,
+11354,2017,Number,63.0,11354,Flushing - Clearview,Queens
+11355,2017,Number,91.0,11355,Flushing - Clearview,Queens
+11356,2017,Number,57.0,11356,Flushing - Clearview,Queens
+11357,2017,Number,19.0,11357,Flushing - Clearview,Queens
+11358,2017,Number,22.0,11358,Flushing - Clearview,Queens
+11359,2017,Number,2.0,11359,Flushing - Clearview,Queens
+11360,2017,Number,14.0,11360,Flushing - Clearview,Queens
+11361,2017,Number,23.0,11361,Bayside - Little Neck,Queens
+11362,2017,Number,6.0,11362,Bayside - Little Neck,Queens
+11363,2017,Number,3.0,11363,Bayside - Little Neck,Queens
+11364,2017,Number,16.0,11364,Bayside - Little Neck,Queens
+11365,2017,Number,65.0,11365,Fresh Meadows,Queens
+11366,2017,Number,8.0,11366,Fresh Meadows,Queens
+11367,2017,Number,75.0,11367,Fresh Meadows,Queens
+11368,2017,Number,231.0,11368,West Queens,Queens
+11369,2017,Number,38.0,11369,West Queens,Queens
+11370,2017,Number,27.0,11370,West Queens,Queens
+11371,2017,Number,0.0,11371,West Queens,Queens
+11372,2017,Number,124.0,11372,West Queens,Queens
+11373,2017,Number,123.0,11373,West Queens,Queens
+11374,2017,Number,68.0,11374,Ridgewood - Forest Hills,Queens
+11375,2017,Number,67.0,11375,Ridgewood - Forest Hills,Queens
+11377,2017,Number,88.0,11377,West Queens,Queens
+11378,2017,Number,47.0,11378,West Queens,Queens
+11379,2017,Number,28.0,11379,Ridgewood - Forest Hills,Queens
+11385,2017,Number,193.0,11385,Ridgewood - Forest Hills,Queens
+11411,2017,Number,21.0,11411,Southeast Queens,Queens
+11412,2017,Number,82.0,11412,Jamaica,Queens
+11413,2017,Number,101.0,11413,Southeast Queens,Queens
+11414,2017,Number,28.0,11414,Southwest Queens,Queens
+11415,2017,Number,45.0,11415,Southwest Queens,Queens
+11416,2017,Number,57.0,11416,Southwest Queens,Queens
+11417,2017,Number,39.0,11417,Southwest Queens,Queens
+11418,2017,Number,79.0,11418,Southwest Queens,Queens
+11419,2017,Number,74.0,11419,Southwest Queens,Queens
+11420,2017,Number,88.0,11420,Southwest Queens,Queens
+11421,2017,Number,56.0,11421,Southwest Queens,Queens
+11422,2017,Number,75.0,11422,Southeast Queens,Queens
+11423,2017,Number,79.0,11423,Jamaica,Queens
+11426,2017,Number,12.0,11426,Southeast Queens,Queens
+11427,2017,Number,40.0,11427,Southeast Queens,Queens
+11428,2017,Number,42.0,11428,Southeast Queens,Queens
+11429,2017,Number,55.0,11429,Southeast Queens,Queens
+11430,2017,Number,0.0,11430,Jamaica,Queens
+11432,2017,Number,171.0,11432,Jamaica,Queens
+11433,2017,Number,158.0,11433,Jamaica,Queens
+11434,2017,Number,159.0,11434,Jamaica,Queens
+11435,2017,Number,156.0,11435,Jamaica,Queens
+11436,2017,Number,45.0,11436,Jamaica,Queens
+11691,2017,Number,289.0,11691,Rockaway,Queens
+11692,2017,Number,120.0,11692,Rockaway,Queens
+11693,2017,Number,33.0,11693,Rockaway,Queens
+11694,2017,Number,53.0,11694,Rockaway,Queens
+11697,2017,Number,0.0,11697,Rockaway,Queens
+10001,2018,Number,58.0,10001,Chelsea - Clinton,Manhattan
+10002,2018,Number,90.0,10002,Union Square - Lower East Side,Manhattan
+10003,2018,Number,28.0,10003,Union Square - Lower East Side,Manhattan
+10004,2018,Number,4.0,10004,Lower Manhattan,Manhattan
+10005,2018,Number,13.0,10005,Lower Manhattan,Manhattan
+10006,2018,Number,4.0,10006,Lower Manhattan,Manhattan
+10007,2018,Number,3.0,10007,Lower Manhattan,Manhattan
+10009,2018,Number,89.0,10009,Union Square - Lower East Side,Manhattan
+10010,2018,Number,20.0,10010,Gramercy Park -  Murray Hill,Manhattan
+10011,2018,Number,34.0,10011,Chelsea - Clinton,Manhattan
+10012,2018,Number,30.0,10012,Greenwich Village - Soho,Manhattan
+10013,2018,Number,20.0,10013,Greenwich Village - Soho,Manhattan
+10014,2018,Number,27.0,10014,Greenwich Village - Soho,Manhattan
+10016,2018,Number,48.0,10016,Gramercy Park -  Murray Hill,Manhattan
+10017,2018,Number,17.0,10017,Gramercy Park -  Murray Hill,Manhattan
+10018,2018,Number,23.0,10018,Chelsea - Clinton,Manhattan
+10019,2018,Number,87.0,10019,Chelsea - Clinton,Manhattan
+10021,2018,Number,37.0,10021,Upper East Side,Manhattan
+10022,2018,Number,42.0,10022,Gramercy Park -  Murray Hill,Manhattan
+10023,2018,Number,47.0,10023,Upper West Side,Manhattan
+10024,2018,Number,51.0,10024,Upper West Side,Manhattan
+10025,2018,Number,118.0,10025,Upper West Side,Manhattan
+10026,2018,Number,67.0,10026,Central Harlem - Morningside Heights,Manhattan
+10027,2018,Number,120.0,10027,Central Harlem - Morningside Heights,Manhattan
+10028,2018,Number,38.0,10028,Upper East Side,Manhattan
+10029,2018,Number,199.0,10029,East Harlem,Manhattan
+10030,2018,Number,128.0,10030,Central Harlem - Morningside Heights,Manhattan
+10031,2018,Number,163.0,10031,Washington Heights - Inwood,Manhattan
+10032,2018,Number,164.0,10032,Washington Heights - Inwood,Manhattan
+10033,2018,Number,148.0,10033,Washington Heights - Inwood,Manhattan
+10034,2018,Number,101.0,10034,Washington Heights - Inwood,Manhattan
+10035,2018,Number,108.0,10035,East Harlem,Manhattan
+10036,2018,Number,69.0,10036,Chelsea - Clinton,Manhattan
+10037,2018,Number,111.0,10037,Central Harlem - Morningside Heights,Manhattan
+10038,2018,Number,16.0,10038,Lower Manhattan,Manhattan
+10039,2018,Number,144.0,10039,Central Harlem - Morningside Heights,Manhattan
+10040,2018,Number,103.0,10040,Washington Heights - Inwood,Manhattan
+10044,2018,Number,10.0,10044,Upper East Side,Manhattan
+10065,2018,Number,35.0,10065,Upper East Side,Manhattan
+10069,2018,Number,1.0,10069,Upper West Side,Manhattan
+10075,2018,Number,22.0,10075,Upper East Side,Manhattan
+10128,2018,Number,35.0,10128,Upper East Side,Manhattan
+10280,2018,Number,7.0,10280,Lower Manhattan,Manhattan
+10282,2018,Number,2.0,10282,Lower Manhattan,Manhattan
+10301,2018,Number,124.0,10301,Stapleton - St. George,Staten Island
+10302,2018,Number,40.0,10302,Port  Richmond,Staten Island
+10303,2018,Number,63.0,10303,Port  Richmond,Staten Island
+10304,2018,Number,153.0,10304,Stapleton - St. George,Staten Island
+10305,2018,Number,38.0,10305,Stapleton - St. George,Staten Island
+10306,2018,Number,67.0,10306,South Beach - Tottenville,Staten Island
+10307,2018,Number,18.0,10307,South Beach - Tottenville,Staten Island
+10308,2018,Number,15.0,10308,South Beach - Tottenville,Staten Island
+10309,2018,Number,28.0,10309,South Beach - Tottenville,Staten Island
+10310,2018,Number,38.0,10310,Port  Richmond,Staten Island
+10312,2018,Number,16.0,10312,South Beach - Tottenville,Staten Island
+10314,2018,Number,60.0,10314,Willowbrook,Staten Island
+10451,2018,Number,310.0,10451,High Bridge - Morrisania,Bronx
+10452,2018,Number,371.0,10452,High Bridge - Morrisania,Bronx
+10453,2018,Number,494.0,10453,Crotona - Tremont,Bronx
+10454,2018,Number,150.0,10454,Hunts Point - Mott Haven,Bronx
+10455,2018,Number,192.0,10455,Hunts Point - Mott Haven,Bronx
+10456,2018,Number,558.0,10456,High Bridge - Morrisania,Bronx
+10457,2018,Number,443.0,10457,Crotona - Tremont,Bronx
+10458,2018,Number,558.0,10458,Fordham - Bronx Park,Bronx
+10459,2018,Number,325.0,10459,Hunts Point - Mott Haven,Bronx
+10460,2018,Number,445.0,10460,Crotona - Tremont,Bronx
+10461,2018,Number,126.0,10461,Pelham - Throgs Neck,Bronx
+10462,2018,Number,322.0,10462,Pelham - Throgs Neck,Bronx
+10463,2018,Number,195.0,10463,Kingsbridge - Riverdale,Bronx
+10464,2018,Number,7.0,10464,Pelham - Throgs Neck,Bronx
+10465,2018,Number,33.0,10465,Pelham - Throgs Neck,Bronx
+10466,2018,Number,378.0,10466,Northeast Bronx,Bronx
+10467,2018,Number,573.0,10467,Fordham - Bronx Park,Bronx
+10468,2018,Number,454.0,10468,Fordham - Bronx Park,Bronx
+10469,2018,Number,173.0,10469,Northeast Bronx,Bronx
+10470,2018,Number,74.0,10470,Northeast Bronx,Bronx
+10471,2018,Number,39.0,10471,Kingsbridge - Riverdale,Bronx
+10472,2018,Number,325.0,10472,Pelham - Throgs Neck,Bronx
+10473,2018,Number,159.0,10473,Pelham - Throgs Neck,Bronx
+10474,2018,Number,90.0,10474,Hunts Point - Mott Haven,Bronx
+10475,2018,Number,92.0,10475,Northeast Bronx,Bronx
+11001,2018,Number,0.0,11001,Southeast Queens,Queens
+11004,2018,Number,6.0,11004,Southeast Queens,Queens
+11005,2018,Number,0.0,11005,Southeast Queens,Queens
+11040,2018,Number,4.0,11040,Southeast Queens,Queens
+11096,2018,Number,0.0,11096,,
+11101,2018,Number,47.0,11101,Long Island City - Astoria,Queens
+11102,2018,Number,40.0,11102,Long Island City - Astoria,Queens
+11103,2018,Number,37.0,11103,Long Island City - Astoria,Queens
+11104,2018,Number,41.0,11104,Long Island City - Astoria,Queens
+11105,2018,Number,41.0,11105,Long Island City - Astoria,Queens
+11106,2018,Number,60.0,11106,Long Island City - Astoria,Queens
+11109,2018,Number,14.0,11109,Long Island City - Astoria,Queens
+11201,2018,Number,48.0,11201,Downtown  - Heights - Slope,Brooklyn
+11203,2018,Number,293.0,11203,East Flatbush - Flatbush,Brooklyn
+11204,2018,Number,71.0,11204,Borough Park,Brooklyn
+11205,2018,Number,70.0,11205,Downtown  - Heights - Slope,Brooklyn
+11206,2018,Number,127.0,11206,Williamsburg - Bushwick,Brooklyn
+11207,2018,Number,444.0,11207,East New York,Brooklyn
+11208,2018,Number,472.0,11208,East New York,Brooklyn
+11209,2018,Number,116.0,11209,Bensonhurst - Bay Ridge,Brooklyn
+11210,2018,Number,250.0,11210,East Flatbush - Flatbush,Brooklyn
+11211,2018,Number,58.0,11211,Greenpoint,Brooklyn
+11212,2018,Number,393.0,11212,Bedford Stuyvesant - Crown Heights,Brooklyn
+11213,2018,Number,277.0,11213,Bedford Stuyvesant - Crown Heights,Brooklyn
+11214,2018,Number,117.0,11214,Bensonhurst - Bay Ridge,Brooklyn
+11215,2018,Number,31.0,11215,Downtown  - Heights - Slope,Brooklyn
+11216,2018,Number,148.0,11216,Bedford Stuyvesant - Crown Heights,Brooklyn
+11217,2018,Number,48.0,11217,Downtown  - Heights - Slope,Brooklyn
+11218,2018,Number,74.0,11218,Borough Park,Brooklyn
+11219,2018,Number,56.0,11219,Borough Park,Brooklyn
+11220,2018,Number,89.0,11220,Sunset Park,Brooklyn
+11221,2018,Number,208.0,11221,Williamsburg - Bushwick,Brooklyn
+11222,2018,Number,25.0,11222,Greenpoint,Brooklyn
+11223,2018,Number,95.0,11223,Coney Island - Sheepshead Bay,Brooklyn
+11224,2018,Number,100.0,11224,Coney Island - Sheepshead Bay,Brooklyn
+11225,2018,Number,185.0,11225,East Flatbush - Flatbush,Brooklyn
+11226,2018,Number,399.0,11226,East Flatbush - Flatbush,Brooklyn
+11228,2018,Number,25.0,11228,Bensonhurst - Bay Ridge,Brooklyn
+11229,2018,Number,113.0,11229,Coney Island - Sheepshead Bay,Brooklyn
+11230,2018,Number,134.0,11230,Borough Park,Brooklyn
+11231,2018,Number,30.0,11231,Downtown  - Heights - Slope,Brooklyn
+11232,2018,Number,24.0,11232,Sunset Park,Brooklyn
+11233,2018,Number,369.0,11233,Bedford Stuyvesant - Crown Heights,Brooklyn
+11234,2018,Number,149.0,11234,Canarsie - Flatlands,Brooklyn
+11235,2018,Number,162.0,11235,Coney Island - Sheepshead Bay,Brooklyn
+11236,2018,Number,278.0,11236,Canarsie - Flatlands,Brooklyn
+11237,2018,Number,73.0,11237,Williamsburg - Bushwick,Brooklyn
+11238,2018,Number,79.0,11238,Bedford Stuyvesant - Crown Heights,Brooklyn
+11239,2018,Number,43.0,11239,Canarsie - Flatlands,Brooklyn
+11249,2018,Number,25.0,11249,,
+11354,2018,Number,112.0,11354,Flushing - Clearview,Queens
+11355,2018,Number,106.0,11355,Flushing - Clearview,Queens
+11356,2018,Number,25.0,11356,Flushing - Clearview,Queens
+11357,2018,Number,27.0,11357,Flushing - Clearview,Queens
+11358,2018,Number,29.0,11358,Flushing - Clearview,Queens
+11359,2018,Number,0.0,11359,Flushing - Clearview,Queens
+11360,2018,Number,15.0,11360,Flushing - Clearview,Queens
+11361,2018,Number,19.0,11361,Bayside - Little Neck,Queens
+11362,2018,Number,5.0,11362,Bayside - Little Neck,Queens
+11363,2018,Number,6.0,11363,Bayside - Little Neck,Queens
+11364,2018,Number,25.0,11364,Bayside - Little Neck,Queens
+11365,2018,Number,82.0,11365,Fresh Meadows,Queens
+11366,2018,Number,5.0,11366,Fresh Meadows,Queens
+11367,2018,Number,85.0,11367,Fresh Meadows,Queens
+11368,2018,Number,222.0,11368,West Queens,Queens
+11369,2018,Number,46.0,11369,West Queens,Queens
+11370,2018,Number,20.0,11370,West Queens,Queens
+11371,2018,Number,0.0,11371,West Queens,Queens
+11372,2018,Number,108.0,11372,West Queens,Queens
+11373,2018,Number,128.0,11373,West Queens,Queens
+11374,2018,Number,67.0,11374,Ridgewood - Forest Hills,Queens
+11375,2018,Number,79.0,11375,Ridgewood - Forest Hills,Queens
+11377,2018,Number,110.0,11377,West Queens,Queens
+11378,2018,Number,36.0,11378,West Queens,Queens
+11379,2018,Number,21.0,11379,Ridgewood - Forest Hills,Queens
+11385,2018,Number,132.0,11385,Ridgewood - Forest Hills,Queens
+11411,2018,Number,34.0,11411,Southeast Queens,Queens
+11412,2018,Number,110.0,11412,Jamaica,Queens
+11413,2018,Number,121.0,11413,Southeast Queens,Queens
+11414,2018,Number,28.0,11414,Southwest Queens,Queens
+11415,2018,Number,53.0,11415,Southwest Queens,Queens
+11416,2018,Number,54.0,11416,Southwest Queens,Queens
+11417,2018,Number,46.0,11417,Southwest Queens,Queens
+11418,2018,Number,55.0,11418,Southwest Queens,Queens
+11419,2018,Number,63.0,11419,Southwest Queens,Queens
+11420,2018,Number,102.0,11420,Southwest Queens,Queens
+11421,2018,Number,60.0,11421,Southwest Queens,Queens
+11422,2018,Number,76.0,11422,Southeast Queens,Queens
+11423,2018,Number,104.0,11423,Jamaica,Queens
+11426,2018,Number,16.0,11426,Southeast Queens,Queens
+11427,2018,Number,32.0,11427,Southeast Queens,Queens
+11428,2018,Number,28.0,11428,Southeast Queens,Queens
+11429,2018,Number,70.0,11429,Southeast Queens,Queens
+11430,2018,Number,0.0,11430,Jamaica,Queens
+11432,2018,Number,161.0,11432,Jamaica,Queens
+11433,2018,Number,148.0,11433,Jamaica,Queens
+11434,2018,Number,218.0,11434,Jamaica,Queens
+11435,2018,Number,150.0,11435,Jamaica,Queens
+11436,2018,Number,58.0,11436,Jamaica,Queens
+11691,2018,Number,266.0,11691,Rockaway,Queens
+11692,2018,Number,117.0,11692,Rockaway,Queens
+11693,2018,Number,37.0,11693,Rockaway,Queens
+11694,2018,Number,41.0,11694,Rockaway,Queens
+11697,2018,Number,0.0,11697,Rockaway,Queens
+10001,2019,Number,43.0,10001,Chelsea - Clinton,Manhattan
+10002,2019,Number,63.0,10002,Union Square - Lower East Side,Manhattan
+10003,2019,Number,29.0,10003,Union Square - Lower East Side,Manhattan
+10004,2019,Number,6.0,10004,Lower Manhattan,Manhattan
+10005,2019,Number,15.0,10005,Lower Manhattan,Manhattan
+10006,2019,Number,6.0,10006,Lower Manhattan,Manhattan
+10007,2019,Number,0.0,10007,Lower Manhattan,Manhattan
+10009,2019,Number,65.0,10009,Union Square - Lower East Side,Manhattan
+10010,2019,Number,22.0,10010,Gramercy Park -  Murray Hill,Manhattan
+10011,2019,Number,35.0,10011,Chelsea - Clinton,Manhattan
+10012,2019,Number,17.0,10012,Greenwich Village - Soho,Manhattan
+10013,2019,Number,16.0,10013,Greenwich Village - Soho,Manhattan
+10014,2019,Number,22.0,10014,Greenwich Village - Soho,Manhattan
+10016,2019,Number,43.0,10016,Gramercy Park -  Murray Hill,Manhattan
+10017,2019,Number,12.0,10017,Gramercy Park -  Murray Hill,Manhattan
+10018,2019,Number,20.0,10018,Chelsea - Clinton,Manhattan
+10019,2019,Number,88.0,10019,Chelsea - Clinton,Manhattan
+10021,2019,Number,18.0,10021,Upper East Side,Manhattan
+10022,2019,Number,40.0,10022,Gramercy Park -  Murray Hill,Manhattan
+10023,2019,Number,41.0,10023,Upper West Side,Manhattan
+10024,2019,Number,26.0,10024,Upper West Side,Manhattan
+10025,2019,Number,73.0,10025,Upper West Side,Manhattan
+10026,2019,Number,87.0,10026,Central Harlem - Morningside Heights,Manhattan
+10027,2019,Number,90.0,10027,Central Harlem - Morningside Heights,Manhattan
+10028,2019,Number,25.0,10028,Upper East Side,Manhattan
+10029,2019,Number,169.0,10029,East Harlem,Manhattan
+10030,2019,Number,116.0,10030,Central Harlem - Morningside Heights,Manhattan
+10031,2019,Number,101.0,10031,Washington Heights - Inwood,Manhattan
+10032,2019,Number,123.0,10032,Washington Heights - Inwood,Manhattan
+10033,2019,Number,124.0,10033,Washington Heights - Inwood,Manhattan
+10034,2019,Number,120.0,10034,Washington Heights - Inwood,Manhattan
+10035,2019,Number,90.0,10035,East Harlem,Manhattan
+10036,2019,Number,72.0,10036,Chelsea - Clinton,Manhattan
+10037,2019,Number,122.0,10037,Central Harlem - Morningside Heights,Manhattan
+10038,2019,Number,18.0,10038,Lower Manhattan,Manhattan
+10039,2019,Number,96.0,10039,Central Harlem - Morningside Heights,Manhattan
+10040,2019,Number,85.0,10040,Washington Heights - Inwood,Manhattan
+10044,2019,Number,7.0,10044,Upper East Side,Manhattan
+10065,2019,Number,28.0,10065,Upper East Side,Manhattan
+10069,2019,Number,3.0,10069,Upper West Side,Manhattan
+10075,2019,Number,19.0,10075,Upper East Side,Manhattan
+10128,2019,Number,50.0,10128,Upper East Side,Manhattan
+10280,2019,Number,6.0,10280,Lower Manhattan,Manhattan
+10282,2019,Number,2.0,10282,Lower Manhattan,Manhattan
+10301,2019,Number,92.0,10301,Stapleton - St. George,Staten Island
+10302,2019,Number,40.0,10302,Port  Richmond,Staten Island
+10303,2019,Number,83.0,10303,Port  Richmond,Staten Island
+10304,2019,Number,127.0,10304,Stapleton - St. George,Staten Island
+10305,2019,Number,35.0,10305,Stapleton - St. George,Staten Island
+10306,2019,Number,44.0,10306,South Beach - Tottenville,Staten Island
+10307,2019,Number,14.0,10307,South Beach - Tottenville,Staten Island
+10308,2019,Number,11.0,10308,South Beach - Tottenville,Staten Island
+10309,2019,Number,19.0,10309,South Beach - Tottenville,Staten Island
+10310,2019,Number,50.0,10310,Port  Richmond,Staten Island
+10312,2019,Number,31.0,10312,South Beach - Tottenville,Staten Island
+10314,2019,Number,50.0,10314,Willowbrook,Staten Island
+10451,2019,Number,250.0,10451,High Bridge - Morrisania,Bronx
+10452,2019,Number,350.0,10452,High Bridge - Morrisania,Bronx
+10453,2019,Number,447.0,10453,Crotona - Tremont,Bronx
+10454,2019,Number,110.0,10454,Hunts Point - Mott Haven,Bronx
+10455,2019,Number,172.0,10455,Hunts Point - Mott Haven,Bronx
+10456,2019,Number,505.0,10456,High Bridge - Morrisania,Bronx
+10457,2019,Number,355.0,10457,Crotona - Tremont,Bronx
+10458,2019,Number,452.0,10458,Fordham - Bronx Park,Bronx
+10459,2019,Number,306.0,10459,Hunts Point - Mott Haven,Bronx
+10460,2019,Number,360.0,10460,Crotona - Tremont,Bronx
+10461,2019,Number,110.0,10461,Pelham - Throgs Neck,Bronx
+10462,2019,Number,274.0,10462,Pelham - Throgs Neck,Bronx
+10463,2019,Number,179.0,10463,Kingsbridge - Riverdale,Bronx
+10464,2019,Number,5.0,10464,Pelham - Throgs Neck,Bronx
+10465,2019,Number,55.0,10465,Pelham - Throgs Neck,Bronx
+10466,2019,Number,326.0,10466,Northeast Bronx,Bronx
+10467,2019,Number,489.0,10467,Fordham - Bronx Park,Bronx
+10468,2019,Number,263.0,10468,Fordham - Bronx Park,Bronx
+10469,2019,Number,191.0,10469,Northeast Bronx,Bronx
+10470,2019,Number,75.0,10470,Northeast Bronx,Bronx
+10471,2019,Number,32.0,10471,Kingsbridge - Riverdale,Bronx
+10472,2019,Number,263.0,10472,Pelham - Throgs Neck,Bronx
+10473,2019,Number,159.0,10473,Pelham - Throgs Neck,Bronx
+10474,2019,Number,78.0,10474,Hunts Point - Mott Haven,Bronx
+10475,2019,Number,78.0,10475,Northeast Bronx,Bronx
+11001,2019,Number,4.0,11001,Southeast Queens,Queens
+11004,2019,Number,4.0,11004,Southeast Queens,Queens
+11005,2019,Number,0.0,11005,Southeast Queens,Queens
+11040,2019,Number,1.0,11040,Southeast Queens,Queens
+11096,2019,Number,0.0,11096,,
+11101,2019,Number,53.0,11101,Long Island City - Astoria,Queens
+11102,2019,Number,44.0,11102,Long Island City - Astoria,Queens
+11103,2019,Number,36.0,11103,Long Island City - Astoria,Queens
+11104,2019,Number,43.0,11104,Long Island City - Astoria,Queens
+11105,2019,Number,25.0,11105,Long Island City - Astoria,Queens
+11106,2019,Number,51.0,11106,Long Island City - Astoria,Queens
+11109,2019,Number,9.0,11109,Long Island City - Astoria,Queens
+11201,2019,Number,58.0,11201,Downtown  - Heights - Slope,Brooklyn
+11203,2019,Number,265.0,11203,East Flatbush - Flatbush,Brooklyn
+11204,2019,Number,55.0,11204,Borough Park,Brooklyn
+11205,2019,Number,60.0,11205,Downtown  - Heights - Slope,Brooklyn
+11206,2019,Number,129.0,11206,Williamsburg - Bushwick,Brooklyn
+11207,2019,Number,362.0,11207,East New York,Brooklyn
+11208,2019,Number,360.0,11208,East New York,Brooklyn
+11209,2019,Number,86.0,11209,Bensonhurst - Bay Ridge,Brooklyn
+11210,2019,Number,158.0,11210,East Flatbush - Flatbush,Brooklyn
+11211,2019,Number,57.0,11211,Greenpoint,Brooklyn
+11212,2019,Number,367.0,11212,Bedford Stuyvesant - Crown Heights,Brooklyn
+11213,2019,Number,241.0,11213,Bedford Stuyvesant - Crown Heights,Brooklyn
+11214,2019,Number,89.0,11214,Bensonhurst - Bay Ridge,Brooklyn
+11215,2019,Number,29.0,11215,Downtown  - Heights - Slope,Brooklyn
+11216,2019,Number,167.0,11216,Bedford Stuyvesant - Crown Heights,Brooklyn
+11217,2019,Number,48.0,11217,Downtown  - Heights - Slope,Brooklyn
+11218,2019,Number,43.0,11218,Borough Park,Brooklyn
+11219,2019,Number,55.0,11219,Borough Park,Brooklyn
+11220,2019,Number,78.0,11220,Sunset Park,Brooklyn
+11221,2019,Number,223.0,11221,Williamsburg - Bushwick,Brooklyn
+11222,2019,Number,21.0,11222,Greenpoint,Brooklyn
+11223,2019,Number,92.0,11223,Coney Island - Sheepshead Bay,Brooklyn
+11224,2019,Number,107.0,11224,Coney Island - Sheepshead Bay,Brooklyn
+11225,2019,Number,152.0,11225,East Flatbush - Flatbush,Brooklyn
+11226,2019,Number,297.0,11226,East Flatbush - Flatbush,Brooklyn
+11228,2019,Number,20.0,11228,Bensonhurst - Bay Ridge,Brooklyn
+11229,2019,Number,77.0,11229,Coney Island - Sheepshead Bay,Brooklyn
+11230,2019,Number,101.0,11230,Borough Park,Brooklyn
+11231,2019,Number,23.0,11231,Downtown  - Heights - Slope,Brooklyn
+11232,2019,Number,12.0,11232,Sunset Park,Brooklyn
+11233,2019,Number,338.0,11233,Bedford Stuyvesant - Crown Heights,Brooklyn
+11234,2019,Number,111.0,11234,Canarsie - Flatlands,Brooklyn
+11235,2019,Number,134.0,11235,Coney Island - Sheepshead Bay,Brooklyn
+11236,2019,Number,245.0,11236,Canarsie - Flatlands,Brooklyn
+11237,2019,Number,58.0,11237,Williamsburg - Bushwick,Brooklyn
+11238,2019,Number,76.0,11238,Bedford Stuyvesant - Crown Heights,Brooklyn
+11239,2019,Number,58.0,11239,Canarsie - Flatlands,Brooklyn
+11249,2019,Number,34.0,11249,,
+11354,2019,Number,96.0,11354,Flushing - Clearview,Queens
+11355,2019,Number,85.0,11355,Flushing - Clearview,Queens
+11356,2019,Number,33.0,11356,Flushing - Clearview,Queens
+11357,2019,Number,15.0,11357,Flushing - Clearview,Queens
+11358,2019,Number,29.0,11358,Flushing - Clearview,Queens
+11359,2019,Number,0.0,11359,Flushing - Clearview,Queens
+11360,2019,Number,14.0,11360,Flushing - Clearview,Queens
+11361,2019,Number,15.0,11361,Bayside - Little Neck,Queens
+11362,2019,Number,5.0,11362,Bayside - Little Neck,Queens
+11363,2019,Number,4.0,11363,Bayside - Little Neck,Queens
+11364,2019,Number,20.0,11364,Bayside - Little Neck,Queens
+11365,2019,Number,50.0,11365,Fresh Meadows,Queens
+11366,2019,Number,12.0,11366,Fresh Meadows,Queens
+11367,2019,Number,43.0,11367,Fresh Meadows,Queens
+11368,2019,Number,179.0,11368,West Queens,Queens
+11369,2019,Number,29.0,11369,West Queens,Queens
+11370,2019,Number,22.0,11370,West Queens,Queens
+11371,2019,Number,0.0,11371,West Queens,Queens
+11372,2019,Number,80.0,11372,West Queens,Queens
+11373,2019,Number,81.0,11373,West Queens,Queens
+11374,2019,Number,36.0,11374,Ridgewood - Forest Hills,Queens
+11375,2019,Number,58.0,11375,Ridgewood - Forest Hills,Queens
+11377,2019,Number,93.0,11377,West Queens,Queens
+11378,2019,Number,31.0,11378,West Queens,Queens
+11379,2019,Number,22.0,11379,Ridgewood - Forest Hills,Queens
+11385,2019,Number,81.0,11385,Ridgewood - Forest Hills,Queens
+11411,2019,Number,35.0,11411,Southeast Queens,Queens
+11412,2019,Number,90.0,11412,Jamaica,Queens
+11413,2019,Number,86.0,11413,Southeast Queens,Queens
+11414,2019,Number,36.0,11414,Southwest Queens,Queens
+11415,2019,Number,42.0,11415,Southwest Queens,Queens
+11416,2019,Number,56.0,11416,Southwest Queens,Queens
+11417,2019,Number,76.0,11417,Southwest Queens,Queens
+11418,2019,Number,72.0,11418,Southwest Queens,Queens
+11419,2019,Number,66.0,11419,Southwest Queens,Queens
+11420,2019,Number,72.0,11420,Southwest Queens,Queens
+11421,2019,Number,69.0,11421,Southwest Queens,Queens
+11422,2019,Number,66.0,11422,Southeast Queens,Queens
+11423,2019,Number,55.0,11423,Jamaica,Queens
+11426,2019,Number,8.0,11426,Southeast Queens,Queens
+11427,2019,Number,24.0,11427,Southeast Queens,Queens
+11428,2019,Number,24.0,11428,Southeast Queens,Queens
+11429,2019,Number,68.0,11429,Southeast Queens,Queens
+11430,2019,Number,1.0,11430,Jamaica,Queens
+11432,2019,Number,109.0,11432,Jamaica,Queens
+11433,2019,Number,131.0,11433,Jamaica,Queens
+11434,2019,Number,164.0,11434,Jamaica,Queens
+11435,2019,Number,109.0,11435,Jamaica,Queens
+11436,2019,Number,58.0,11436,Jamaica,Queens
+11691,2019,Number,254.0,11691,Rockaway,Queens
+11692,2019,Number,101.0,11692,Rockaway,Queens
+11693,2019,Number,31.0,11693,Rockaway,Queens
+11694,2019,Number,37.0,11694,Rockaway,Queens
+11697,2019,Number,0.0,11697,Rockaway,Queens
+10001,2020,Number,3.0,10001,Chelsea - Clinton,Manhattan
+10002,2020,Number,12.0,10002,Union Square - Lower East Side,Manhattan
+10003,2020,Number,5.0,10003,Union Square - Lower East Side,Manhattan
+10004,2020,Number,0.0,10004,Lower Manhattan,Manhattan
+10005,2020,Number,3.0,10005,Lower Manhattan,Manhattan
+10006,2020,Number,1.0,10006,Lower Manhattan,Manhattan
+10007,2020,Number,0.0,10007,Lower Manhattan,Manhattan
+10009,2020,Number,9.0,10009,Union Square - Lower East Side,Manhattan
+10010,2020,Number,9.0,10010,Gramercy Park -  Murray Hill,Manhattan
+10011,2020,Number,9.0,10011,Chelsea - Clinton,Manhattan
+10012,2020,Number,4.0,10012,Greenwich Village - Soho,Manhattan
+10013,2020,Number,6.0,10013,Greenwich Village - Soho,Manhattan
+10014,2020,Number,6.0,10014,Greenwich Village - Soho,Manhattan
+10016,2020,Number,8.0,10016,Gramercy Park -  Murray Hill,Manhattan
+10017,2020,Number,4.0,10017,Gramercy Park -  Murray Hill,Manhattan
+10018,2020,Number,4.0,10018,Chelsea - Clinton,Manhattan
+10019,2020,Number,12.0,10019,Chelsea - Clinton,Manhattan
+10021,2020,Number,7.0,10021,Upper East Side,Manhattan
+10022,2020,Number,9.0,10022,Gramercy Park -  Murray Hill,Manhattan
+10023,2020,Number,9.0,10023,Upper West Side,Manhattan
+10024,2020,Number,6.0,10024,Upper West Side,Manhattan
+10025,2020,Number,9.0,10025,Upper West Side,Manhattan
+10026,2020,Number,13.0,10026,Central Harlem - Morningside Heights,Manhattan
+10027,2020,Number,20.0,10027,Central Harlem - Morningside Heights,Manhattan
+10028,2020,Number,3.0,10028,Upper East Side,Manhattan
+10029,2020,Number,20.0,10029,East Harlem,Manhattan
+10030,2020,Number,11.0,10030,Central Harlem - Morningside Heights,Manhattan
+10031,2020,Number,21.0,10031,Washington Heights - Inwood,Manhattan
+10032,2020,Number,31.0,10032,Washington Heights - Inwood,Manhattan
+10033,2020,Number,19.0,10033,Washington Heights - Inwood,Manhattan
+10034,2020,Number,28.0,10034,Washington Heights - Inwood,Manhattan
+10035,2020,Number,12.0,10035,East Harlem,Manhattan
+10036,2020,Number,19.0,10036,Chelsea - Clinton,Manhattan
+10037,2020,Number,15.0,10037,Central Harlem - Morningside Heights,Manhattan
+10038,2020,Number,6.0,10038,Lower Manhattan,Manhattan
+10039,2020,Number,16.0,10039,Central Harlem - Morningside Heights,Manhattan
+10040,2020,Number,16.0,10040,Washington Heights - Inwood,Manhattan
+10044,2020,Number,0.0,10044,Upper East Side,Manhattan
+10065,2020,Number,6.0,10065,Upper East Side,Manhattan
+10069,2020,Number,0.0,10069,Upper West Side,Manhattan
+10075,2020,Number,5.0,10075,Upper East Side,Manhattan
+10128,2020,Number,8.0,10128,Upper East Side,Manhattan
+10280,2020,Number,0.0,10280,Lower Manhattan,Manhattan
+10282,2020,Number,0.0,10282,Lower Manhattan,Manhattan
+10301,2020,Number,26.0,10301,Stapleton - St. George,Staten Island
+10302,2020,Number,5.0,10302,Port  Richmond,Staten Island
+10303,2020,Number,13.0,10303,Port  Richmond,Staten Island
+10304,2020,Number,18.0,10304,Stapleton - St. George,Staten Island
+10305,2020,Number,9.0,10305,Stapleton - St. George,Staten Island
+10306,2020,Number,6.0,10306,South Beach - Tottenville,Staten Island
+10307,2020,Number,2.0,10307,South Beach - Tottenville,Staten Island
+10308,2020,Number,3.0,10308,South Beach - Tottenville,Staten Island
+10309,2020,Number,2.0,10309,South Beach - Tottenville,Staten Island
+10310,2020,Number,6.0,10310,Port  Richmond,Staten Island
+10312,2020,Number,6.0,10312,South Beach - Tottenville,Staten Island
+10314,2020,Number,7.0,10314,Willowbrook,Staten Island
+10451,2020,Number,60.0,10451,High Bridge - Morrisania,Bronx
+10452,2020,Number,58.0,10452,High Bridge - Morrisania,Bronx
+10453,2020,Number,85.0,10453,Crotona - Tremont,Bronx
+10454,2020,Number,18.0,10454,Hunts Point - Mott Haven,Bronx
+10455,2020,Number,32.0,10455,Hunts Point - Mott Haven,Bronx
+10456,2020,Number,85.0,10456,High Bridge - Morrisania,Bronx
+10457,2020,Number,72.0,10457,Crotona - Tremont,Bronx
+10458,2020,Number,71.0,10458,Fordham - Bronx Park,Bronx
+10459,2020,Number,55.0,10459,Hunts Point - Mott Haven,Bronx
+10460,2020,Number,45.0,10460,Crotona - Tremont,Bronx
+10461,2020,Number,15.0,10461,Pelham - Throgs Neck,Bronx
+10462,2020,Number,44.0,10462,Pelham - Throgs Neck,Bronx
+10463,2020,Number,28.0,10463,Kingsbridge - Riverdale,Bronx
+10464,2020,Number,3.0,10464,Pelham - Throgs Neck,Bronx
+10465,2020,Number,11.0,10465,Pelham - Throgs Neck,Bronx
+10466,2020,Number,48.0,10466,Northeast Bronx,Bronx
+10467,2020,Number,86.0,10467,Fordham - Bronx Park,Bronx
+10468,2020,Number,61.0,10468,Fordham - Bronx Park,Bronx
+10469,2020,Number,31.0,10469,Northeast Bronx,Bronx
+10470,2020,Number,11.0,10470,Northeast Bronx,Bronx
+10471,2020,Number,5.0,10471,Kingsbridge - Riverdale,Bronx
+10472,2020,Number,40.0,10472,Pelham - Throgs Neck,Bronx
+10473,2020,Number,19.0,10473,Pelham - Throgs Neck,Bronx
+10474,2020,Number,9.0,10474,Hunts Point - Mott Haven,Bronx
+10475,2020,Number,18.0,10475,Northeast Bronx,Bronx
+11001,2020,Number,0.0,11001,Southeast Queens,Queens
+11004,2020,Number,0.0,11004,Southeast Queens,Queens
+11005,2020,Number,0.0,11005,Southeast Queens,Queens
+11040,2020,Number,2.0,11040,Southeast Queens,Queens
+11096,2020,Number,0.0,11096,,
+11101,2020,Number,9.0,11101,Long Island City - Astoria,Queens
+11102,2020,Number,8.0,11102,Long Island City - Astoria,Queens
+11103,2020,Number,10.0,11103,Long Island City - Astoria,Queens
+11104,2020,Number,15.0,11104,Long Island City - Astoria,Queens
+11105,2020,Number,9.0,11105,Long Island City - Astoria,Queens
+11106,2020,Number,7.0,11106,Long Island City - Astoria,Queens
+11109,2020,Number,2.0,11109,Long Island City - Astoria,Queens
+11201,2020,Number,16.0,11201,Downtown  - Heights - Slope,Brooklyn
+11203,2020,Number,58.0,11203,East Flatbush - Flatbush,Brooklyn
+11204,2020,Number,9.0,11204,Borough Park,Brooklyn
+11205,2020,Number,12.0,11205,Downtown  - Heights - Slope,Brooklyn
+11206,2020,Number,15.0,11206,Williamsburg - Bushwick,Brooklyn
+11207,2020,Number,76.0,11207,East New York,Brooklyn
+11208,2020,Number,45.0,11208,East New York,Brooklyn
+11209,2020,Number,21.0,11209,Bensonhurst - Bay Ridge,Brooklyn
+11210,2020,Number,35.0,11210,East Flatbush - Flatbush,Brooklyn
+11211,2020,Number,8.0,11211,Greenpoint,Brooklyn
+11212,2020,Number,61.0,11212,Bedford Stuyvesant - Crown Heights,Brooklyn
+11213,2020,Number,44.0,11213,Bedford Stuyvesant - Crown Heights,Brooklyn
+11214,2020,Number,17.0,11214,Bensonhurst - Bay Ridge,Brooklyn
+11215,2020,Number,8.0,11215,Downtown  - Heights - Slope,Brooklyn
+11216,2020,Number,19.0,11216,Bedford Stuyvesant - Crown Heights,Brooklyn
+11217,2020,Number,9.0,11217,Downtown  - Heights - Slope,Brooklyn
+11218,2020,Number,17.0,11218,Borough Park,Brooklyn
+11219,2020,Number,11.0,11219,Borough Park,Brooklyn
+11220,2020,Number,12.0,11220,Sunset Park,Brooklyn
+11221,2020,Number,33.0,11221,Williamsburg - Bushwick,Brooklyn
+11222,2020,Number,8.0,11222,Greenpoint,Brooklyn
+11223,2020,Number,13.0,11223,Coney Island - Sheepshead Bay,Brooklyn
+11224,2020,Number,33.0,11224,Coney Island - Sheepshead Bay,Brooklyn
+11225,2020,Number,39.0,11225,East Flatbush - Flatbush,Brooklyn
+11226,2020,Number,63.0,11226,East Flatbush - Flatbush,Brooklyn
+11228,2020,Number,5.0,11228,Bensonhurst - Bay Ridge,Brooklyn
+11229,2020,Number,21.0,11229,Coney Island - Sheepshead Bay,Brooklyn
+11230,2020,Number,19.0,11230,Borough Park,Brooklyn
+11231,2020,Number,3.0,11231,Downtown  - Heights - Slope,Brooklyn
+11232,2020,Number,4.0,11232,Sunset Park,Brooklyn
+11233,2020,Number,56.0,11233,Bedford Stuyvesant - Crown Heights,Brooklyn
+11234,2020,Number,23.0,11234,Canarsie - Flatlands,Brooklyn
+11235,2020,Number,12.0,11235,Coney Island - Sheepshead Bay,Brooklyn
+11236,2020,Number,41.0,11236,Canarsie - Flatlands,Brooklyn
+11237,2020,Number,15.0,11237,Williamsburg - Bushwick,Brooklyn
+11238,2020,Number,9.0,11238,Bedford Stuyvesant - Crown Heights,Brooklyn
+11239,2020,Number,2.0,11239,Canarsie - Flatlands,Brooklyn
+11249,2020,Number,7.0,11249,,
+11354,2020,Number,11.0,11354,Flushing - Clearview,Queens
+11355,2020,Number,14.0,11355,Flushing - Clearview,Queens
+11356,2020,Number,7.0,11356,Flushing - Clearview,Queens
+11357,2020,Number,0.0,11357,Flushing - Clearview,Queens
+11358,2020,Number,3.0,11358,Flushing - Clearview,Queens
+11359,2020,Number,0.0,11359,Flushing - Clearview,Queens
+11360,2020,Number,3.0,11360,Flushing - Clearview,Queens
+11361,2020,Number,5.0,11361,Bayside - Little Neck,Queens
+11362,2020,Number,2.0,11362,Bayside - Little Neck,Queens
+11363,2020,Number,2.0,11363,Bayside - Little Neck,Queens
+11364,2020,Number,3.0,11364,Bayside - Little Neck,Queens
+11365,2020,Number,9.0,11365,Fresh Meadows,Queens
+11366,2020,Number,4.0,11366,Fresh Meadows,Queens
+11367,2020,Number,10.0,11367,Fresh Meadows,Queens
+11368,2020,Number,25.0,11368,West Queens,Queens
+11369,2020,Number,7.0,11369,West Queens,Queens
+11370,2020,Number,3.0,11370,West Queens,Queens
+11371,2020,Number,0.0,11371,West Queens,Queens
+11372,2020,Number,7.0,11372,West Queens,Queens
+11373,2020,Number,11.0,11373,West Queens,Queens
+11374,2020,Number,16.0,11374,Ridgewood - Forest Hills,Queens
+11375,2020,Number,4.0,11375,Ridgewood - Forest Hills,Queens
+11377,2020,Number,15.0,11377,West Queens,Queens
+11378,2020,Number,5.0,11378,West Queens,Queens
+11379,2020,Number,1.0,11379,Ridgewood - Forest Hills,Queens
+11385,2020,Number,21.0,11385,Ridgewood - Forest Hills,Queens
+11411,2020,Number,5.0,11411,Southeast Queens,Queens
+11412,2020,Number,15.0,11412,Jamaica,Queens
+11413,2020,Number,19.0,11413,Southeast Queens,Queens
+11414,2020,Number,0.0,11414,Southwest Queens,Queens
+11415,2020,Number,11.0,11415,Southwest Queens,Queens
+11416,2020,Number,13.0,11416,Southwest Queens,Queens
+11417,2020,Number,14.0,11417,Southwest Queens,Queens
+11418,2020,Number,11.0,11418,Southwest Queens,Queens
+11419,2020,Number,9.0,11419,Southwest Queens,Queens
+11420,2020,Number,10.0,11420,Southwest Queens,Queens
+11421,2020,Number,15.0,11421,Southwest Queens,Queens
+11422,2020,Number,13.0,11422,Southeast Queens,Queens
+11423,2020,Number,13.0,11423,Jamaica,Queens
+11426,2020,Number,4.0,11426,Southeast Queens,Queens
+11427,2020,Number,7.0,11427,Southeast Queens,Queens
+11428,2020,Number,6.0,11428,Southeast Queens,Queens
+11429,2020,Number,18.0,11429,Southeast Queens,Queens
+11430,2020,Number,0.0,11430,Jamaica,Queens
+11432,2020,Number,33.0,11432,Jamaica,Queens
+11433,2020,Number,10.0,11433,Jamaica,Queens
+11434,2020,Number,36.0,11434,Jamaica,Queens
+11435,2020,Number,18.0,11435,Jamaica,Queens
+11436,2020,Number,13.0,11436,Jamaica,Queens
+11691,2020,Number,47.0,11691,Rockaway,Queens
+11692,2020,Number,21.0,11692,Rockaway,Queens
+11693,2020,Number,3.0,11693,Rockaway,Queens
+11694,2020,Number,4.0,11694,Rockaway,Queens
+11697,2020,Number,0.0,11697,Rockaway,Queens
+Bronx,2017,Number,7400.0,Bronx,,
+Brooklyn,2017,Number,5903.0,Brooklyn,,
+Manhattan,2017,Number,2846.0,Manhattan,,
+Queens,2017,Number,3968.0,Queens,,
+Staten Island,2017,Number,693.0,Staten Island,,
+New York City,2017,Number,20810.0,New York City,,
+Bronx,2018,Number,6860.0,Bronx,,
+Brooklyn,2018,Number,5702.0,Brooklyn,,
+Manhattan,2018,Number,2713.0,Manhattan,,
+Queens,2018,Number,4053.0,Queens,,
+Staten Island,2018,Number,660.0,Staten Island,,
+New York City,2018,Number,19988.0,New York City,,
+Bronx,2019,Number,5850.0,Bronx,,
+Brooklyn,2019,Number,4886.0,Brooklyn,,
+Manhattan,2019,Number,2292.0,Manhattan,,
+Queens,2019,Number,3350.0,Queens,,
+Staten Island,2019,Number,597.0,Staten Island,,
+New York City,2019,Number,16975.0,New York City,,
+Bronx,2020,Number,1007.0,Bronx,,
+Brooklyn,2020,Number,899.0,Brooklyn,,
+Manhattan,2020,Number,408.0,Manhattan,,
+Queens,2020,Number,618.0,Queens,,
+Staten Island,2020,Number,103.0,Staten Island,,
+New York City,2020,Number,3035.0,New York City,,
+10001,2021,Number,1.0,10001,Chelsea - Clinton,Manhattan
+10002,2021,Number,4.0,10002,Union Square - Lower East Side,Manhattan
+10003,2021,Number,1.0,10003,Union Square - Lower East Side,Manhattan
+10004,2021,Number,0.0,10004,Lower Manhattan,Manhattan
+10005,2021,Number,0.0,10005,Lower Manhattan,Manhattan
+10006,2021,Number,0.0,10006,Lower Manhattan,Manhattan
+10007,2021,Number,0.0,10007,Lower Manhattan,Manhattan
+10009,2021,Number,1.0,10009,Union Square - Lower East Side,Manhattan
+10010,2021,Number,0.0,10010,Gramercy Park -  Murray Hill,Manhattan
+10011,2021,Number,0.0,10011,Chelsea - Clinton,Manhattan
+10012,2021,Number,0.0,10012,Greenwich Village - Soho,Manhattan
+10013,2021,Number,0.0,10013,Greenwich Village - Soho,Manhattan
+10014,2021,Number,1.0,10014,Greenwich Village - Soho,Manhattan
+10016,2021,Number,0.0,10016,Gramercy Park -  Murray Hill,Manhattan
+10017,2021,Number,0.0,10017,Gramercy Park -  Murray Hill,Manhattan
+10018,2021,Number,0.0,10018,Chelsea - Clinton,Manhattan
+10019,2021,Number,1.0,10019,Chelsea - Clinton,Manhattan
+10021,2021,Number,0.0,10021,Upper East Side,Manhattan
+10022,2021,Number,0.0,10022,Gramercy Park -  Murray Hill,Manhattan
+10023,2021,Number,0.0,10023,Upper West Side,Manhattan
+10024,2021,Number,0.0,10024,Upper West Side,Manhattan
+10025,2021,Number,3.0,10025,Upper West Side,Manhattan
+10026,2021,Number,0.0,10026,Central Harlem - Morningside Heights,Manhattan
+10027,2021,Number,0.0,10027,Central Harlem - Morningside Heights,Manhattan
+10028,2021,Number,2.0,10028,Upper East Side,Manhattan
+10029,2021,Number,1.0,10029,East Harlem,Manhattan
+10030,2021,Number,0.0,10030,Central Harlem - Morningside Heights,Manhattan
+10031,2021,Number,0.0,10031,Washington Heights - Inwood,Manhattan
+10032,2021,Number,0.0,10032,Washington Heights - Inwood,Manhattan
+10033,2021,Number,0.0,10033,Washington Heights - Inwood,Manhattan
+10034,2021,Number,0.0,10034,Washington Heights - Inwood,Manhattan
+10035,2021,Number,0.0,10035,East Harlem,Manhattan
+10036,2021,Number,1.0,10036,Chelsea - Clinton,Manhattan
+10037,2021,Number,0.0,10037,Central Harlem - Morningside Heights,Manhattan
+10038,2021,Number,0.0,10038,Lower Manhattan,Manhattan
+10039,2021,Number,1.0,10039,Central Harlem - Morningside Heights,Manhattan
+10040,2021,Number,1.0,10040,Washington Heights - Inwood,Manhattan
+10044,2021,Number,0.0,10044,Upper East Side,Manhattan
+10065,2021,Number,1.0,10065,Upper East Side,Manhattan
+10069,2021,Number,0.0,10069,Upper West Side,Manhattan
+10075,2021,Number,1.0,10075,Upper East Side,Manhattan
+10128,2021,Number,0.0,10128,Upper East Side,Manhattan
+10280,2021,Number,0.0,10280,Lower Manhattan,Manhattan
+10282,2021,Number,0.0,10282,Lower Manhattan,Manhattan
+10301,2021,Number,5.0,10301,Stapleton - St. George,Staten Island
+10302,2021,Number,0.0,10302,Port  Richmond,Staten Island
+10303,2021,Number,2.0,10303,Port  Richmond,Staten Island
+10304,2021,Number,7.0,10304,Stapleton - St. George,Staten Island
+10305,2021,Number,1.0,10305,Stapleton - St. George,Staten Island
+10306,2021,Number,1.0,10306,South Beach - Tottenville,Staten Island
+10307,2021,Number,0.0,10307,South Beach - Tottenville,Staten Island
+10308,2021,Number,0.0,10308,South Beach - Tottenville,Staten Island
+10309,2021,Number,1.0,10309,South Beach - Tottenville,Staten Island
+10310,2021,Number,2.0,10310,Port  Richmond,Staten Island
+10312,2021,Number,3.0,10312,South Beach - Tottenville,Staten Island
+10314,2021,Number,3.0,10314,Willowbrook,Staten Island
+10451,2021,Number,1.0,10451,High Bridge - Morrisania,Bronx
+10452,2021,Number,2.0,10452,High Bridge - Morrisania,Bronx
+10453,2021,Number,0.0,10453,Crotona - Tremont,Bronx
+10454,2021,Number,0.0,10454,Hunts Point - Mott Haven,Bronx
+10455,2021,Number,0.0,10455,Hunts Point - Mott Haven,Bronx
+10456,2021,Number,1.0,10456,High Bridge - Morrisania,Bronx
+10457,2021,Number,1.0,10457,Crotona - Tremont,Bronx
+10458,2021,Number,3.0,10458,Fordham - Bronx Park,Bronx
+10459,2021,Number,0.0,10459,Hunts Point - Mott Haven,Bronx
+10460,2021,Number,0.0,10460,Crotona - Tremont,Bronx
+10461,2021,Number,0.0,10461,Pelham - Throgs Neck,Bronx
+10462,2021,Number,1.0,10462,Pelham - Throgs Neck,Bronx
+10463,2021,Number,0.0,10463,Kingsbridge - Riverdale,Bronx
+10464,2021,Number,0.0,10464,Pelham - Throgs Neck,Bronx
+10465,2021,Number,0.0,10465,Pelham - Throgs Neck,Bronx
+10466,2021,Number,0.0,10466,Northeast Bronx,Bronx
+10467,2021,Number,1.0,10467,Fordham - Bronx Park,Bronx
+10468,2021,Number,2.0,10468,Fordham - Bronx Park,Bronx
+10469,2021,Number,0.0,10469,Northeast Bronx,Bronx
+10470,2021,Number,0.0,10470,Northeast Bronx,Bronx
+10471,2021,Number,0.0,10471,Kingsbridge - Riverdale,Bronx
+10472,2021,Number,1.0,10472,Pelham - Throgs Neck,Bronx
+10473,2021,Number,0.0,10473,Pelham - Throgs Neck,Bronx
+10474,2021,Number,0.0,10474,Hunts Point - Mott Haven,Bronx
+10475,2021,Number,0.0,10475,Northeast Bronx,Bronx
+11001,2021,Number,0.0,11001,Southeast Queens,Queens
+11004,2021,Number,0.0,11004,Southeast Queens,Queens
+11005,2021,Number,0.0,11005,Southeast Queens,Queens
+11040,2021,Number,0.0,11040,Southeast Queens,Queens
+11096,2021,Number,0.0,11096,,
+11101,2021,Number,0.0,11101,Long Island City - Astoria,Queens
+11102,2021,Number,1.0,11102,Long Island City - Astoria,Queens
+11103,2021,Number,0.0,11103,Long Island City - Astoria,Queens
+11104,2021,Number,0.0,11104,Long Island City - Astoria,Queens
+11105,2021,Number,0.0,11105,Long Island City - Astoria,Queens
+11106,2021,Number,0.0,11106,Long Island City - Astoria,Queens
+11109,2021,Number,0.0,11109,Long Island City - Astoria,Queens
+11201,2021,Number,3.0,11201,Downtown  - Heights - Slope,Brooklyn
+11203,2021,Number,4.0,11203,East Flatbush - Flatbush,Brooklyn
+11204,2021,Number,0.0,11204,Borough Park,Brooklyn
+11205,2021,Number,0.0,11205,Downtown  - Heights - Slope,Brooklyn
+11206,2021,Number,1.0,11206,Williamsburg - Bushwick,Brooklyn
+11207,2021,Number,3.0,11207,East New York,Brooklyn
+11208,2021,Number,1.0,11208,East New York,Brooklyn
+11209,2021,Number,1.0,11209,Bensonhurst - Bay Ridge,Brooklyn
+11210,2021,Number,2.0,11210,East Flatbush - Flatbush,Brooklyn
+11211,2021,Number,1.0,11211,Greenpoint,Brooklyn
+11212,2021,Number,3.0,11212,Bedford Stuyvesant - Crown Heights,Brooklyn
+11213,2021,Number,5.0,11213,Bedford Stuyvesant - Crown Heights,Brooklyn
+11214,2021,Number,1.0,11214,Bensonhurst - Bay Ridge,Brooklyn
+11215,2021,Number,2.0,11215,Downtown  - Heights - Slope,Brooklyn
+11216,2021,Number,4.0,11216,Bedford Stuyvesant - Crown Heights,Brooklyn
+11217,2021,Number,2.0,11217,Downtown  - Heights - Slope,Brooklyn
+11218,2021,Number,0.0,11218,Borough Park,Brooklyn
+11219,2021,Number,0.0,11219,Borough Park,Brooklyn
+11220,2021,Number,1.0,11220,Sunset Park,Brooklyn
+11221,2021,Number,0.0,11221,Williamsburg - Bushwick,Brooklyn
+11222,2021,Number,0.0,11222,Greenpoint,Brooklyn
+11223,2021,Number,2.0,11223,Coney Island - Sheepshead Bay,Brooklyn
+11224,2021,Number,1.0,11224,Coney Island - Sheepshead Bay,Brooklyn
+11225,2021,Number,1.0,11225,East Flatbush - Flatbush,Brooklyn
+11226,2021,Number,4.0,11226,East Flatbush - Flatbush,Brooklyn
+11228,2021,Number,0.0,11228,Bensonhurst - Bay Ridge,Brooklyn
+11229,2021,Number,0.0,11229,Coney Island - Sheepshead Bay,Brooklyn
+11230,2021,Number,3.0,11230,Borough Park,Brooklyn
+11231,2021,Number,0.0,11231,Downtown  - Heights - Slope,Brooklyn
+11232,2021,Number,0.0,11232,Sunset Park,Brooklyn
+11233,2021,Number,2.0,11233,Bedford Stuyvesant - Crown Heights,Brooklyn
+11234,2021,Number,2.0,11234,Canarsie - Flatlands,Brooklyn
+11235,2021,Number,1.0,11235,Coney Island - Sheepshead Bay,Brooklyn
+11236,2021,Number,0.0,11236,Canarsie - Flatlands,Brooklyn
+11237,2021,Number,0.0,11237,Williamsburg - Bushwick,Brooklyn
+11238,2021,Number,1.0,11238,Bedford Stuyvesant - Crown Heights,Brooklyn
+11239,2021,Number,0.0,11239,Canarsie - Flatlands,Brooklyn
+11249,2021,Number,1.0,11249,,
+11354,2021,Number,0.0,11354,Flushing - Clearview,Queens
+11355,2021,Number,2.0,11355,Flushing - Clearview,Queens
+11356,2021,Number,0.0,11356,Flushing - Clearview,Queens
+11357,2021,Number,0.0,11357,Flushing - Clearview,Queens
+11358,2021,Number,0.0,11358,Flushing - Clearview,Queens
+11359,2021,Number,0.0,11359,Flushing - Clearview,Queens
+11360,2021,Number,0.0,11360,Flushing - Clearview,Queens
+11361,2021,Number,1.0,11361,Bayside - Little Neck,Queens
+11362,2021,Number,0.0,11362,Bayside - Little Neck,Queens
+11363,2021,Number,0.0,11363,Bayside - Little Neck,Queens
+11364,2021,Number,0.0,11364,Bayside - Little Neck,Queens
+11365,2021,Number,0.0,11365,Fresh Meadows,Queens
+11366,2021,Number,0.0,11366,Fresh Meadows,Queens
+11367,2021,Number,0.0,11367,Fresh Meadows,Queens
+11368,2021,Number,0.0,11368,West Queens,Queens
+11369,2021,Number,0.0,11369,West Queens,Queens
+11370,2021,Number,0.0,11370,West Queens,Queens
+11371,2021,Number,0.0,11371,West Queens,Queens
+11372,2021,Number,0.0,11372,West Queens,Queens
+11373,2021,Number,2.0,11373,West Queens,Queens
+11374,2021,Number,1.0,11374,Ridgewood - Forest Hills,Queens
+11375,2021,Number,0.0,11375,Ridgewood - Forest Hills,Queens
+11377,2021,Number,0.0,11377,West Queens,Queens
+11378,2021,Number,0.0,11378,West Queens,Queens
+11379,2021,Number,0.0,11379,Ridgewood - Forest Hills,Queens
+11385,2021,Number,0.0,11385,Ridgewood - Forest Hills,Queens
+11411,2021,Number,0.0,11411,Southeast Queens,Queens
+11412,2021,Number,0.0,11412,Jamaica,Queens
+11413,2021,Number,1.0,11413,Southeast Queens,Queens
+11414,2021,Number,0.0,11414,Southwest Queens,Queens
+11415,2021,Number,2.0,11415,Southwest Queens,Queens
+11416,2021,Number,0.0,11416,Southwest Queens,Queens
+11417,2021,Number,0.0,11417,Southwest Queens,Queens
+11418,2021,Number,0.0,11418,Southwest Queens,Queens
+11419,2021,Number,0.0,11419,Southwest Queens,Queens
+11420,2021,Number,0.0,11420,Southwest Queens,Queens
+11421,2021,Number,0.0,11421,Southwest Queens,Queens
+11422,2021,Number,0.0,11422,Southeast Queens,Queens
+11423,2021,Number,0.0,11423,Jamaica,Queens
+11426,2021,Number,0.0,11426,Southeast Queens,Queens
+11427,2021,Number,0.0,11427,Southeast Queens,Queens
+11428,2021,Number,0.0,11428,Southeast Queens,Queens
+11429,2021,Number,0.0,11429,Southeast Queens,Queens
+11430,2021,Number,0.0,11430,Jamaica,Queens
+11432,2021,Number,2.0,11432,Jamaica,Queens
+11433,2021,Number,0.0,11433,Jamaica,Queens
+11434,2021,Number,1.0,11434,Jamaica,Queens
+11435,2021,Number,1.0,11435,Jamaica,Queens
+11436,2021,Number,1.0,11436,Jamaica,Queens
+11691,2021,Number,1.0,11691,Rockaway,Queens
+11692,2021,Number,0.0,11692,Rockaway,Queens
+11693,2021,Number,0.0,11693,Rockaway,Queens
+11694,2021,Number,3.0,11694,Rockaway,Queens
+11697,2021,Number,0.0,11697,Rockaway,Queens
+Bronx,2021,Number,13.0,Bronx,,
+Brooklyn,2021,Number,52.0,Brooklyn,,
+Manhattan,2021,Number,20.0,Manhattan,,
+Queens,2021,Number,19.0,Queens,,
+Staten Island,2021,Number,25.0,Staten Island,,
+New York City,2021,Number,129.0,New York City,,

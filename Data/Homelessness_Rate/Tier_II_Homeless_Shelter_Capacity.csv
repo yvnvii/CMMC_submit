@@ -1,0 +1,461 @@
+"Name","Tier II Homeless Shelter Capacity"
+"Description","Capacity of Department of Homeless Services Tier II shelters."
+"Source Notes","New York City Department of Homeless Services, unpublished data (fiscal years 2004, 2005, 2007, 2008, 2009, 2010, 2011).New York City Department of Homeless Services"
+"Notes",""
+
+Location,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,2004,Number,0,101
+Greenwich Village,2004,Number,0,102
+Lower East Side,2004,Number,222,103
+Chelsea/Clinton,2004,Number,171,104
+Midtown Business District,2004,Number,92,105
+Murray Hill/Stuyvesant,2004,Number,15,106
+Upper West Side,2004,Number,199,107
+Upper East Side,2004,Number,0,108
+Manhattanville,2004,Number,79,109
+Central Harlem,2004,Number,191,110
+East Harlem,2004,Number,116,111
+Washington Heights,2004,Number,0,112
+Mott Haven,2004,Number,210,201
+Hunts Point,2004,Number,239,202
+Morrisania,2004,Number,87,203
+Concourse/Highbridge,2004,Number,309,204
+University Heights,2004,Number,153,205
+East Tremont,2004,Number,212,206
+Bedford Park,2004,Number,97,207
+Riverdale,2004,Number,0,208
+Unionport/Soundview,2004,Number,18,209
+Throgs Neck,2004,Number,0,210
+Pelham Parkway,2004,Number,0,211
+Williamsbridge,2004,Number,0,212
+Williamsburg/Greenpoint,2004,Number,0,301
+Fort Greene/Brooklyn Hts,2004,Number,44,302
+Bedford Stuyvesant,2004,Number,17,303
+Bushwick,2004,Number,88,304
+East New York,2004,Number,429,305
+Park Slope,2004,Number,48,306
+Sunset Park,2004,Number,11,307
+Crown Heights North,2004,Number,114,308
+Crown Heights South,2004,Number,0,309
+Bay Ridge,2004,Number,0,310
+Bensonhurst,2004,Number,0,311
+Borough Park,2004,Number,0,312
+Coney Island,2004,Number,0,313
+Flatbush/Midwood,2004,Number,0,314
+Sheepshead Bay,2004,Number,0,315
+Brownsville,2004,Number,382,316
+East Flatbush,2004,Number,4,317
+Canarsie,2004,Number,98,318
+Astoria,2004,Number,0,401
+Sunnyside/Woodside,2004,Number,0,402
+Jackson Heights,2004,Number,0,403
+Elmhurst/Corona,2004,Number,0,404
+Ridgewood/Glendale,2004,Number,0,405
+Rego Park/Forest Hills,2004,Number,0,406
+Flushing,2004,Number,0,407
+Fresh Meadows/Briarwood,2004,Number,91,408
+Woodhaven,2004,Number,0,409
+Howard Beach,2004,Number,0,410
+Bayside,2004,Number,0,411
+Jamaica/St. Albans,2004,Number,342,412
+Queens Village,2004,Number,307,413
+The Rockaways,2004,Number,0,414
+St. George,2004,Number,46,501
+South Beach,2004,Number,0,502
+Tottenville,2004,Number,0,503
+Manhattan,2004,Number,1085,36061
+Bronx,2004,Number,1325,36005
+Brooklyn,2004,Number,1235,36047
+Queens,2004,Number,740,36081
+Staten Island,2004,Number,46,36085
+New York City,2004,Number,4431,3651000
+Battery Park/Tribeca,2005,Number,0,101
+Greenwich Village,2005,Number,0,102
+Lower East Side,2005,Number,222,103
+Chelsea/Clinton,2005,Number,171,104
+Midtown Business District,2005,Number,92,105
+Murray Hill/Stuyvesant,2005,Number,0,106
+Upper West Side,2005,Number,199,107
+Upper East Side,2005,Number,0,108
+Manhattanville,2005,Number,79,109
+Central Harlem,2005,Number,210,110
+East Harlem,2005,Number,103,111
+Washington Heights,2005,Number,0,112
+Mott Haven,2005,Number,213,201
+Hunts Point,2005,Number,239,202
+Morrisania,2005,Number,174,203
+Concourse/Highbridge,2005,Number,309,204
+University Heights,2005,Number,153,205
+East Tremont,2005,Number,212,206
+Bedford Park,2005,Number,91,207
+Riverdale,2005,Number,0,208
+Unionport/Soundview,2005,Number,18,209
+Throgs Neck,2005,Number,0,210
+Pelham Parkway,2005,Number,0,211
+Williamsbridge,2005,Number,88,212
+Williamsburg/Greenpoint,2005,Number,0,301
+Fort Greene/Brooklyn Hts,2005,Number,44,302
+Bedford Stuyvesant,2005,Number,33,303
+Bushwick,2005,Number,187,304
+East New York,2005,Number,410,305
+Park Slope,2005,Number,48,306
+Sunset Park,2005,Number,6,307
+Crown Heights North,2005,Number,114,308
+Crown Heights South,2005,Number,33,309
+Bay Ridge,2005,Number,0,310
+Bensonhurst,2005,Number,0,311
+Borough Park,2005,Number,0,312
+Coney Island,2005,Number,0,313
+Flatbush/Midwood,2005,Number,0,314
+Sheepshead Bay,2005,Number,0,315
+Brownsville,2005,Number,454,316
+East Flatbush,2005,Number,0,317
+Canarsie,2005,Number,98,318
+Astoria,2005,Number,0,401
+Sunnyside/Woodside,2005,Number,0,402
+Jackson Heights,2005,Number,0,403
+Elmhurst/Corona,2005,Number,0,404
+Ridgewood/Glendale,2005,Number,0,405
+Rego Park/Forest Hills,2005,Number,0,406
+Flushing,2005,Number,0,407
+Fresh Meadows/Briarwood,2005,Number,91,408
+Woodhaven,2005,Number,0,409
+Howard Beach,2005,Number,0,410
+Bayside,2005,Number,0,411
+Jamaica/St. Albans,2005,Number,65,412
+Queens Village,2005,Number,307,413
+The Rockaways,2005,Number,0,414
+St. George,2005,Number,46,501
+South Beach,2005,Number,0,502
+Tottenville,2005,Number,0,503
+Manhattan,2005,Number,1076,36061
+Bronx,2005,Number,1497,36005
+Brooklyn,2005,Number,1427,36047
+Queens,2005,Number,463,36081
+Staten Island,2005,Number,46,36085
+New York City,2005,Number,4509,3651000
+Battery Park/Tribeca,2007,Number,0,101
+Greenwich Village,2007,Number,0,102
+Lower East Side,2007,Number,223,103
+Chelsea/Clinton,2007,Number,113,104
+Midtown Business District,2007,Number,92,105
+Murray Hill/Stuyvesant,2007,Number,0,106
+Upper West Side,2007,Number,197,107
+Upper East Side,2007,Number,0,108
+Manhattanville,2007,Number,0,109
+Central Harlem,2007,Number,58,110
+East Harlem,2007,Number,90,111
+Washington Heights,2007,Number,0,112
+Mott Haven,2007,Number,215,201
+Hunts Point,2007,Number,162,202
+Morrisania,2007,Number,174,203
+Concourse/Highbridge,2007,Number,309,204
+University Heights,2007,Number,126,205
+East Tremont,2007,Number,239,206
+Bedford Park,2007,Number,91,207
+Riverdale,2007,Number,0,208
+Unionport/Soundview,2007,Number,18,209
+Throgs Neck,2007,Number,97,210
+Pelham Parkway,2007,Number,0,211
+Williamsbridge,2007,Number,88,212
+Williamsburg/Greenpoint,2007,Number,0,301
+Fort Greene/Brooklyn Hts,2007,Number,234,302
+Bedford Stuyvesant,2007,Number,87,303
+Bushwick,2007,Number,248,304
+East New York,2007,Number,255,305
+Park Slope,2007,Number,0,306
+Sunset Park,2007,Number,6,307
+Crown Heights North,2007,Number,161,308
+Crown Heights South,2007,Number,40,309
+Bay Ridge,2007,Number,0,310
+Bensonhurst,2007,Number,0,311
+Borough Park,2007,Number,0,312
+Coney Island,2007,Number,0,313
+Flatbush/Midwood,2007,Number,0,314
+Sheepshead Bay,2007,Number,0,315
+Brownsville,2007,Number,498,316
+East Flatbush,2007,Number,121,317
+Canarsie,2007,Number,98,318
+Astoria,2007,Number,0,401
+Sunnyside/Woodside,2007,Number,0,402
+Jackson Heights,2007,Number,0,403
+Elmhurst/Corona,2007,Number,0,404
+Ridgewood/Glendale,2007,Number,0,405
+Rego Park/Forest Hills,2007,Number,0,406
+Flushing,2007,Number,0,407
+Fresh Meadows/Briarwood,2007,Number,91,408
+Woodhaven,2007,Number,0,409
+Howard Beach,2007,Number,0,410
+Bayside,2007,Number,0,411
+Jamaica/St. Albans,2007,Number,125,412
+Queens Village,2007,Number,337,413
+The Rockaways,2007,Number,0,414
+St. George,2007,Number,46,501
+South Beach,2007,Number,0,502
+Tottenville,2007,Number,0,503
+Manhattan,2007,Number,773,36061
+Bronx,2007,Number,1519,36005
+Brooklyn,2007,Number,1748,36047
+Queens,2007,Number,553,36081
+Staten Island,2007,Number,46,36085
+New York City,2007,Number,4639,3651000
+Battery Park/Tribeca,2008,Number,0,101
+Greenwich Village,2008,Number,0,102
+Lower East Side,2008,Number,223,103
+Chelsea/Clinton,2008,Number,113,104
+Midtown Business District,2008,Number,92,105
+Murray Hill/Stuyvesant,2008,Number,0,106
+Upper West Side,2008,Number,197,107
+Upper East Side,2008,Number,0,108
+Manhattanville,2008,Number,0,109
+Central Harlem,2008,Number,58,110
+East Harlem,2008,Number,90,111
+Washington Heights,2008,Number,0,112
+Mott Haven,2008,Number,215,201
+Hunts Point,2008,Number,162,202
+Morrisania,2008,Number,174,203
+Concourse/Highbridge,2008,Number,309,204
+University Heights,2008,Number,126,205
+East Tremont,2008,Number,239,206
+Bedford Park,2008,Number,91,207
+Riverdale,2008,Number,0,208
+Unionport/Soundview,2008,Number,18,209
+Throgs Neck,2008,Number,97,210
+Pelham Parkway,2008,Number,0,211
+Williamsbridge,2008,Number,88,212
+Williamsburg/Greenpoint,2008,Number,0,301
+Fort Greene/Brooklyn Hts,2008,Number,234,302
+Bedford Stuyvesant,2008,Number,123,303
+Bushwick,2008,Number,212,304
+East New York,2008,Number,227,305
+Park Slope,2008,Number,0,306
+Sunset Park,2008,Number,6,307
+Crown Heights North,2008,Number,161,308
+Crown Heights South,2008,Number,48,309
+Bay Ridge,2008,Number,0,310
+Bensonhurst,2008,Number,0,311
+Borough Park,2008,Number,0,312
+Coney Island,2008,Number,0,313
+Flatbush/Midwood,2008,Number,0,314
+Sheepshead Bay,2008,Number,0,315
+Brownsville,2008,Number,498,316
+East Flatbush,2008,Number,121,317
+Canarsie,2008,Number,98,318
+Astoria,2008,Number,0,401
+Sunnyside/Woodside,2008,Number,0,402
+Jackson Heights,2008,Number,0,403
+Elmhurst/Corona,2008,Number,0,404
+Ridgewood/Glendale,2008,Number,0,405
+Rego Park/Forest Hills,2008,Number,0,406
+Flushing,2008,Number,0,407
+Fresh Meadows/Briarwood,2008,Number,91,408
+Woodhaven,2008,Number,0,409
+Howard Beach,2008,Number,0,410
+Bayside,2008,Number,0,411
+Jamaica/St. Albans,2008,Number,125,412
+Queens Village,2008,Number,337,413
+The Rockaways,2008,Number,0,414
+St. George,2008,Number,46,501
+South Beach,2008,Number,0,502
+Tottenville,2008,Number,0,503
+Manhattan,2008,Number,773,36061
+Bronx,2008,Number,1519,36005
+Brooklyn,2008,Number,1728,36047
+Queens,2008,Number,553,36081
+Staten Island,2008,Number,46,36085
+New York City,2008,Number,4619,3651000
+Battery Park/Tribeca,2009,Number,0,101
+Greenwich Village,2009,Number,0,102
+Lower East Side,2009,Number,223,103
+Chelsea/Clinton,2009,Number,81,104
+Midtown Business District,2009,Number,101,105
+Murray Hill/Stuyvesant,2009,Number,0,106
+Upper West Side,2009,Number,197,107
+Upper East Side,2009,Number,0,108
+Manhattanville,2009,Number,0,109
+Central Harlem,2009,Number,58,110
+East Harlem,2009,Number,90,111
+Washington Heights,2009,Number,0,112
+Mott Haven,2009,Number,220,201
+Hunts Point,2009,Number,162,202
+Morrisania,2009,Number,174,203
+Concourse/Highbridge,2009,Number,309,204
+University Heights,2009,Number,126,205
+East Tremont,2009,Number,239,206
+Bedford Park,2009,Number,91,207
+Riverdale,2009,Number,0,208
+Unionport/Soundview,2009,Number,42,209
+Throgs Neck,2009,Number,97,210
+Pelham Parkway,2009,Number,0,211
+Williamsbridge,2009,Number,88,212
+Williamsburg/Greenpoint,2009,Number,0,301
+Fort Greene/Brooklyn Hts,2009,Number,227,302
+Bedford Stuyvesant,2009,Number,197,303
+Bushwick,2009,Number,212,304
+East New York,2009,Number,255,305
+Park Slope,2009,Number,0,306
+Sunset Park,2009,Number,6,307
+Crown Heights North,2009,Number,160,308
+Crown Heights South,2009,Number,45,309
+Bay Ridge,2009,Number,0,310
+Bensonhurst,2009,Number,0,311
+Borough Park,2009,Number,0,312
+Coney Island,2009,Number,0,313
+Flatbush/Midwood,2009,Number,0,314
+Sheepshead Bay,2009,Number,0,315
+Brownsville,2009,Number,558,316
+East Flatbush,2009,Number,121,317
+Canarsie,2009,Number,98,318
+Astoria,2009,Number,0,401
+Sunnyside/Woodside,2009,Number,0,402
+Jackson Heights,2009,Number,0,403
+Elmhurst/Corona,2009,Number,0,404
+Ridgewood/Glendale,2009,Number,0,405
+Rego Park/Forest Hills,2009,Number,0,406
+Flushing,2009,Number,0,407
+Fresh Meadows/Briarwood,2009,Number,91,408
+Woodhaven,2009,Number,0,409
+Howard Beach,2009,Number,0,410
+Bayside,2009,Number,0,411
+Jamaica/St. Albans,2009,Number,125,412
+Queens Village,2009,Number,337,413
+The Rockaways,2009,Number,0,414
+St. George,2009,Number,46,501
+South Beach,2009,Number,0,502
+Tottenville,2009,Number,0,503
+Manhattan,2009,Number,750,36061
+Bronx,2009,Number,1548,36005
+Brooklyn,2009,Number,1879,36047
+Queens,2009,Number,553,36081
+Staten Island,2009,Number,46,36085
+New York City,2009,Number,4776,3651000
+Battery Park/Tribeca,2010,Number,0,101
+Greenwich Village,2010,Number,0,102
+Lower East Side,2010,Number,222,103
+Chelsea/Clinton,2010,Number,81,104
+Midtown Business District,2010,Number,101,105
+Murray Hill/Stuyvesant,2010,Number,0,106
+Upper West Side,2010,Number,194,107
+Upper East Side,2010,Number,0,108
+Manhattanville,2010,Number,155,109
+Central Harlem,2010,Number,58,110
+East Harlem,2010,Number,90,111
+Washington Heights,2010,Number,0,112
+Mott Haven,2010,Number,217,201
+Hunts Point,2010,Number,162,202
+Morrisania,2010,Number,174,203
+Concourse/Highbridge,2010,Number,309,204
+University Heights,2010,Number,126,205
+East Tremont,2010,Number,239,206
+Bedford Park,2010,Number,91,207
+Riverdale,2010,Number,0,208
+Unionport/Soundview,2010,Number,18,209
+Throgs Neck,2010,Number,97,210
+Pelham Parkway,2010,Number,0,211
+Williamsbridge,2010,Number,88,212
+Williamsburg/Greenpoint,2010,Number,0,301
+Fort Greene/Brooklyn Hts,2010,Number,227,302
+Bedford Stuyvesant,2010,Number,197,303
+Bushwick,2010,Number,260,304
+East New York,2010,Number,248,305
+Park Slope,2010,Number,0,306
+Sunset Park,2010,Number,6,307
+Crown Heights North,2010,Number,114,308
+Crown Heights South,2010,Number,45,309
+Bay Ridge,2010,Number,0,310
+Bensonhurst,2010,Number,0,311
+Borough Park,2010,Number,0,312
+Coney Island,2010,Number,0,313
+Flatbush/Midwood,2010,Number,0,314
+Sheepshead Bay,2010,Number,0,315
+Brownsville,2010,Number,557,316
+East Flatbush,2010,Number,121,317
+Canarsie,2010,Number,98,318
+Astoria,2010,Number,0,401
+Sunnyside/Woodside,2010,Number,0,402
+Jackson Heights,2010,Number,0,403
+Elmhurst/Corona,2010,Number,0,404
+Ridgewood/Glendale,2010,Number,0,405
+Rego Park/Forest Hills,2010,Number,0,406
+Flushing,2010,Number,0,407
+Fresh Meadows/Briarwood,2010,Number,91,408
+Woodhaven,2010,Number,0,409
+Howard Beach,2010,Number,0,410
+Bayside,2010,Number,0,411
+Jamaica/St. Albans,2010,Number,125,412
+Queens Village,2010,Number,337,413
+The Rockaways,2010,Number,0,414
+St. George,2010,Number,46,501
+South Beach,2010,Number,0,502
+Tottenville,2010,Number,0,503
+Manhattan,2010,Number,901,36061
+Bronx,2010,Number,1521,36005
+Brooklyn,2010,Number,1873,36047
+Queens,2010,Number,553,36081
+Staten Island,2010,Number,46,36085
+New York City,2010,Number,4894,3651000
+Battery Park/Tribeca,2011,Number,0,101
+Greenwich Village,2011,Number,0,102
+Lower East Side,2011,Number,222,103
+Chelsea/Clinton,2011,Number,81,104
+Midtown Business District,2011,Number,101,105
+Murray Hill/Stuyvesant,2011,Number,0,106
+Upper West Side,2011,Number,194,107
+Upper East Side,2011,Number,0,108
+Manhattanville,2011,Number,230,109
+Central Harlem,2011,Number,185,110
+East Harlem,2011,Number,90,111
+Washington Heights,2011,Number,0,112
+Mott Haven,2011,Number,217,201
+Hunts Point,2011,Number,162,202
+Morrisania,2011,Number,174,203
+Concourse/Highbridge,2011,Number,309,204
+University Heights,2011,Number,120,205
+East Tremont,2011,Number,327,206
+Bedford Park,2011,Number,91,207
+Riverdale,2011,Number,0,208
+Unionport/Soundview,2011,Number,18,209
+Throgs Neck,2011,Number,135,210
+Pelham Parkway,2011,Number,0,211
+Williamsbridge,2011,Number,88,212
+Williamsburg/Greenpoint,2011,Number,0,301
+Fort Greene/Brooklyn Hts,2011,Number,215,302
+Bedford Stuyvesant,2011,Number,292,303
+Bushwick,2011,Number,212,304
+East New York,2011,Number,227,305
+Park Slope,2011,Number,0,306
+Sunset Park,2011,Number,6,307
+Crown Heights North,2011,Number,114,308
+Crown Heights South,2011,Number,45,309
+Bay Ridge,2011,Number,0,310
+Bensonhurst,2011,Number,0,311
+Borough Park,2011,Number,0,312
+Coney Island,2011,Number,0,313
+Flatbush/Midwood,2011,Number,0,314
+Sheepshead Bay,2011,Number,0,315
+Brownsville,2011,Number,479,316
+East Flatbush,2011,Number,121,317
+Canarsie,2011,Number,98,318
+Astoria,2011,Number,0,401
+Sunnyside/Woodside,2011,Number,0,402
+Jackson Heights,2011,Number,49,403
+Elmhurst/Corona,2011,Number,0,404
+Ridgewood/Glendale,2011,Number,0,405
+Rego Park/Forest Hills,2011,Number,0,406
+Flushing,2011,Number,0,407
+Fresh Meadows/Briarwood,2011,Number,91,408
+Woodhaven,2011,Number,0,409
+Howard Beach,2011,Number,0,410
+Bayside,2011,Number,0,411
+Jamaica/St. Albans,2011,Number,179,412
+Queens Village,2011,Number,337,413
+The Rockaways,2011,Number,0,414
+St. George,2011,Number,46,501
+South Beach,2011,Number,0,502
+Tottenville,2011,Number,0,503
+Manhattan,2011,Number,1103,36061
+Bronx,2011,Number,1641,36005
+Brooklyn,2011,Number,1809,36047
+Queens,2011,Number,656,36081
+Staten Island,2011,Number,46,36085
+New York City,2011,Number,5255,3651000

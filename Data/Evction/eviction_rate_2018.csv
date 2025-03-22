@@ -1,0 +1,173 @@
+Neighborhood,Year,Unit,Evictions,UHFNAME,Eviction Rate
+Battery Park/Tribeca,2018,43892,4.0,Lower Manhattan,0.009113278046113187
+Battery Park/Tribeca,2018,43892,13.0,Lower Manhattan,0.029618153649867855
+Battery Park/Tribeca,2018,43892,4.0,Lower Manhattan,0.009113278046113187
+Battery Park/Tribeca,2018,43892,3.0,Lower Manhattan,0.006834958534584891
+Battery Park/Tribeca,2018,43892,16.0,Lower Manhattan,0.03645311218445275
+Battery Park/Tribeca,2018,43892,7.0,Lower Manhattan,0.015948236580698077
+Battery Park/Tribeca,2018,43892,2.0,Lower Manhattan,0.0045566390230565934
+Greenwich Village,2018,57146,30.0,Greenwich Village - Soho,0.05249711265880376
+Greenwich Village,2018,57146,20.0,Greenwich Village - Soho,0.03499807510586918
+Greenwich Village,2018,57146,27.0,Greenwich Village - Soho,0.04724740139292339
+Lower East Side,2018,81404,90.0,Union Square - Lower East Side,0.11055967765711758
+Lower East Side,2018,81404,28.0,Union Square - Lower East Side,0.03439634415999214
+Lower East Side,2018,81404,89.0,Union Square - Lower East Side,0.10933123679426072
+Chelsea/Clinton,2018,85163,58.0,Chelsea - Clinton,0.06810469335274709
+Chelsea/Clinton,2018,85163,34.0,Chelsea - Clinton,0.039923440930920706
+Chelsea/Clinton,2018,85163,23.0,Chelsea - Clinton,0.027007033570916945
+Chelsea/Clinton,2018,85163,87.0,Chelsea - Clinton,0.10215704002912063
+Chelsea/Clinton,2018,85163,69.0,Chelsea - Clinton,0.08102110071275084
+Murray Hill/Stuyvesant,2018,99362,20.0,Gramercy Park -  Murray Hill,0.020128419315231176
+Murray Hill/Stuyvesant,2018,99362,48.0,Gramercy Park -  Murray Hill,0.04830820635655482
+Murray Hill/Stuyvesant,2018,99362,17.0,Gramercy Park -  Murray Hill,0.017109156417946497
+Murray Hill/Stuyvesant,2018,99362,42.0,Gramercy Park -  Murray Hill,0.04226968056198546
+Upper West Side,2018,127516,47.0,Upper West Side,0.036858119765362775
+Upper West Side,2018,127516,51.0,Upper West Side,0.039994981021989395
+Upper West Side,2018,127516,118.0,Upper West Side,0.09253740707048527
+Upper West Side,2018,127516,1.0,Upper West Side,0.0007842153141566548
+Upper East Side,2018,149217,37.0,Upper East Side,0.02479610232078114
+Upper East Side,2018,149217,38.0,Upper East Side,0.025466267248369825
+Upper East Side,2018,149217,10.0,Upper East Side,0.006701649275886796
+Upper East Side,2018,149217,35.0,Upper East Side,0.023455772465603784
+Upper East Side,2018,149217,22.0,Upper East Side,0.01474362840695095
+Upper East Side,2018,149217,35.0,Upper East Side,0.023455772465603784
+Central Harlem,2018,59541,67.0,Central Harlem - Morningside Heights,0.11252750205740583
+Central Harlem,2018,59541,120.0,Central Harlem - Morningside Heights,0.20154179472968206
+Central Harlem,2018,59541,128.0,Central Harlem - Morningside Heights,0.21497791437832753
+Central Harlem,2018,59541,111.0,Central Harlem - Morningside Heights,0.18642616012495591
+Central Harlem,2018,59541,144.0,Central Harlem - Morningside Heights,0.24185015367561846
+East Harlem,2018,56990,199.0,East Harlem,0.34918406738024216
+East Harlem,2018,56990,108.0,East Harlem,0.18950693104053343
+Washington Heights,2018,72895,163.0,Washington Heights - Inwood,0.22360930104945467
+Washington Heights,2018,72895,164.0,Washington Heights - Inwood,0.22498113725221208
+Washington Heights,2018,72895,148.0,Washington Heights - Inwood,0.20303175800809384
+Washington Heights,2018,72895,101.0,Washington Heights - Inwood,0.13855545647849646
+Washington Heights,2018,72895,103.0,Washington Heights - Inwood,0.14129912888401125
+Mott Haven,2018,39063,150.0,Hunts Point - Mott Haven,0.3839950848629137
+Mott Haven,2018,39063,192.0,Hunts Point - Mott Haven,0.49151370862452964
+Mott Haven,2018,39063,325.0,Hunts Point - Mott Haven,0.8319893505363132
+Mott Haven,2018,39063,90.0,Hunts Point - Mott Haven,0.23039705091774826
+Morrisania,2018,34238,310.0,High Bridge - Morrisania,0.9054267188504002
+Morrisania,2018,34238,371.0,High Bridge - Morrisania,1.08359133126935
+Morrisania,2018,34238,558.0,High Bridge - Morrisania,1.6297680939307204
+East Tremont,2018,33005,494.0,Crotona - Tremont,1.4967429177397362
+East Tremont,2018,33005,443.0,Crotona - Tremont,1.3422208756249052
+East Tremont,2018,33005,445.0,Crotona - Tremont,1.3482805635509771
+Bedford Park,2018,51982,558.0,Fordham - Bronx Park,1.0734485014043322
+Bedford Park,2018,51982,573.0,Fordham - Bronx Park,1.1023046439152016
+Bedford Park,2018,51982,454.0,Fordham - Bronx Park,0.8733792466623062
+Riverdale,2018,44172,195.0,Kingsbridge - Riverdale,0.44145612605270307
+Riverdale,2018,44172,39.0,Kingsbridge - Riverdale,0.08829122521054061
+Throgs Neck,2018,49638,126.0,Pelham - Throgs Neck,0.2538377855675088
+Throgs Neck,2018,49638,322.0,Pelham - Throgs Neck,0.6486965631169669
+Throgs Neck,2018,49638,7.0,Pelham - Throgs Neck,0.01410209919819493
+Throgs Neck,2018,49638,33.0,Pelham - Throgs Neck,0.06648132479149038
+Throgs Neck,2018,49638,325.0,Pelham - Throgs Neck,0.6547403199161932
+Throgs Neck,2018,49638,159.0,Pelham - Throgs Neck,0.3203191103589991
+Williamsbridge,2018,54941,378.0,Northeast Bronx,0.6880107751952094
+Williamsbridge,2018,54941,173.0,Northeast Bronx,0.31488323838299265
+Williamsbridge,2018,54941,74.0,Northeast Bronx,0.13468994011758068
+Williamsbridge,2018,54941,92.0,Northeast Bronx,0.16745235798401922
+Williamsburg/Greenpoint,2018,86107,127.0,Williamsburg - Bushwick,0.1474909124693695
+Williamsburg/Greenpoint,2018,86107,58.0,Greenpoint,0.06735805451357033
+Williamsburg/Greenpoint,2018,86107,208.0,Williamsburg - Bushwick,0.2415599196348729
+Williamsburg/Greenpoint,2018,86107,25.0,Greenpoint,0.029033644186883763
+Williamsburg/Greenpoint,2018,86107,73.0,Williamsburg - Bushwick,0.08477824102570058
+Fort Greene/Brooklyn Hts,2018,68650,40.0,Port  Richmond,0.05826656955571741
+Fort Greene/Brooklyn Hts,2018,68650,63.0,Port  Richmond,0.09176984705025491
+Fort Greene/Brooklyn Hts,2018,68650,38.0,Port  Richmond,0.055353241077931534
+Fort Greene/Brooklyn Hts,2018,68650,48.0,Downtown  - Heights - Slope,0.06991988346686089
+Fort Greene/Brooklyn Hts,2018,68650,70.0,Downtown  - Heights - Slope,0.10196649672250546
+Fort Greene/Brooklyn Hts,2018,68650,31.0,Downtown  - Heights - Slope,0.04515659140568099
+Fort Greene/Brooklyn Hts,2018,68650,48.0,Downtown  - Heights - Slope,0.06991988346686089
+Fort Greene/Brooklyn Hts,2018,68650,30.0,Downtown  - Heights - Slope,0.043699927166788055
+Bedford Stuyvesant,2018,70496,393.0,Bedford Stuyvesant - Crown Heights,0.5574784384929641
+Bedford Stuyvesant,2018,70496,277.0,Bedford Stuyvesant - Crown Heights,0.39293009532455747
+Bedford Stuyvesant,2018,70496,148.0,Bedford Stuyvesant - Crown Heights,0.20994098955969134
+Bedford Stuyvesant,2018,70496,369.0,Bedford Stuyvesant - Crown Heights,0.5234339536995006
+Bedford Stuyvesant,2018,70496,79.0,Bedford Stuyvesant - Crown Heights,0.11206309577848389
+East New York,2018,65804,444.0,East New York,0.6747310193909185
+East New York,2018,65804,472.0,East New York,0.7172816242173728
+Sunset Park,2018,41436,89.0,Sunset Park,0.2147890723042765
+Sunset Park,2018,41436,24.0,Sunset Park,0.057920648711265565
+Bay Ridge,2018,52070,116.0,Bensonhurst - Bay Ridge,0.2227770309199155
+Bay Ridge,2018,52070,117.0,Bensonhurst - Bay Ridge,0.22469752256577685
+Bay Ridge,2018,52070,25.0,Bensonhurst - Bay Ridge,0.04801229114653351
+Borough Park,2018,60383,71.0,Borough Park,0.11758276336054851
+Borough Park,2018,60383,74.0,Borough Park,0.12255104913634632
+Borough Park,2018,60383,56.0,Borough Park,0.09274133448155938
+Borough Park,2018,60383,134.0,Borough Park,0.2219167646523028
+Coney Island,2018,46421,95.0,Coney Island - Sheepshead Bay,0.20464875810516792
+Coney Island,2018,46421,100.0,Coney Island - Sheepshead Bay,0.21541974537386097
+Coney Island,2018,46421,113.0,Coney Island - Sheepshead Bay,0.24342431227246292
+Coney Island,2018,46421,162.0,Coney Island - Sheepshead Bay,0.3489799875056548
+Brownsville,2018,36432,60.0,Willowbrook,0.16469038208168643
+East Flatbush,2018,58120,293.0,East Flatbush - Flatbush,0.5041293874741913
+East Flatbush,2018,58120,250.0,East Flatbush - Flatbush,0.4301445285615967
+East Flatbush,2018,58120,185.0,East Flatbush - Flatbush,0.31830695113558155
+East Flatbush,2018,58120,399.0,East Flatbush - Flatbush,0.6865106675843083
+Canarsie,2018,65237,149.0,Canarsie - Flatlands,0.22839799500283584
+Canarsie,2018,65237,278.0,Canarsie - Flatlands,0.42613854101200244
+Canarsie,2018,65237,43.0,Canarsie - Flatlands,0.06591351533638885
+Astoria,2018,87438,47.0,Long Island City - Astoria,0.05375237311008944
+Astoria,2018,87438,40.0,Long Island City - Astoria,0.04574670051922505
+Astoria,2018,87438,37.0,Long Island City - Astoria,0.042315697980283166
+Astoria,2018,87438,41.0,Long Island City - Astoria,0.04689036803220568
+Astoria,2018,87438,41.0,Long Island City - Astoria,0.04689036803220568
+Astoria,2018,87438,60.0,Long Island City - Astoria,0.06862005077883758
+Astoria,2018,87438,14.0,Long Island City - Astoria,0.016011345181728767
+Sunnyside/Woodside,2018,67243,222.0,West Queens,0.3301458887913984
+Sunnyside/Woodside,2018,67243,46.0,West Queens,0.06840860758740687
+Sunnyside/Woodside,2018,67243,20.0,West Queens,0.029742872864089942
+Sunnyside/Woodside,2018,67243,0.0,West Queens,0.0
+Sunnyside/Woodside,2018,67243,108.0,West Queens,0.16061151346608568
+Sunnyside/Woodside,2018,67243,128.0,West Queens,0.19035438633017565
+Sunnyside/Woodside,2018,67243,110.0,West Queens,0.16358580075249468
+Sunnyside/Woodside,2018,67243,36.0,West Queens,0.0535371711553619
+Ridgewood/Glendale,2018,66329,67.0,Ridgewood - Forest Hills,0.1010116238749265
+Ridgewood/Glendale,2018,66329,79.0,Ridgewood - Forest Hills,0.11910325800177901
+Ridgewood/Glendale,2018,66329,21.0,Ridgewood - Forest Hills,0.03166035972199189
+Ridgewood/Glendale,2018,66329,132.0,Ridgewood - Forest Hills,0.19900797539537757
+Flushing,2018,96260,112.0,Flushing - Clearview,0.11635154789112818
+Flushing,2018,96260,106.0,Flushing - Clearview,0.11011842925410346
+Flushing,2018,96260,25.0,Flushing - Clearview,0.025971327654269686
+Flushing,2018,96260,27.0,Flushing - Clearview,0.028049033866611263
+Flushing,2018,96260,29.0,Flushing - Clearview,0.03012674007895284
+Flushing,2018,96260,0.0,Flushing - Clearview,0.0
+Flushing,2018,96260,15.0,Flushing - Clearview,0.015582796592561812
+Fresh Meadows/Briarwood,2018,59030,82.0,Fresh Meadows,0.1389124174148738
+Fresh Meadows/Briarwood,2018,59030,5.0,Fresh Meadows,0.008470269354565475
+Fresh Meadows/Briarwood,2018,59030,85.0,Fresh Meadows,0.1439945790276131
+Woodhaven,2018,46203,28.0,Southwest Queens,0.06060212540311235
+Woodhaven,2018,46203,53.0,Southwest Queens,0.11471116594160553
+Woodhaven,2018,46203,54.0,Southwest Queens,0.11687552756314525
+Woodhaven,2018,46203,46.0,Southwest Queens,0.09956063459082742
+Woodhaven,2018,46203,55.0,Southwest Queens,0.11903988918468497
+Woodhaven,2018,46203,63.0,Southwest Queens,0.13635478215700278
+Woodhaven,2018,46203,102.0,Southwest Queens,0.22076488539705214
+Woodhaven,2018,46203,60.0,Southwest Queens,0.12986169729238362
+Bayside,2018,45165,19.0,Bayside - Little Neck,0.04206797298793313
+Bayside,2018,45165,5.0,Bayside - Little Neck,0.011070519207350825
+Bayside,2018,45165,6.0,Bayside - Little Neck,0.01328462304882099
+Bayside,2018,45165,25.0,Bayside - Little Neck,0.055352596036754124
+Jamaica/St. Albans,2018,76920,110.0,Jamaica,0.14300572022880914
+Jamaica/St. Albans,2018,76920,104.0,Jamaica,0.13520540821632865
+Jamaica/St. Albans,2018,76920,0.0,Jamaica,0.0
+Jamaica/St. Albans,2018,76920,161.0,Jamaica,0.2093083723348934
+Jamaica/St. Albans,2018,76920,148.0,Jamaica,0.19240769630785232
+Jamaica/St. Albans,2018,76920,218.0,Jamaica,0.2834113364534581
+Jamaica/St. Albans,2018,76920,150.0,Jamaica,0.19500780031201248
+Jamaica/St. Albans,2018,76920,58.0,Jamaica,0.07540301612064483
+The Rockaways,2018,45804,266.0,Rockaway,0.5807353069600908
+The Rockaways,2018,45804,117.0,Rockaway,0.25543620644485193
+The Rockaways,2018,45804,37.0,Rockaway,0.08077897126888481
+The Rockaways,2018,45804,41.0,Rockaway,0.08951183302768317
+The Rockaways,2018,45804,0.0,Rockaway,0.0
+St. George,2018,65009,124.0,Stapleton - St. George,0.19074282022489192
+St. George,2018,65009,153.0,Stapleton - St. George,0.23535202818071344
+St. George,2018,65009,38.0,Stapleton - St. George,0.058453444907628174
+South Beach,2018,48732,67.0,South Beach - Tottenville,0.13748666174177132
+South Beach,2018,48732,18.0,South Beach - Tottenville,0.036936715094804236
+South Beach,2018,48732,15.0,South Beach - Tottenville,0.030780595912336863
+South Beach,2018,48732,28.0,South Beach - Tottenville,0.05745711236969547
+South Beach,2018,48732,16.0,South Beach - Tottenville,0.03283263563982598
